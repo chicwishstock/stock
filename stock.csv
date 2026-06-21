@@ -1,8 +1,6 @@
 name,sku,stock
 Ballet Tulle Dress,20110825020S/M,37
-French Romantic Tights,20110822013Onesize,23
 Prairie Check Rabato Coat by Chic+,20111024001XL,45
-White Faux Fur Vest,20131029009M,23
 White Faux Fur Vest,20131029009S,23
 Mid-Length Brown Faux Fur Vest,20131220006L,23
 Mid-Length Brown Faux Fur Vest,20131220006XS,23
@@ -49,6 +47,7 @@ Ballet Tulle Dress,20110825020S/M-Ivory,23
 Ballet Tulle Dress,20110825020S/M-Black,23
 Love Me More Layered Tulle Skirt in Nude Pink for Bridal Showers & Weddings,B20170608009M-L,135
 Love Me More Layered Tulle Skirt in Nude Pink for Bridal Showers & Weddings,B20170608009XS-S,34
+A Fan of Bowknot Crop Top in White for Engagement Photos & Elegant Nights,T20170608010L,23
 A Fan of Bowknot Crop Top in White for Engagement Photos & Elegant Nights,T20170608010M,72
 Beloved Summer Maxi Chiffon Dress,20110506008aS/M,23
 Knit Your Love Cardigan in Ivory for Cozy Everyday Wear & Lazy Weekend Lounging,T20170831041S/M,23
@@ -75,7 +74,7 @@ Knit Your Love Cardigan in Pink for Cozy Everyday Wear & Lazy Weekend Lounging,T
 Knit Your Love Cardigan in Pink for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204019S/M,45
 Knit Your Love Cardigan in Wine for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204020XXL/XXXL,45
 Knit Your Love Cardigan in Wine for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204020L/XL,23
-Knit Your Love Cardigan in Wine for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204020S/M,37
+Knit Your Love Cardigan in Wine for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204020S/M,23
 Knit Your Love Cardigan in Lavender for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204021XXL/XXXL,45
 Knit Your Love Cardigan in Lavender for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204021L/XL,28
 Knit Your Love Cardigan in Lavender for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204021S/M,135
@@ -95,7 +94,7 @@ Unstoppably Charming Stripe Shaggy Knit Cape in Light Tan,T20171228007S/M,23
 Luxurious Night Bowknot Pleated A-Line Skirt for Cocktail Parties & Formal Events,B20180103009XXL,23
 Luxurious Night Bowknot Pleated A-Line Skirt for Cocktail Parties & Formal Events,B20180103009XL,45
 Luxurious Night Bowknot Pleated A-Line Skirt for Cocktail Parties & Formal Events,B20180103009L,72
-Luxurious Night Bowknot Pleated A-Line Skirt for Cocktail Parties & Formal Events,B20180103009M,135
+Luxurious Night Bowknot Pleated A-Line Skirt for Cocktail Parties & Formal Events,B20180103009M,72
 Luxurious Night Bowknot Pleated A-Line Skirt for Cocktail Parties & Formal Events,B20180103009S,45
 Lacy Sweet Dots Tights in Black,20110822011Onesize,37
 Flower Lullaby Maxi Slip Dress,D20150616018S,37
@@ -103,11 +102,12 @@ My Secret Garden Tulle Maxi Skirt in Grey for Romantic Brunches & Evening Plans,
 Gracefulness Bowknot Jumpsuit in Caramel,D180417019M,37
 Your Sassy Start Sleeveless Crochet Lace Top in White,T20170614012XS,45
 Sunflower Blossom Watercolor Chiffon Maxi Slip Dress,D180519017L,45
+Sunflower Blossom Watercolor Chiffon Maxi Slip Dress,D180519017M,37
 Sunflower Blossom Watercolor Chiffon Maxi Slip Dress,D180519017XL,45
 Flower Season Chiffon Maxi Slip Dress in Yellow,D180519018XL,45
 Flower Season Chiffon Maxi Slip Dress in Yellow,D180519018L,45
 Flower Season Chiffon Maxi Slip Dress in Yellow,D180519018S,37
-My Secret Garden Tulle Maxi Skirt in Cream for Romantic Brunches & Evening Plans,B20171213017L/XL,26
+My Secret Garden Tulle Maxi Skirt in Cream for Romantic Brunches & Evening Plans,B20171213017L/XL,25
 My Secret Garden Tulle Maxi Skirt in Pink for Romantic Brunches & Evening Plans,B20171213015L/XL,45
 My Secret Garden Tulle Maxi Skirt in Black for Romantic Brunches & Evening Plans,B20171213014L/XL,45
 Flower Lullaby Maxi Slip Dress,D20150616018L,72
@@ -133,7 +133,7 @@ Cuteness on Sleeves Chunky Cardigan in Grey,T180717022L-XL,23
 Cuteness on Sleeves Chunky Cardigan in Grey,T180717022S-M,37
 Cuteness on Sleeves Chunky Cardigan in Hot Pink,T180717023L-XL,45
 Sweet Knot Bustier Top in Cream,T180718002M,23
-Sweet Knot Bustier Top in Black,T180718001M,37
+Sweet Knot Bustier Top in Black,T180718001M,23
 Sweet Knot Bustier Top in Black,T180718001XS,23
 Sweet Knot Bustier Top in Black,T180718001S,23
 Sweet Knot Bustier Top in Black,T180718001L,37
@@ -217,7 +217,7 @@ Fancy with Bowknot Knit Top in White for Office-to-Dinner & Holidays,T190131006S
 Fancy with Bowknot Knit Top in Cream for Office-to-Dinner & Holidays,T190131007S-M,72
 Fancy with Bowknot Knit Top in Pink for Office-to-Dinner & Holidays,T190131008S-M,65
 Fancy with Bowknot Knit Top in Black for Office-to-Dinner & Holidays,T190131009S-M,29
-Timeless Favorite Chiffon Maxi Skirt in Mustard for Weddings & Resort Getaways,B190131025XL,37
+Timeless Favorite Chiffon Maxi Skirt in Mustard for Weddings & Resort Getaways,B190131025XL,23
 Timeless Favorite Chiffon Maxi Skirt in Mustard for Weddings & Resort Getaways,B190131025M,72
 Timeless Favorite Chiffon Maxi Skirt in Mustard for Weddings & Resort Getaways,B190131025S,45
 Timeless Favorite Chiffon Maxi Skirt in Mustard for Weddings & Resort Getaways,B190131025XS,45
@@ -241,7 +241,7 @@ Tropical Floral Watercolor Maxi Slip Dress in White,D190304013XL,45
 Tropical Floral Watercolor Maxi Slip Dress in White,D190304013L,45
 Tropical Floral Watercolor Maxi Slip Dress in White,D190304013M,45
 Tropical Floral Watercolor Maxi Slip Dress in White,D190304013S,45
-Swing In the Breeze Organza Midi Skirt for Art Gallery Visits & Outdoor Concerts,B190308030XS,45
+Swing In the Breeze Organza Midi Skirt for Art Gallery Visits & Outdoor Concerts,B190308030XS,37
 Swing In the Breeze Organza Midi Skirt for Art Gallery Visits & Outdoor Concerts,B190308030M,23
 Swing In the Breeze Organza Midi Skirt for Art Gallery Visits & Outdoor Concerts,B190308030S,45
 Glam Slam Pleated Midi Skirt in Navy,B190311001S-M,23
@@ -250,7 +250,6 @@ Glam Slam Pleated Midi Skirt in Mint,B190311003S-M,37
 My Secret Garden Tulle Maxi Skirt in Brown,B181206011L-XL,45
 Adorable Stripe Pleated A-Line Midi Skirt,B190316022M,45
 Adorable Stripe Pleated A-Line Midi Skirt,B190316022S,45
-Adorable Stripe Pleated A-Line Midi Skirt,B190316022XXL,23
 Adorable Stripe Pleated A-Line Midi Skirt,B190316022XL,45
 Sleek Beauties Pleated Midi Skirt in Navy,B190328016S-M,23
 Sleek Beauties Pleated Midi Skirt in Mint,B190328020S-M,23
@@ -258,7 +257,7 @@ Timeless Favorite Chiffon Maxi Skirt in Mint for Weddings & Resort Getaways,B190
 Timeless Favorite Chiffon Maxi Skirt in Mint for Weddings & Resort Getaways,B190411004XXL,72
 Timeless Favorite Chiffon Maxi Skirt in Mint for Weddings & Resort Getaways,B190411004XL,135
 Richly Tinting Watercolor Maxi Skirt,B190402008XS-S,45
-Richly Tinting Watercolor Maxi Skirt,B190402008M-L,37
+Richly Tinting Watercolor Maxi Skirt,B190402008M-L,23
 Richly Tinting Watercolor Maxi Skirt,B190402008XL-XXL,45
 Plum Blossom Watercolor Maxi Skirt in Wine,B190304007XS-S,45
 Leopard Watercolor Maxi Skirt in Brown for Vacation & Everyday Casual,B190304006XS-S,37
@@ -268,19 +267,19 @@ Flower Season Chiffon Maxi Skirt in Yellow,B180414029M-L,72
 Flower Season Chiffon Maxi Skirt in Navy,B180414028XS-S,45
 Flower Season Chiffon Maxi Skirt in Navy,B180414028XL-XXL,23
 Sunflower Blossom Watercolor Chiffon Maxi Skirt in Pink,B180414027M-L,23
-Sunflower Blossom Watercolor Chiffon Maxi Skirt in Pink,B180414027XL-XXL,37
+Sunflower Blossom Watercolor Chiffon Maxi Skirt in Pink,B180414027XL-XXL,23
 Pink Rose Panache Maxi Skirt,B20160823005XS-S,45
-Pink Rose Panache Maxi Skirt,B20160823005M-L,23
 Dancing Watercolor Floral Maxi Skirt in Violet,B20160422021XS-S,72
+Dancing Watercolor Floral Maxi Skirt in Violet,B20160422021M-L,37
 Dancing Watercolor Floral Maxi Skirt in Violet,B20160422021XL-XXL,45
+Orange Blossom Watercolor Maxi Skirt,B20160315027M-L,45
 Orange Blossom Watercolor Maxi Skirt,B20160315027XL-XXL,45
 Marvelous Floral Maxi Skirt in Blue,B20150616027XS-S,45
 Marvelous Floral Maxi Skirt in Blue,B20150616027XL-XXL,45
 Marvelous Floral Maxi Skirt in Yellow,B20150616025XS-S,37
 Marvelous Floral Maxi Skirt in Yellow,B20150616025M-L,23
-Marvelous Floral Maxi Skirt in Yellow,B20150616025XL-XXL,23
 Floral and Frill Maxi Skirt for Beach Weddings & Garden Parties,B20130704013XS-S,27
-Floral and Frill Maxi Skirt for Beach Weddings & Garden Parties,B20130704013M-L,72
+Floral and Frill Maxi Skirt for Beach Weddings & Garden Parties,B20130704013M-L,45
 Floral and Frill Maxi Skirt for Beach Weddings & Garden Parties,B20130704013XL-XXL,72
 Shooting Stars Asymmetric Tiered Mesh Skirt in Pink,B190511002S-M,23
 Shooting Stars Asymmetric Tiered Mesh Skirt in Blue,B190511003S-M,23
@@ -293,7 +292,7 @@ Diva Full Lace Crop Top in White for Bridal Showers & Beach Getaways,T190611013X
 Diva Full Lace Crop Top in White for Bridal Showers & Beach Getaways,T190611013L,135
 Diva Full Lace Crop Top in White for Bridal Showers & Beach Getaways,T190611013M,45
 Diva Full Lace Crop Top in White for Bridal Showers & Beach Getaways,T190611013XS,23
-Blooming Sunflower Watercolor Maxi Skirt in Black,B190626001XL-XXL,45
+Blooming Sunflower Watercolor Maxi Skirt in Black,B190626001XL-XXL,37
 Blooming Sunflower Watercolor Maxi Skirt in Black,B190626001M-L,45
 Blooming Sunflower Watercolor Maxi Skirt in Black,B190626001XS-S,45
 Blooming Flowers Watercolor Maxi Skirt in Lilac,B190626002XL-XXL,45
@@ -396,13 +395,13 @@ Shimmer Sequins Embroidered Mesh Tulle Pleated Skirt,B200123027L-XL,72
 Shimmer Sequins Embroidered Mesh Tulle Pleated Skirt,B200123027S-M,135
 Organza Bubble Sleeves Knit Top in Black,T200222014S-M,45
 Organza Bubble Sleeves Knit Top in White,T200222015S-M,45
-Organza Bubble Sleeves Knit Top in Pink,T200222016S-M,23
 Organza Bubble Sleeves Knit Top in Wine,T200222018S-M,45
 My Secret Garden Tulle Maxi Skirt in Turquoise,B191127022L-XL,23
 Swallows Print Maxi Skirt,B200409005XS-S,45
 Swallows Print Maxi Skirt,B200409005M-L,45
 Swallows Print Maxi Skirt,B200409005XL-XXL,37
 Red Floral Blossom Maxi Skirt,B200409006XS-S,45
+Red Floral Blossom Maxi Skirt,B200409006M-L,45
 Red Floral Blossom Maxi Skirt,B200409006XL-XXL,45
 Pinky Blossom Watercolor Maxi Skirt,B200418005XS-S,45
 Bowknot Waist Sleeveless Ruffle Top in White,T200430008S,23
@@ -423,7 +422,6 @@ Pleated Sleeveless Wrapped Knit Dress in Black,D200523014L,45
 Crush on Casual Bowknot Cape Sleeves Top in Blue for Retro Events & Creative Workspaces,T180929007XS,72
 Crush on Casual Bowknot Cape Sleeves Top in Blue for Retro Events & Creative Workspaces,T180929007XL,45
 Crush on Casual Bowknot Cape Sleeves Top in Blue for Retro Events & Creative Workspaces,T180929007XXL,45
-Slant Pockets A-Line Midi Skirt in Dusty Blue,B200711005S-M,23
 Pearl Straps Satin Cami Tank Top in White,T200711020S,23
 Pearl Straps Satin Cami Tank Top in White,T200711020L,72
 I-Shaped Back Pocket Mesh-Insert Low-Impact Sports Bra in Black,T200718014XS,23
@@ -470,7 +468,7 @@ Love Gold Chain Bracelet,G200812004One-size,23
 Pearl Decor Gold Chain Bracelet,G200812005One-size,37
 Gold Coin Layered Pearl Chain Necklace,G200812007One-size,45
 Lock Chain Pendant Layered Necklace in Gold,G200812009One-size,45
-Lock Chain Pendant Layered Necklace in Silver,G200812010One-size,37
+Lock Chain Pendant Layered Necklace in Silver,G200812010One-size,23
 Coin Pearl Double-Layered Chain Necklace,G200812012One-size,23
 Multi-Layered Coin Pearl Gold Lock Necklace,G200812013One-size,45
 6-Pack Diamante Earrings,G200812018One-size,23
@@ -513,7 +511,6 @@ Fuzzy Open Front Waffle Knit Cardigan in Blue,T200915013XS-S,23
 Ruched Long Sleeves Top in Cream,T200901014XXL,45
 Batwing Sleeves Braid Knit Sweater in Tan,T200924016S-M,37
 Classic Simplicity A-Line Midi Skirt in Blue,B180929024XXL,45
-Pink Rose Watercolor Maxi Skirt,B200926020XS-S,23
 Pink Rose Watercolor Maxi Skirt,B200926020XL-XXL,72
 Blooming Hyacinth Watercolor Maxi Skirt,B200926021M-L,37
 Bowknot Soft Faux Fur Vest in Black,T200926030XS,23
@@ -532,6 +529,7 @@ Soft Faux Leather Seamed A-Line Skirt in Taupe,B201013018M,45
 Soft Faux Leather Seamed A-Line Skirt in Ivory,B201013019S,23
 Soft Faux Leather Seamed A-Line Skirt in Ivory,B201013019M,37
 Flowy Floral Chiffon Maxi Skirt,B201013025XS-S,45
+Flowy Floral Chiffon Maxi Skirt,B201013025M-L,45
 Flowy Floral Chiffon Maxi Skirt,B201013025XL-XXL,37
 Exuberant Floral Chiffon Maxi Skirt in Green,B201013026XS-S,45
 Exuberant Floral Chiffon Maxi Skirt in Green,B201013026M-L,45
@@ -582,7 +580,7 @@ Gingham Double-Layered Mesh Tulle Midi Skirt in Green,B210107035S-M,23
 Horsebit Waist Seam Detail Flare Skirt in Black,B210112004XS,23
 Horsebit Waist Seam Detail Flare Skirt in Black,B210112004S,23
 Horsebit Waist Seam Detail Flare Skirt in Brown,B210112005S,23
-Flower Leaves Drop Earrings,G210114005ONE-SIZE,37
+Flower Leaves Drop Earrings,G210114005ONE-SIZE,23
 Golden Double-Layered Necklace,G210115005ONE-SIZE,45
 Astronaut and Golden Star Earrings,G210115009ONE-SIZE,23
 Plastic Shell Drop Earrings,G210115011ONE-SIZE,37
@@ -631,7 +629,6 @@ Tiered Ruffle Sleeveless Midi Lace Dress in Black,D210330023S-M,23
 Tiered Ruffle Sleeveless Midi Lace Dress in Wine,D210330024S-M,23
 Knotted O-Ring Tiered Bikini Set,D210401001S,23
 Drawstring Side One-Piece Swimsuit in Black,D210401002S,23
-Triple Straps Black Bikini Set,D210401006L,23
 Bustier Contrast Line One-Piece Swimsuit,D210401009S,37
 Bustier Contrast Line One-Piece Swimsuit,D210401009M,37
 Bustier Contrast Line One-Piece Swimsuit,D210401009L,23
@@ -648,7 +645,7 @@ Crochet Collar Embroidered Eyelet Cotton Dress,D210430017XS,72
 Crochet Collar Embroidered Eyelet Cotton Dress,D210430017S,135
 Crochet Collar Embroidered Eyelet Cotton Dress,D210430017M,25
 Crochet Collar Embroidered Eyelet Cotton Dress,D210430017L,45
-Crochet Collar Embroidered Eyelet Cotton Dress,D210430017XL,135
+Crochet Collar Embroidered Eyelet Cotton Dress,D210430017XL,72
 Blooming Floret Rectangle Hair Clip,G210514002ONE-SIZE,23
 Asymmetric Straps Rib Knit Tank Top in Yellow,T210520022S-M,23
 Cutout Tie Back Crop Top and Shorts Set in Light Tan,D210521005S,23
@@ -669,6 +666,7 @@ Tiered Shoulder Tropical Print Bikini Set for Mommy & Kids,D210522009XS,23
 Collar V-neck Button Down Midi Dress in White,D210601014S-M,23
 Cross Front Cutout Cami Swimsuit in White,D210607002L,37
 Contrast Stripe Halter Bikini Set,D210607007L,23
+Twist Front High-Waisted Bikini Set in Grey,D210607008M,23
 One-Shoulder O-Ring Bikini Set,D210612006XL,23
 Low-Rise Strapped Bikini Set in Black,D210612012L,23
 Flared Sleeves Tie Neck Top in Cyan,T210618025S-M,45
@@ -691,7 +689,6 @@ Pearl Trim Ruched Draped Asymmetric Cami Dress in Black,D210812018S,23
 Falling 3D Flowers Button Down Maxi Dress,D210812023M,23
 Black Floral Jacquard Crochet Trim Sheer Maxi Dress,D210812025XS,23
 Black Floral Jacquard Crochet Trim Sheer Maxi Dress,D210812025S,23
-Paisley Print Cut Out Maxi Dress,D210812026XS,23
 High Waist Pleated Mini Skirt in Black,B210817022S,23
 High Waist Pleated Mini Skirt in Black,B210817022M,23
 High Waist Pleated Mini Skirt in Brown,B210817023XS,23
@@ -700,7 +697,7 @@ My Secret Garden Tulle Maxi Skirt in Green,B210826015L-XL,45
 My Secret Garden Tulle Maxi Skirt in Red for Romantic Brunches & Evening Plans,B210826018S-M,45
 My Secret Garden Tulle Maxi Skirt in Red for Romantic Brunches & Evening Plans,B210826018L-XL,46
 My Secret Garden Tulle Maxi Skirt in Magenta,B210826019S-M,45
-My Secret Garden Tulle Maxi Skirt in Magenta,B210826019L-XL,45
+My Secret Garden Tulle Maxi Skirt in Magenta,B210826019L-XL,37
 My Secret Garden Tulle Maxi Skirt in Purple for Romantic Brunches & Evening Plans,B210826020L-XL,45
 Stitch Flowers Hand-Knit Chunky Cardigan in Lilac,T210826031XS-S,45
 Stitch Flowers Hand-Knit Chunky Cardigan in Lilac,T210826031M-L,37
@@ -779,7 +776,6 @@ Black Grid Wool-Blend Mini Bud Skirt,B211116032S,37
 Contrast Ball Decorated Faux Fur Suede Coat in Khaki,T211127001S-M,23
 Diamond Print Scarf in Ivory,G211129001FREE,23
 Heart Jacquard Knit Scarf in Red,G211129005FREE,37
-Simplicity Pleated Midi Skirt in Dark Green,B211130022S-M,23
 Plaid Pattern Tweed Mini Bud Skirt in Black,B211202015XS,23
 V-Neck Tie-Waist Wrap Knit Top in Black,T211202032XS-S,135
 V-Neck Tie-Waist Wrap Knit Top in Black,T211202032M-L,23
@@ -791,10 +787,9 @@ Versatile A-Line Belted Midi Skirt in Black,B211207020S,23
 3D Heart Double-Layered Mesh Maxi Skirt in Caramel,B211218025S-M,135
 3D Heart Double-Layered Mesh Maxi Skirt in Caramel,B211218025L-XL,45
 3D Heart Double-Layered Mesh Maxi Skirt in Red for Valentine's Dates & Special Occasions,B211218026S-M,135
-3D Heart Double-Layered Mesh Maxi Skirt in Red for Valentine's Dates & Special Occasions,B211218026L-XL,43
+3D Heart Double-Layered Mesh Maxi Skirt in Red for Valentine's Dates & Special Occasions,B211218026L-XL,42
 3D Heart Double-Layered Mesh Maxi Skirt in Blue,B211218027S-M,27
 3D Heart Double-Layered Mesh Maxi Skirt in Blue,B211218027L-XL,135
-Marguerite Oil Painting Jacquard Midi Skirt,B211221004M,23
 Marguerite Oil Painting Jacquard Midi Skirt,B211221004L,45
 Marguerite Oil Painting Jacquard Midi Skirt,B211221004XXL,45
 Textured Faux Leather Mini Bud Skirt in Black,B211228003XS,23
@@ -850,6 +845,7 @@ Full-Rim Rectangle Sunglasses in Orange,G220321005ONE-SIZE,23
 Full-Rim Rectangle Sunglasses in Blue,G220321006ONE-SIZE,23
 Fringed Woven Straw Shoulder Bag in Tan,G220321013ONE-SIZE,23
 Fringed Woven Straw Shoulder Bag in Cream,G220321014ONE-SIZE,23
+Round Woven Straw Shoulder Bag in Tan,G220321015ONE-SIZE,23
 Round Woven Straw Shoulder Bag in Camel,G220321016ONE-SIZE,23
 Marguerite Oil Painting Canvas Tote Bag,G220321018ONE-SIZE,45
 Side Knot Off-Shoulder Fitted Top in White,T220322012S,135
@@ -871,13 +867,10 @@ Rainforest Vibe Flutter Strap Bikini Cover-Up Set in Orange,D220323016S,23
 Rainforest Vibe Flutter Strap Bikini Cover-Up Set in Orange,D220323016M,23
 Simplicity Pleated Midi Skirt in Mustard,B220326003S-M,37
 Simplicity Pleated Midi Skirt in Magenta,B220326005S-M,23
-Mixture Color Panelled Tulle Maxi Skirt in Black,B220328013S-M,23
-Mixture Color Panelled Tulle Maxi Skirt in Black,B220328013L-XL,135
+Mixture Color Panelled Tulle Maxi Skirt in Black,B220328013L-XL,72
 Exotic Boho Paisley Chiffon Maxi Dress,D220329009S,23
-Exotic Boho Paisley Chiffon Maxi Dress,D220329009L,23
 Golden Button Decorated Pleated Mini Skirt in Ivory,B220402009XS,23
 Trendy Hoop Earrings,G220403002IVORY,37
-Marble Circle Drop Earrings,G220403005TURQUOISE,23
 Marble Circle Drop Earrings,G220403005IVORY,23
 Golden Floral Earrings,G220403007ONE-SIZE,45
 Beaded Diamond Tassel Earrings,G220403008TURQUOISE,23
@@ -893,7 +886,7 @@ My Secret Garden Tulle Maxi Skirt in Pumpkin Halloween Costumes,B220416010S-M,13
 My Secret Garden Tulle Maxi Skirt in Pumpkin Halloween Costumes,B220416010L-XL,45
 My Secret Garden Tulle Maxi Skirt in Blue,B220416011S-M,72
 My Secret Garden Tulle Maxi Skirt in Blue,B220416011L-XL,37
-My Secret Garden Tulle Maxi Skirt in Coral,B220418016L-XL,37
+My Secret Garden Tulle Maxi Skirt in Coral,B220418016L-XL,23
 Slinky Leopard V-Neck One-Piece Swimsuit,D220419001XL,23
 Tropical Leaves Tie Back Bikini Set,D220419002L,23
 Boho Tie-String Bikini Set in Light Yellow,D220419004S,37
@@ -934,12 +927,11 @@ Yellow Woven Tufted Cushion Cover,G22051100517.5*17.5 IN,23
 Creamy Tassel Sackcloth Cushion Cover,G2205110061 - 11.5*19.5 IN,23
 Creamy Tassel Sackcloth Cushion Cover,G2205110062 - 17.5*17.5 IN,23
 Creamy Tassel Sackcloth Cushion Cover,G2205110065 - 17.5*17.5 IN,37
-Pearl Layered Gold Chain Belt,G220511007ONE-SIZE,23
 Pearly Bee Metal Chain Belt,G220511008ONE-SIZE,45
 Silver Leaf-Shape Metal Chain Belt,G220511009ONE-SIZE,37
 Golden Leaf-Shape Metal Chain Belt,G220511010ONE-SIZE,23
 Pearl Beading Metal Chain Belt,G220511011ONE-SIZE,45
-Retro Pearl Draped Chain Belt,G220511012ONE-SIZE,45
+Retro Pearl Draped Chain Belt,G220511012ONE-SIZE,37
 Boho Rattan Braided Belt in Ivory,G220511013ONE-SIZE,23
 Boho Rattan Braided Belt in Caramel,G220511014ONE-SIZE,45
 Wooden Buckle Bead Decor Woven Belt in Brown,G220511016ONE-SIZE,23
@@ -1002,12 +994,12 @@ Flutter Sticky Nude Bra,G220526004BLACK C CUP,23
 Flutter Sticky Nude Bra,G220526004BLACK D CUP,23
 Flutter Sticky Nude Bra,G220526004CREAM C CUP,37
 Bunny Ear Adhesive Lift-Up Nude Bra,G220526003BLACK M,45
-Bunny Ear Adhesive Lift-Up Nude Bra,G220526003CREAM M,37
+Bunny Ear Adhesive Lift-Up Nude Bra,G220526003CREAM M,23
 Bunny Ear Adhesive Lift-Up Nude Bra,G220526003CREAM L,37
 Ruffle Sleeves Deep V-Neck Cover Up in Black,D220614006S-M,37
 Ruffle Sleeves Deep V-Neck Cover Up in Rust Red,D220614008S-M,23
 Ruffle Sleeves Deep V-Neck Cover Up in White,D220614011S-M,23
-Ruffle Sleeves Deep V-Neck Cover Up in Army Green,D220614012S-M,37
+Ruffle Sleeves Deep V-Neck Cover Up in Army Green,D220614012S-M,23
 Glistening Bowkno Earring,G220615001ONE-SIZE,23
 Vintage Distinctive Pearly Earrings,G220615005ONE-SIZE,37
 Distinctive Pearl Trim Earrings,G220615006ONE-SIZE,45
@@ -1033,6 +1025,7 @@ Solid Color Bustier Tank Top in Smoke,T220702005S,23
 Soft V-Neck Crop Tank Top in Black,T220702006S,23
 Soft V-Neck Crop Tank Top in Black,T220702006M,45
 Soft V-Neck Crop Tank Top in White,T220702007M,37
+Soft V-Neck Crop Tank Top in White,T220702007L,37
 Soft V-Neck Crop Tank Top in Taupe,T220702008S,23
 Soft V-Neck Crop Tank Top in Taupe,T220702008M,23
 Soft V-Neck Crop Tank Top in Pea Green,T220702009XS,23
@@ -1078,7 +1071,6 @@ Solid Color Ribbed Tank Top in Sand,T220709012S,23
 Solid Color Ribbed Tank Top in Sand,T220709012M,45
 Solid Color Ribbed Tank Top in Yellow,T220709013XS,37
 Solid Color Ribbed Tank Top in Yellow,T220709013S,23
-Solid Color Ribbed Tank Top in Yellow,T220709013L,23
 Solid Color Ribbed Tank Top in White,T220709014XS,37
 Solid Color Ribbed Tank Top in White,T220709014S,37
 Solid Color Ribbed Tank Top in White,T220709014M,45
@@ -1207,13 +1199,14 @@ Exaggerated Knot Cami Gown in White,D220804056XL,23
 Exaggerated Knot Cami Gown in Black,D220804057XS,23
 Sequined Vine Flutter Sleeve Mesh Gown in Dusty Pink,D220804063XS,23
 Irregular Shape Embossed Earrings,G220804073SILVER,37
-Square Shape Purple Rhinestone Earrings,G220804078ONE-SIZE,45
+Asymmetrical Freshwater Pearl Drop Earrings,G220804076ONE-SIZE,37
+Square Shape Purple Rhinestone Earrings,G220804078ONE-SIZE,37
 Geometric Square Shell Earrings,G220805005GOLD,45
 Geometric Square Shell Earrings,G220805005SILVER,37
 Single Pearl Gold Necklace,G220805010ONE-SIZE,37
 Round Shape Twined Earrings,G220805011GOLD,37
 Round Shape Twined Earrings,G220805011SILVER,23
-Pearl Double-Chain Necklace,G220805012ONE-SIZE,45
+Pearl Double-Chain Necklace,G220805012ONE-SIZE,37
 C-Shape Matte Earrings,G220805014ONE-SIZE,37
 Metal Tube Pendant Necklace,G220805015GOLD,45
 Metal Tube Pendant Necklace,G220805015SILVER,37
@@ -1231,7 +1224,7 @@ Short Sleeve Textured Knit Top in Black,T220806053S-M,37
 Front Pockets Belted Midi Skirt in Ivory,B220808014XS,23
 Ruched Drawstring Slit Hem Cami Dress in Black,D220808072XS-S,23
 Pearly Hollow Heart Spliced Necklace,G220809001ONE-SIZE,23
-Wavy Pattern Triangle Drop Earrings,G220809002ONE-SIZE,45
+Wavy Pattern Triangle Drop Earrings,G220809002ONE-SIZE,37
 Golden Braided Pearly Earrings,G220809012ONE-SIZE,45
 Grape Shape Shimmer Pearl Earrings,G220809013ONE-SIZE,23
 Deep V-Neck Collared Shirt in Indigo,T220809019S,23
@@ -1240,7 +1233,6 @@ Deep V-Neck Collared Shirt in Indigo,T220809019L,23
 Deep V-Neck Collared Shirt in Black,T220809020S,23
 Deep V-Neck Collared Shirt in Black,T220809020M,37
 Deep V-Neck Collared Shirt in Black,T220809020L,23
-Deep V-Neck Collared Shirt in White,T220809021S,23
 Deep V-Neck Collared Shirt in White,T220809021L,23
 Long Sleeve Soft Touch Cotton T-Shirt in Teal,T220809023S-M,23
 Belted Ribbed Longline Sweater in Black,D220809051S-M,23
@@ -1346,7 +1338,7 @@ Star Pendant Moissanite Diamond Necklace,G220831049ONE-SIZE,23
 Turn-Down Collar Knit Tank Top in Black,T220901001S-M,23
 Front Pleats Splicing Belted Hi-Lo Knit Dress in Caramel,D220901016L,45
 Front Pleats Splicing Belted Hi-Lo Knit Dress in Cream,D220901017L,45
-Front Pleats Splicing Belted Hi-Lo Knit Dress in Cream,D220901017XL,45
+Front Pleats Splicing Belted Hi-Lo Knit Dress in Cream,D220901017XL,37
 Fuzzy Leopard Batwing Sleeves Open Front Cardigan in Grey,T220901023M-L,23
 Fuzzy Leopard Batwing Sleeves Open Front Cardigan in Grey,T220901023XL-XXL,23
 Fuzzy Leopard Batwing Sleeves Open Front Cardigan in Camel,T220901025M-L,23
@@ -1500,7 +1492,6 @@ Plaid Pattern Rabato Coat in Camel,T221022018XXXL,37
 Shining Sequin Cape Sleeves Cocktail Dress in White,D221024002S,23
 Shining Sequin Cape Sleeves Cocktail Dress in White,D221024002M,23
 Leaves Branch Sequined Mesh Panelled Gown in Apricot,D221024003M,23
-Spliced Organza Cold-Shoulder Gown in Red,D221024008M,23
 Feather Trim Neckline Slit Gown in White,D221024010XS,23
 Feather Trim Neckline Slit Gown in White,D221024010M,23
 Feather Trim Neckline Slit Gown in White,D221024010XL,23
@@ -1529,7 +1520,6 @@ Puff Sleeves Button Up Satin Midi Dress in Lilac,D221028007XS,37
 Puff Sleeves Button Up Satin Midi Dress in Emerald,D221028008XS,23
 Puff Sleeves Button Up Satin Midi Dress in Emerald,D221028008L,23
 Gleaming Heart Shape Clutch Handbag in Gold,G221029006ONE-SIZE,37
-Gleaming Heart Shape Clutch Handbag in Black,G221029008ONE-SIZE,23
 Bronzing Rhinestones Shoulder Bag in Turquoise,G221029009ONE-SIZE,23
 Pearl Trim O-Ring Velvet Belt in Black,G221029012ONE-SIZE,23
 Gold Trim Red Crystal Gift Box Earrings,G221029013ONE-SIZE,23
@@ -1592,7 +1582,6 @@ Bee Badge Solid Color Blazer and Skirt Set in Black,D221122017S,23
 Bee Badge Solid Color Blazer and Skirt Set in Black,D221122017L,23
 Luxury Diamond Trim Drop Earrings in Gold,G221123021ONE-SIZE,45
 Luxury Diamond Trim Drop Earrings in Silver,G221123022ONE-SIZE,45
-Pearl Trim Bottle Oil Spilling Earrings,G221123027ONE-SIZE,23
 Hollow Heart Glittering Rhinestone Earrings,G221123032ONE-SIZE,45
 Hollow Golden Star Tassel Drop Earrings,G221123035ONE-SIZE,23
 Simplicity Gleaming Diamond Tassel Drop Earrings,G221123037ONE-SIZE,37
@@ -1600,9 +1589,9 @@ Asymmetric Star World Diamond Drop Earring,G221123038ONE-SIZE,23
 Gold Bead Diamond String Earrings,G221123045ONE-SIZE,37
 Bowknot Rhinestone Tassel Dangle Earrings,G221123046ONE-SIZE,23
 Multiple Loops Tassel Dangle Earrings,G221123047ONE-SIZE,23
-Asymmetric Heart Rhinestone Tassel Dangle Earrings,G221123054ONE-SIZE,45
+Asymmetric Heart Rhinestone Tassel Dangle Earrings,G221123054ONE-SIZE,37
 Ruched Long Sleeves Top in Dark Green,T221123003XS,45
-Ruched Long Sleeves Top in Dark Green,T221123003S,37
+Ruched Long Sleeves Top in Dark Green,T221123003S,23
 Ruched Long Sleeves Top in Teal,T221123004XS,45
 Ruched Long Sleeves Top in Teal,T221123004S,135
 Ruched Long Sleeves Top in Teal,T221123004M,23
@@ -1680,6 +1669,7 @@ Rhinestone Floral Applique Headband in Pink,G230107006ONE-SIZE,23
 Full Rhinestone Crystal Headband in Lilac,G230107009ONE-SIZE,23
 Full Rhinestone Crystal Headband in Red,G230107011ONE-SIZE,23
 Full Rhinestone Crystal Headband in Pink,G230107012ONE-SIZE,23
+Organza Bowknot Pearl Hair Clip in Cream,G230107018ONE-SIZE,37
 Organza Bowknot Pearl Hair Clip in Black,G230107021ONE-SIZE,37
 Heart Patch Folded Beanie Hat in Black,G230107022ONE-SIZE,23
 Heart Patch Folded Beanie Hat in White,G230107023ONE-SIZE,23
@@ -1715,7 +1705,7 @@ Swan Cloud Midi Skirt in Cream,B230119010S-M,23
 Swan Cloud Midi Skirt in Purple,B230119011S-M,23
 Swan Cloud Midi Skirt in Light Tan,B230119012S-M,23
 Your Sassy Start Sleeveless Crochet Lace Top in White,T20170614012S,45
-Your Sassy Start Sleeveless Crochet Lace Top in White,T20170614012L,37
+Your Sassy Start Sleeveless Crochet Lace Top in White,T20170614012L,23
 Slanted Halter Neck Ribbed Sports Bra in White,T230204015XS,23
 Slanted Halter Neck Ribbed Sports Bra in Navy,T230204016XS,23
 Slanted Halter Neck Ribbed Sports Bra in Black,T230204017XS,23
@@ -1852,11 +1842,9 @@ Geometric Pattern Twisted Front Cutout Swimsuit in Pink,D230404015M,23
 Halter Neck Self-Tie Pleated Jumpsuit in Pink,D230406005S,23
 Halter Neck Self-Tie Pleated Jumpsuit in Pink,D230406005XL,23
 Tie-String Pleated Sleeveless Midi Dress in Black,D230406022L,23
-My Secret Garden Tulle Maxi Skirt in Army Green,B191127020L-XL,23
-Satin Tie Back Sleeveless Top in White for Date Nights & Parties,T230408005S,23
 Satin Tie Back Sleeveless Top in White for Date Nights & Parties,T230408005M,45
 Satin Tie Back Sleeveless Top in White for Date Nights & Parties,T230408005L,45
-Satin Tie Back Sleeveless Top in Pink for Date Nights & Parties,T230408008S,45
+Satin Tie Back Sleeveless Top in Pink for Date Nights & Parties,T230408008S,37
 Queen of the Household Crew Neck T-Shirt,T230411023XS-S,45
 Queen of the Household Crew Neck T-Shirt,T230411023M-L,23
 Queen of the Household Crew Neck T-Shirt,T230411023XL-XXL,23
@@ -1878,7 +1866,6 @@ Tie Waist Knit Tank Top in Oatmeal,T230420014XL-XXL,37
 Fancy Bowknot Pearl Satin Headband in Lilac,G230421004ONE-SIZE,37
 Retro Full Rim Cat-Eye Sunglasses in Print,G230421017ONE-SIZE,37
 Exotic Paisley Chiffon Maxi Skirt in Purple,B230422003XS-S,45
-Exotic Paisley Chiffon Maxi Skirt in Purple,B230422003M-L,23
 Exotic Paisley Chiffon Maxi Skirt in Green,B230422004M-L,45
 Tie-Strap Bustier Crop Top in Black,T230422015XS,23
 Tie-Strap Bustier Crop Top in Lime,T230422017M,23
@@ -1907,7 +1894,7 @@ Leopard Printed Double-Layered Mesh Tulle Pleated Skirt,B190918030XXS-XS,22
 3D Posy Double-Layered Mesh Midi Skirt in Dusty Blue,B200620024XXS-XS,45
 Knit Your Love Cardigan in Lavender for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204021XXS/XS,72
 Knit Your Love Cardigan in Pink for Cozy Everyday Wear & Lazy Weekend Lounging,T20171204019XXS/XS,37
-Love Me More Layered Tulle Skirt in Nude Pink for Bridal Showers & Weddings,B20170608009XL-XXL,27
+Love Me More Layered Tulle Skirt in Nude Pink for Bridal Showers & Weddings,B20170608009XL-XXL,28
 Key to My Heart Hand Knit Chunky Cardigan,T190102001XXS-XS,45
 Classy Open Front Knit Coat in Black for Office & City Outings,T220811045XL-XXL,72
 Cuteness on Sleeves Chunky Cardigan in Hot Pink,T180717023XXS-XS,23
@@ -1935,13 +1922,12 @@ Contrast Color Fuzzy Hearts Knit Sweater,T191226011XXS-XS,135
 V-Neck Tie-Waist Wrap Knit Top in Black,T211202032XL-XXL,23
 Irregular Natural Stone Necklace in White,G230429002ONE-SIZE,37
 Gold Plated Leaf Pendant Necklace,G230429004ONE-SIZE,37
-Little Flower Embroidered Belt,G230429010ONE-SIZE,37
+Little Flower Embroidered Belt,G230429010ONE-SIZE,23
 Shimmer Seashell Chain Belt,G230429013ONE-SIZE,45
 Oil Spill Mini Heart Chain Belt in Gold,G230429014ONE-SIZE,23
 Oil Spill Mini Heart Chain Belt in Silver,G230429015ONE-SIZE,37
 Hollow Out Carved Chain Belt in Gold,G230429016ONE-SIZE,37
 Engraving Silver Heart Chain Belt,G230429018ONE-SIZE,45
-Front Tie Flap Pocket Crop Shirt in Ivory,T230502005M,23
 Cutout Waist Side Ruched Shirt Dress in Black,D230502015XS,23
 Cutout Waist Side Ruched Shirt Dress in Yellow,D230502018S,23
 Cutout Waist Side Ruched Shirt Dress in Oatmeal,D230502019XS,23
@@ -1982,7 +1968,7 @@ Faux Wrap Soft Mesh Elbow Sleeve Top in Red,T230509028XL,23
 Ruched Elegance Cami Maxi Dress in Black,D230512007XS,37
 Exotic Garden Cutwork Embroidery Midi Dress,D230513015XS,28
 Exotic Garden Cutwork Embroidery Midi Dress,D230513015S,72
-Exotic Garden Cutwork Embroidery Midi Dress,D230513015M,25
+Exotic Garden Cutwork Embroidery Midi Dress,D230513015M,26
 Exotic Garden Cutwork Embroidery Midi Dress,D230513015L,72
 Exotic Garden Cutwork Embroidery Midi Dress,D230513015XL,135
 3D Flower Lace-Up Bustier Crop Top in White,T230503032XS-S,23
@@ -1997,10 +1983,9 @@ Irregular Hem Seam Detailing Midi Skirt in Lime,B230516023S,45
 My Secret Garden Tulle Maxi Skirt in Dark Green,B230516028S-M,23
 My Secret Garden Tulle Maxi Skirt in Dark Green,B230516028L-XL,23
 My Secret Garden Tulle Maxi Skirt in Lilac,B230516029L-XL,23
-3D Floral Stretchy Tube Top in Peach,T230518022S-M,23
 Tie Knot Cami Crop Top in White,T230518028XL,45
 Tie Knot Cami Crop Top in Black,T230518029M,37
-Ebullient Red Flower Printed Maxi Dress for Vacation Dinners & Garden Parties,D230520020XS,47
+Ebullient Red Flower Printed Maxi Dress for Vacation Dinners & Garden Parties,D230520020XS,46
 Ebullient Red Flower Printed Maxi Dress for Vacation Dinners & Garden Parties,D230520020S,72
 Ebullient Red Flower Printed Maxi Dress for Vacation Dinners & Garden Parties,D230520020M,45
 Ebullient Red Flower Printed Maxi Dress for Vacation Dinners & Garden Parties,D230520020XL,72
@@ -2009,13 +1994,12 @@ Off-Shoulder Tiered Ruffle Embroidered Eyelet Dress,D230523023M-L,37
 Check Halter Neck Tie Waist Maxi Dress in Blue,D230523024XS,23
 Check Halter Neck Tie Waist Maxi Dress in Blue,D230523024M,23
 Check Halter Neck Tie Waist Maxi Dress in Blue,D230523024L,45
-Check Halter Neck Tie Waist Maxi Dress in Hot Pink,D230523025XS,23
 Check Halter Neck Tie Waist Maxi Dress in Hot Pink,D230523025S,37
 Check Halter Neck Tie Waist Maxi Dress in Hot Pink,D230523025M,23
 Check Halter Neck Tie Waist Maxi Dress in Hot Pink,D230523025L,23
 Short Sleeve Detachable Bowknot Spliced Knit Top in Cream,T230525014XS-S,45
-Short Sleeve Detachable Bowknot Spliced Knit Top in Cream,T230525014M-L,45
-Short Sleeve Detachable Bowknot Spliced Knit Top in Cream,T230525014XL-XXL,24
+Short Sleeve Detachable Bowknot Spliced Knit Top in Cream,T230525014M-L,37
+Short Sleeve Detachable Bowknot Spliced Knit Top in Cream,T230525014XL-XXL,23
 Solid Color Comfy Maxi Skirt in Blue,B230525026S,45
 Solid Color Comfy Maxi Skirt in Blue,B230525026M,23
 Solid Color Comfy Maxi Skirt in Green,B230525027S,23
@@ -2024,11 +2008,11 @@ Embossed Heart Texture Pleated Midi Skirt in Black,B230525028XXL,37
 Watercolor Wild Flowers Printed Chiffon Maxi Skirt,B230525032XL-XXL,45
 Braided Tassel Pendant Envelope Bag,G230526024ONE-SIZE,23
 Raffia Solid Color Envelope Bag in Lilac,G230526023ONE-SIZE,45
-Raffia Solid Color Envelope Bag in Yellow,G230526021ONE-SIZE,37
+Raffia Solid Color Envelope Bag in Yellow,G230526021ONE-SIZE,23
 Raffia Solid Color Envelope Bag in Cream,G230526020ONE-SIZE,45
 Raffia Solid Color Envelope Bag in Green,G230526019ONE-SIZE,23
 Raffia Solid Color Envelope Bag in Orange,G230526018ONE-SIZE,45
-Sequin Floral Embroidered Shoulder Bag in Violet,G230526016ONE-SIZE,45
+Sequin Floral Embroidered Shoulder Bag in Violet,G230526016ONE-SIZE,37
 Sequin Floral Embroidered Shoulder Bag in Blue,G230526015ONE-SIZE,45
 Sequin Floral Embroidered Shoulder Bag in Orange,G230526014ONE-SIZE,45
 Sequin Floral Embroidered Bamboo Handle Tote Bag in Violet,G230526013ONE-SIZE,23
@@ -2039,7 +2023,6 @@ Twist Front Ribbed Knit Tube Crop Top in Black,T230527021XS-S,23
 Twist Front Ribbed Knit Tube Crop Top in Grey,T230527024XS-S,23
 Cut Out Back Faux-Wrap Sleeveless Knitted Midi Dress in Blue,D230530023XS,23
 Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Regular XS,37
-Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Regular S,23
 Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Regular M,37
 Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Regular XL,45
 Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Petite XS,37
@@ -2047,7 +2030,6 @@ Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B21
 Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Petite M,45
 Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Petite L,45
 Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Petite XL,45
-Lavender Peony Print Embossed Midi Skirt for Afternoon Teas & Bridal Showers,B210319014Petite XXL,23
 Dancing in Flowers Double-Layered Mesh Tulle Skirt,B230603018S,23
 Dancing in Flowers Double-Layered Mesh Tulle Skirt,B230603018L,37
 Dancing in Flowers Double-Layered Mesh Tulle Skirt,B230603018XL,45
@@ -2087,6 +2069,7 @@ Rib Knit Bustier Tube Top in White,T230706015XS-S,37
 Rib Knit Bustier Tube Top in White,T230706015M-L,23
 Beaded Strap Knit Crop Top in Red,T230706018S-M,23
 Floret Embroidered Eyelet Off-Shoulder Dolly Top in Sage,T230706020S-M,23
+Eyelet Embroidery Panelled Button Down Dress,D230708008XS,23
 Sequined Floral Cocktail Dress in Black,D230710001M,23
 Shiny Rhinestone High Slit Mermaid Gown in Dark Green,D230710007M,23
 One Side Off-Shoulder Satin Gown in Black,D230710012S,23
@@ -2392,7 +2375,6 @@ Christmas Vibe MAMA Printed Sweatshirt,T231106008Pink XL-XXL,23
 Animal Family Cartoon Print Sweatshirt,T231106009Khaki XS-S,23
 Alluring Side Knot Knit Top in Red,T231107023S-M,37
 Sequined Flower Pom-Pom Knit Cardigan,T231107030S-M,23
-Pearly Bowknot Hair Claw in Black,G231108003ONE-SIZE,23
 Pearly Bowknot Hair Claw in Pink,G231108005ONE-SIZE,37
 Pearly Bowknot Hair Claw in Brown,G231108006ONE-SIZE,37
 Little Bowknot Hollow Out Hair Clip,G231108013RED,37
@@ -2426,6 +2408,8 @@ Two-Tone Striped Sleeves Chunky Hand Knit Sweater in Red,T231109024S-M,72
 Two-Tone Striped Sleeves Chunky Hand Knit Sweater in Red,T231109024L-XL,45
 Festive Striped Chunky Hand Knit Sweater,T231109025S-M,23
 Festive Striped Chunky Hand Knit Sweater,T231109025L-XL,45
+Solid Color A-Line Knit Midi Skirt in Ivory,B231111014S-M,23
+Solid Color A-Line Knit Midi Skirt in Dark Green,B231111015S-M,23
 Basic Soft Faux Leather A-Line Skirt in Olive,B231115010S-M,37
 Basic Soft Faux Leather A-Line Skirt in Black,B231115012S-M,23
 Comfy Chunky Straight-Leg Cuffed Pants in Rust Red,B231115015XS,23
@@ -2533,6 +2517,7 @@ Faux Leather Pleat Detail Mini Skirt in Brown,B231227022S,23
 Tailored Comfort Pleated Wide-Leg Pants in Black,B231228001M,45
 Tailored Comfort Pleated Wide-Leg Pants in Grey,B231228002S,23
 Adorable Bowknot Buttoned Knit Cardigan in Red,T231228012S-M,37
+Full Pearl Embellished Sheer Mesh Top in Tan for Bridal Events & Cocktail Parties,T230912012XS,23
 Glittering Triple-Heart Drop Earrings,G231229021one-size,45
 Beaded 3D Flower Clutch in Champagne,G231229003ONE-SIZE,37
 Beaded 3D Flower Clutch in Silver,G231229004ONE-SIZE,23
@@ -2629,7 +2614,7 @@ Lovely Heart Check Print Scarf in Black,G240131022ONE-SIZE,37
 Ripped Details Straight Leg Jeans in Mustard,B240201018L,23
 Wavy Line Color Block Woven Handbag in Blue,G240205003ONE-SIZE,23
 Dainty 3D Floral Translucent Clutch in White,G240205006ONE-SIZE,23
-Exquisite Flower Ball Clutch in Pink,G240205008ONE-SIZE,23
+Elegant Rose Petal Clutch in Black,G240205013ONE-SIZE,23
 Elegant Rose Petal Clutch in Pink,G240205012ONE-SIZE,23
 Full Beaded Rhinestone Oval Clutch in Multicolor,G240205018ONE-SIZE,23
 Full Beaded Rhinestone Oval Clutch in Purple,G240205022ONE-SIZE,23
@@ -2656,7 +2641,7 @@ Bubble Sleeve Floret Lace Bustier Crop Top in White,T240301001S,23
 Bubble Sleeve Floret Lace Bustier Crop Top in White,T240301001M,23
 Bubble Sleeve Floret Lace Bustier Crop Top in Green,T240301003XS,23
 Floral Mesh Bustier Crop Top in White,T240301007S,37
-Floral Mesh Bustier Crop Top in White,T240301007M,23
+Floral Mesh Bustier Crop Top in White,T240301007M,37
 Floral Mesh Bustier Crop Top in White,T240301007L,23
 Floral Lace Bustier Crop Top in Indigo,T240301009L,23
 Knotted Front Fitted Knit Dress in Ivory,D220817021XL,23
@@ -2757,7 +2742,7 @@ Shell Shape Woven Shoulder Bag,G240409005ONE-SIZE,23
 Semicircle Woven Straw Handbag in Green,G240409006ONE-SIZE,23
 Semicircle Woven Straw Handbag in Lilac,G240409007ONE-SIZE,37
 Contrast Round Handle Woven Handbag,G240409008ONE-SIZE,37
-Watermelon Woven Straw Handbag,G240409010ONE-SIZE,37
+Watermelon Woven Straw Handbag,G240409010ONE-SIZE,23
 Lemon Pattern Handmade Woven Straw Beach Bag,G240409013ONE-SIZE,45
 Grape Shape Zircon Earrings,G240409014ONE-SIZE,37
 Orange Shape Zircon Earrings,G240409015ONE-SIZE,45
@@ -2773,10 +2758,10 @@ Floral Cutwork Lace Bustier Crop Top in White,T240409029M,37
 Floral Cutwork Lace Bustier Crop Top in White,T240409029L,37
 Floral Cutwork Lace Bustier Crop Top in Black,T240409030XS,23
 Floral Cutwork Lace Bustier Crop Top in Black,T240409030L,23
+Floral Cutwork Lace Bustier Crop Top in Red,T240409031XS,23
 Floral Cutwork Lace Bustier Crop Top in Red,T240409031M,37
 Pearl Embellished Bustier Crop Top,T240409032M,37
-Pearl Embellished Bustier Crop Top,T240409032L,23
-Bowknot Rhinestone Embellished Bustier Crop Top in Apricot,T240409034S,45
+Bowknot Rhinestone Embellished Bustier Crop Top in Apricot,T240409034S,37
 Pearl Mesh One Shoulder Corset Top,T240409035S,37
 Solid Color Openwork Knit Sleeveless Top in Oatmeal,T240411001S-M,23
 Solid Color Openwork Knit Sleeveless Top in Light Blue,T240411005S-M,37
@@ -2784,7 +2769,7 @@ Square Neck Sleeveless Knit Top with Sash in Olive,T240411009S-M,45
 Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028XS,28
 Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028S,23
 Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028M,34
-Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028L,25
+Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028L,24
 Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028XL,135
 Sequined Tie-Neck Mesh Corset Top,T240413001M,45
 Choker Neck Ruched Cap Sleeves Knit Top in Cream,T240413005S-M,23
@@ -2821,7 +2806,7 @@ Playful Fringe Textured Cami Dress in Cream,D240430006S,23
 Exotic Printed Button Down Shirt Dress,D240430007XS,45
 Exotic Printed Button Down Shirt Dress,D240430007S,45
 Blossoming Day Watercolor Pleated Maxi Dress in White,D240430009S-M,45
-Blossoming Day Watercolor Pleated Maxi Dress in White,D240430009L-XL,45
+Blossoming Day Watercolor Pleated Maxi Dress in White,D240430009L-XL,37
 Blossoming Day Watercolor Pleated Maxi Dress in Pink for Garden Parties & Romantic Date,D240430010S-M,45
 Blossoming Day Watercolor Pleated Maxi Dress in Pink for Garden Parties & Romantic Date,D240430010L-XL,37
 3D Floral Applique Tie-Strap Mesh Tulle Maxi Dress in Black,D240430015XS,35
@@ -2848,7 +2833,7 @@ Optimal Halter V-Neck Sleeveless Top in Blue,T240507007M,23
 Optimal Halter V-Neck Sleeveless Top in Blue,T240507007L,23
 Optimal Halter V-Neck Sleeveless Top in Blue,T240507007XL,23
 Cheerful Daisy Field Jacquard Pleated Midi Skirt for Weekend Outings & Garden Parties,B240507030S,45
-Cheerful Daisy Field Jacquard Pleated Midi Skirt for Weekend Outings & Garden Parties,B240507030L,37
+Cheerful Daisy Field Jacquard Pleated Midi Skirt for Weekend Outings & Garden Parties,B240507030L,23
 Chic Tweed Sleeveless Top and Pleated Mini Skirt Set in Mint,D240509002M,37
 Palm Tree Print V-Neck Mini Dress,D240509008S,23
 Tiered Mesh Spliced Sleeveless Maxi Dress in White,D240509011S-M,45
@@ -2891,7 +2876,7 @@ Sophisticated Elbow Sleeve Top in Smoke,T240520006L,23
 Off-Shoulder Ruched Short Sleeve Top in White,T240520008XS,23
 Flock Dots Elbow Sleeves Ribbed Top in Caramel,T220727027XL,37
 Eyelet Embroidery V-Neck Cotton Dress in White,D240521005XS,23
-Belted Cutwork Lace Trim Bubble Sleeve Midi Dress in Black,D240521022S,37
+Belted Cutwork Lace Trim Bubble Sleeve Midi Dress in Black,D240521022S,23
 Belted Cutwork Lace Trim Bubble Sleeve Midi Dress in Black,D240521022M,23
 Belted Cutwork Lace Trim Bubble Sleeve Midi Dress in Magenta,D240521025S,23
 Tiered Lace Off-Shoulder Spliced Dress in Grey,D240521028XS-S,23
@@ -2906,11 +2891,10 @@ Flowy Chiffon Spliced V-Neck Crop Top in White,T240523009L,23
 Flowy Chiffon Spliced V-Neck Crop Top in White,T240523009XL,23
 Embroidered Floral Slit Back Midi Skirt in Black,B240523027M,23
 Color Block Star Acrylic Earrings,G240524007ONE-SIZE,45
-Fireworks Zircon Earrings,G240524010ONE-SIZE,45
+Fireworks Zircon Earrings,G240524010ONE-SIZE,37
 Color Block Beaded Star Earrings,G240524004ONE-SIZE,23
 Button Front Denim Tube Top,T240525017M,23
 V-Neck Buttoned Down Ruched Vest in White,T240525019XS,23
-Paisley Cutwork Lace Asymmetric Sleeveless Top,T240525020S-M,23
 Bohemian Cutwork Crochet Sleeveless Top,T240525021S-M,23
 Belted Cutwork Lace Trim Bubble Sleeve Midi Dress in Magenta,D240521025XL,23
 Belted Cutwork Lace Trim Bubble Sleeve Midi Dress in Green,D240521024XL,23
@@ -2976,7 +2960,7 @@ Wide Leg Roll-Hem Pleated Pants in Ivory,B240613024S,37
 Wide Leg Roll-Hem Pleated Pants in Ivory,B240613024M,23
 Embossed Texture Drawstring Waist Skater Skirt in Black,B240613032S-M,37
 Double-Breasted Pleated Preppy Mini Skorts in Smoke,B240615008XS,23
-Blossom Lace Puff Sleeve V-Neck Crop Top in Nude Pink,T240615019XS,23
+Blossom Lace Puff Sleeve V-Neck Crop Top in Nude Pink,T240615019XS,37
 Blossom Lace Puff Sleeve V-Neck Crop Top in Nude Pink,T240615019M,37
 Blossom Lace Puff Sleeve V-Neck Crop Top in Nude Pink,T240615019L,23
 Blossom Lace Puff Sleeve V-Neck Crop Top in Black,T240615020XS,23
@@ -2985,18 +2969,20 @@ Cascading Ruffle Trim Ruched Satin Dress in Mint,D240618012M,23
 Cinched Waist Faux-Wrap Sheath Dress in Green,D240618015XS,23
 Flowy Spaghetti Strap Bustier Midi Dress in Cream,D240618018S,23
 Floret Embroidery Tie-Shoulder Shirred Dress in Hot Pink,D240618025M,23
-Cap Sleeve Crisscross Cotton Top in White,T240620010S-M,37
+Cap Sleeve Crisscross Cotton Top in White,T240620010S-M,23
 Yellow Embroidered Floral Organza Cami Dress,D240622016XS,23
 Ebullient Blue Flower Printed Maxi Dress,D240622017XS,45
 Ebullient Blue Flower Printed Maxi Dress,D240622017S,37
 Ebullient Blue Flower Printed Maxi Dress,D240622017M,45
 Ebullient Blue Flower Printed Maxi Dress,D240622017L,45
+Ebullient Blue Flower Printed Maxi Dress,D240622017XXL,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Oatmeal,D240624001S,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Oatmeal,D240624001M,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Oatmeal,D240624001L,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Black,D240624002XL,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Navy,D240624003M,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Navy,D240624003L,23
+Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Navy,D240624003XL,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Green,D240624004S,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Green,D240624004XL,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Tan,D240624005S,23
@@ -3005,6 +2991,7 @@ Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Brown,D240624006S,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Brown,D240624006M,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Brown,D240624006XL,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Candy Pink,D240624007XL,23
+Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Dusty Blue,D240624008S,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Dusty Blue,D240624008M,23
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Dusty Blue,D240624008L,37
 Daily Comfort Sleeveless Top and Straight-Leg Pants Set in Dusty Blue,D240624008XL,23
@@ -3058,9 +3045,8 @@ Ruffle Halter Top and Twist Front Maxi Skirt Set in Nude Pink,D240711006S,23
 Ruffle Halter Top and Twist Front Maxi Skirt Set in Nude Pink,D240711006M,37
 Bowknot Shoulder Sleeveless Denim Top and Shorts Set,D240711007XS,45
 Bowknot Shoulder Sleeveless Denim Top and Shorts Set,D240711007S,37
-Flower Crochet Patchwork Buttoned Crop Cardigan,T240711029S-M,37
+Flower Crochet Patchwork Buttoned Crop Cardigan,T240711029S-M,23
 Hollow Out Crochet Flare Hem Pants,B240711031S-M,23
-Diamond Shape Stitch Crochet Flower Pants in Linen,B240711033S-M,23
 Cutwork Sleeve Shirred Bodice Midi Dress in Pumpkin,D240709029XL,23
 Sequined Dandelion Mesh Midi Skirt in Black,B240713001S-M,23
 Sequined Dandelion Mesh Midi Skirt in Ivory,B240713002S-M,23
@@ -3129,7 +3115,7 @@ Velvet Bats Mesh Tulle Midi Skirt in Purple Halloween Costumes,B240809029S-M,45
 Velvet Bats Mesh Tulle Midi Skirt in Purple Halloween Costumes,B240809029L-XL,45
 Velvet Bats Mesh Tulle Midi Skirt in Purple Halloween Costumes,B240809029XXL-XXXL,37
 Plaid Charm Flare Midi Skirt in Army Green,B240813002XS,23
-Rippling Attraction Panelled Mesh Tulle Skirt in Cream for Brunches & Casual Outings,B240813003S-M,72
+Rippling Attraction Panelled Mesh Tulle Skirt in Cream for Brunches & Casual Outings,B240813003S-M,45
 Cobweb Mystique Mesh Tulle Midi Skirt in Pumpkin Halloween Costumes,B240813006L-XL,45
 Cobweb Mystique Mesh Tulle Midi Skirt in Purple Halloween Costumes,B240813007S-M,72
 Cobweb Mystique Mesh Tulle Midi Skirt in Purple Halloween Costumes,B240813007L-XL,45
@@ -3224,7 +3210,7 @@ Inventive Contrast Striped Belted Ribbed Knit Dress in Cream,D240910022M,23
 Inventive Contrast Striped Belted Ribbed Knit Dress in Cream,D240910022L,45
 Inventive Contrast Striped Belted Ribbed Knit Dress in Black,D240910023S,23
 Inventive Contrast Striped Belted Ribbed Knit Dress in Black,D240910023M,23
-Inventive Contrast Striped Belted Ribbed Knit Dress in Black,D240910023L,45
+Inventive Contrast Striped Belted Ribbed Knit Dress in Black,D240910023L,37
 Contrast Trim Golden Button Knit Cardigan and Skirt Set in Taupe,D240910029S-M,23
 Moonlight Sonata Tie-Neck Mesh Tulle Cloak,T240910030S-M,23
 Moonlight Sonata Tie-Neck Mesh Tulle Cloak,T240910030L-XL,45
@@ -3250,6 +3236,7 @@ Mystic Bats Patch Buttoned Knit Cardigan in Purple Halloween Costumes,T240913004
 Mystic Bats Patch Buttoned Knit Cardigan in Pumpkin Halloween Costumes,T240913005S-M,23
 Mystic Bats Patch Buttoned Knit Cardigan in Pumpkin Halloween Costumes,T240913005L-XL,45
 Artisanal Charm Boat Neck Cable Knit Dress,D240822010L-XL,87
+Solid Color A-Line Knit Midi Skirt in Brown,B240914013S-M,23
 Wondrous Embossed Texture Tie-Strap Midi Dress in Black,D240914017S-M,23
 Floral Cutwork Crochet Buttoned Top,T240919006S-M,37
 Sheer Tie-Strap One Shoulder Knit Top in Pumpkin,T240919016S-M,23
@@ -3318,14 +3305,13 @@ Sparkly Rhinestones Oval Clutch in Champagne,G240929002ONE-SIZE,45
 Rhinestone Decor Drawstring Shoulder Bag in Apricot,G240929008ONE-SIZE,37
 Rhinestone Decor Drawstring Shoulder Bag in Emerald,G240929009ONE-SIZE,23
 Ruched Knotted Satin Clutch in Burgundy,G240929013ONE-SIZE,23
-Ruched Knotted Satin Clutch in Champagne,G240929015ONE-SIZE,45
+Ruched Knotted Satin Clutch in Champagne,G240929015ONE-SIZE,23
 Shining Gift Knotted Clutch in Silver,G240929017ONE-SIZE,23
-Shining Gift Knotted Clutch in Royal Blue,G240929018ONE-SIZE,23
 Shining Gift Knotted Clutch in Red,G240929019ONE-SIZE,23
 Rhinestone Embellished Satin Envelope Bag in Red,G240929021ONE-SIZE,23
 Elegance Round Handle PU Leather Clutch in Black,G240929026ONE-SIZE,23
 Elegance Round Handle PU Leather Clutch in Silver,G240929028ONE-SIZE,23
-Fancy Rhinestone Overlay Clutch in Champagne,G240929029ONE-SIZE,45
+Fancy Rhinestone Overlay Clutch in Champagne,G240929029ONE-SIZE,37
 Fancy Rhinestone Overlay Clutch in Green,G240929030ONE-SIZE,37
 Fancy Rhinestone Overlay Clutch in Silver,G240929031ONE-SIZE,45
 Solid Color Pearly Button Knit Cardigan in Mint,T241004004S-M,23
@@ -3370,16 +3356,15 @@ British Style Plaid Beret in Red,G241011025ONE-SIZE,37
 Color Block Red Plaid Belted Beret,G241011028ONE-SIZE,37
 Pearl Bowknot Wool-Blend Beret,G241011029ONE-SIZE,37
 Embroidered Bowknot Wool-Blend Beret in Black,G241011030ONE-SIZE,23
-Embroidered Bowknot Wool-Blend Beret in White,G241011032ONE-SIZE,23
+Embroidered Bowknot Wool-Blend Beret in White,G241011032ONE-SIZE,37
 Embroidered Bowknot Wool-Blend Beret in Pink,G241011033ONE-SIZE,23
 Little Bow Decor Knitted Beret in Cream,G241011036ONE-SIZE,23
 Velvet Polka Dot Mesh Puff Sleeve Mock Neck Top,T241012003L,23
 Velvet Polka Dot Mesh Puff Sleeve Mock Neck Top,T241012003XL,23
-Shimmer Dotted Twist Front Cutout Mock Neck Top in Caramel,T241012006M,23
 Shimmer Dotted Twist Front Cutout Mock Neck Top in Black,T241012007S,37
 Shimmer Dotted Twist Front Cutout Mock Neck Top in Black,T241012007M,23
 Floral Fantasy High Neck Mesh Long-Sleeve Top in Black for Candlelit Dinners & Elegant Nights,T241012009XS,37
-Floral Fantasy High Neck Mesh Long-Sleeve Top in Black for Candlelit Dinners & Elegant Nights,T241012009S,37
+Floral Fantasy High Neck Mesh Long-Sleeve Top in Black for Candlelit Dinners & Elegant Nights,T241012009S,23
 Floral Fantasy High Neck Mesh Long-Sleeve Top in Black for Candlelit Dinners & Elegant Nights,T241012009M,23
 Floral Fantasy High Neck Mesh Long-Sleeve Top in Black for Candlelit Dinners & Elegant Nights,T241012009L,45
 Floral Fantasy High Neck Mesh Long-Sleeve Top in Black for Candlelit Dinners & Elegant Nights,T241012009XL,23
@@ -3416,7 +3401,7 @@ Fall in Plaid Side Pocket A-Line Midi Skirt,B241017007XL,45
 Decorative Pocket Peak Lapel Buttoned Blazer in Navy,T241017016S,23
 Captivating Lace Tie-Waist Button Down Maxi Dress in Pink,D241019002S,23
 Floral Eyelet Embroidery Tassel String Buttoned Maxi Dress in White,D241019005S,23
-Floral Eyelet Embroidery Tassel String Buttoned Maxi Dress in White,D241019005M,37
+Floral Eyelet Embroidery Tassel String Buttoned Maxi Dress in White,D241019005M,23
 Floral Eyelet Embroidery Tassel String Buttoned Maxi Dress in Light Tan,D241019006S,45
 Floral Eyelet Embroidery Tassel String Buttoned Maxi Dress in Light Tan,D241019006M,45
 Color Block Stripe Bodycon Knit Midi Dress in Tan,D241022001S-M,23
@@ -3709,7 +3694,6 @@ Retro Chic Plaid Mini Bud Skirt in Caramel,B241211040XS,23
 Retro Chic Plaid Mini Bud Skirt in Sage,B241211041XS,23
 Heart Doodles Crew Neck Knit Sweater in Red for Valentine's Day & Casual Dates,T241211001S-M,45
 Heart Doodles Crew Neck Knit Sweater in Red for Valentine's Day & Casual Dates,T241211001L-XL,135
-Heart Doodles Crew Neck Knit Sweater in White for Valentine's Day & Casual Dates,T241211002S-M,23
 Lovable Heart Crew Neck Knit Sweater in Light Pink,T241211004S-M,45
 Lovable Heart Crew Neck Knit Sweater in White,T241211006S-M,23
 Heart Button Hollow Out Crop Knit Cardigan in Cream,T241211011S-M,37
@@ -3738,7 +3722,7 @@ Love Letters Rhinestone Oil Spilling Earrings,G241218005ONE-SIZE,23
 Multilayer Ombre Heart Oil Spill Enamel Earrings,G241218006ONE-SIZE,45
 Rose and Heart Drop Earrings,G241218007ONE-SIZE,37
 Baroque Heart and Bee Pearl Earrings,G241218008ONE-SIZE,37
-Full Rhinestone Heart Earrings in Amber,G241218009ONE-SIZE,45
+Full Rhinestone Heart Earrings in Amber,G241218009ONE-SIZE,37
 Rainbow Rhinestone Heart Earrings,G241218011ONE-SIZE,37
 Pink Love Letters Rhinestone Earrings,G241218015ONE-SIZE,45
 Fake Welt Pocket Mini Bud Skirt,B241219001XS,23
@@ -3804,7 +3788,6 @@ Sweet Bowknot Wool-Blend Beret in Pink,G241228025ONE-SIZE,23
 Sunflower Raffia Handmade Woven Earrings in Magenta,G241228026ONE-SIZE,37
 Sunflower Raffia Handmade Woven Earrings in Lavender,G241228027ONE-SIZE,37
 Sunflower Raffia Handmade Woven Earrings in White,G241228029ONE-SIZE,45
-Layered Circles Rhinestone Pearl Earrings,G241228033ONE-SIZE,23
 Golden Bow Stud Earrings,G241228034ONE-SIZE,23
 Pearls and Rhinestones Bowknot Earrings,G241228036ONE-SIZE,45
 Double Layered Bowknot and Pearl Earrings in Gold,G241228038ONE-SIZE,23
@@ -3948,7 +3931,7 @@ Watercolor Printed Puff Sleeves Faux Wrap Top,T250212005S,23
 Lightweight Notch Lapel Linen-Blend Blazer in Khaki,T250212008S,23
 Posh Pursuits Fake Flap Pockets Buttoned Coat in Cream,T250212010S,37
 Texture V-Neck Frilling Hem Cami Midi Dress in Tan,D250212017S,23
-Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028PETITE M,135
+Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028PETITE M,72
 Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028PETITE XS,45
 Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028PETITE S,45
 Vernal Blossom Pleated Maxi Dress for Beach Wedding & Vacations,D240411028PETITE L,23
@@ -3960,12 +3943,12 @@ Winding Lace Crochet Mock Neck Sleeveless Buttoned Top,T250214017XS,23
 Elegant Pearl Golden Hoop Earrings,G250215013ONE-SIZE,45
 Golden Leaf Texture Stud Earrings,G250215014ONE-SIZE,23
 Heart Buckle Woven Straw Belt in Blue,G250215022ONE-SIZE,23
-Boho Knot Woven Straw Belt,G250215023ONE-SIZE,37
+Boho Knot Woven Straw Belt,G250215023ONE-SIZE,23
 Geometric Eyelet Embroidered Square Neck Sleeveless Dress in White,D250219008M,23
 Dive into Elegance Lace Panelled Sleeveless Dress in White,D250219012XS,45
 Dive into Elegance Lace Panelled Sleeveless Dress in White,D250219012L,72
 Dive into Elegance Lace Panelled Sleeveless Dress in Baby Blue for Beach Getaways & Garden Parties,D250219013XS,135
-Dive into Elegance Lace Panelled Sleeveless Dress in Baby Blue for Beach Getaways & Garden Parties,D250219013S,135
+Dive into Elegance Lace Panelled Sleeveless Dress in Baby Blue for Beach Getaways & Garden Parties,D250219013S,72
 Dive into Elegance Lace Panelled Sleeveless Dress in Baby Blue for Beach Getaways & Garden Parties,D250219013M,72
 Dive into Elegance Lace Panelled Sleeveless Dress in Baby Blue for Beach Getaways & Garden Parties,D250219013L,135
 Dive into Elegance Lace Panelled Sleeveless Dress in Red for Elegant Occasions & Evening Soirees,D250219014XS,72
@@ -3974,7 +3957,7 @@ Dive into Elegance Lace Panelled Sleeveless Dress in Red for Elegant Occasions &
 Dive into Elegance Lace Panelled Sleeveless Dress in Red for Elegant Occasions & Evening Soirees,D250219014L,135
 Dive into Elegance Lace Panelled Sleeveless Dress in Black,D250219015XS,72
 Dive into Elegance Lace Panelled Sleeveless Dress in Black,D250219015S,135
-Dive into Elegance Lace Panelled Sleeveless Dress in Black,D250219015M,24
+Dive into Elegance Lace Panelled Sleeveless Dress in Black,D250219015M,23
 Dive into Elegance Lace Panelled Sleeveless Dress in Black,D250219015L,135
 3D Floral Applique Mesh Tulle Mermaid Maxi Dress in White,D250219016L,23
 3D Floral Applique Mesh Tulle Mermaid Maxi Dress in Lavender for Special Occasions & Evening Soirees,D250219017XS,45
@@ -4064,8 +4047,8 @@ V-Neck Lace Panelled Sleeveless Maxi Dress in Red,D250313011L,72
 Blue Lily Printed Embroidered Eyelet Frilling Dress,D250313013XS,45
 Blue Lily Printed Embroidered Eyelet Frilling Dress,D250313013M,45
 Blue Lily Printed Embroidered Eyelet Frilling Dress,D250313013XL,45
-Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress for Garden Parties & Brunch,D250313014S,135
-Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress for Garden Parties & Brunch,D250313014M,44
+Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress for Garden Parties & Brunch,D250313014S,72
+Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress for Garden Parties & Brunch,D250313014M,45
 Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress for Garden Parties & Brunch,D250313014L,40
 Lace Ruffle Panelled Asymmetric Cami Dress in Smoke,D250314002S,37
 Lace Ruffle Panelled Asymmetric Cami Dress in Smoke,D250314002M,23
@@ -4125,6 +4108,7 @@ Gentle Lace Inserted Drape Neck Knit Top in Light Blue,T250328028S-M,45
 Organza Self-Tie Bowknot Short Sleeves Knit Top in Grey,T250328030S-M,37
 Eyelet Embroidery Tassel String Maxi Skirt in White,B250329001XS-S,45
 Eyelet Embroidery Tassel String Maxi Skirt in White,B250329001XL-XXL,23
+Pinky Flowers Embellished Mesh Clutch,G250329006ONE-SIZE,45
 Square Shape Cutout Braided Straw Clutch,G250329008ONE-SIZE,72
 Diamond Handmade Braided Straw Handbag,G250329014ONE-SIZE,23
 Contrast Binding Handmade Woven Straw Bag,G250329015ONE-SIZE,23
@@ -4141,7 +4125,7 @@ Watercolor Floral Texture Satin Cami Dress in Lavender,D250401014S,37
 Falling Pink Blossom V-Neck Belted Buttoned Midi Dress,D250401017XS,72
 Falling Pink Blossom V-Neck Belted Buttoned Midi Dress,D250401017S,72
 Falling Pink Blossom V-Neck Belted Buttoned Midi Dress,D250401017L,23
-Falling Pink Blossom V-Neck Belted Buttoned Midi Dress,D250401017XL,135
+Falling Pink Blossom V-Neck Belted Buttoned Midi Dress,D250401017XL,72
 Falling Pink Blossom V-Neck Belted Buttoned Midi Dress,D250401017XXL,45
 Botanical Garden Self-Tie Wrap Crop Shirt in Black,T250403003S-M,23
 Rhinestone 3D Flowers Organza Spliced Satin Top in Black,T250403004S,37
@@ -4166,6 +4150,7 @@ Dreamlike Tiered Ruffle Hem Mesh Tulle Skirt in Tan,B250403023M-L,23
 Paisley Eyelet Embroidery High-Waist Shirred Back Maxi Skirt in Black,B250408002M,23
 Paisley Eyelet Embroidery High-Waist Shirred Back Maxi Skirt in Yellow,B250408004S,23
 Paisley Eyelet Embroidery High-Waist Shirred Back Maxi Skirt in Lavender,B250408005M,37
+Paisley Eyelet Embroidery High-Waist Shirred Back Maxi Skirt in Lavender,B250408005XL,23
 Gorgeous 3D Rose Petal A-Line Midi Skirt in Cream,B250408010XS-S,45
 Paisley Eyelet Embroidery Sleeveless Crop Top in Black,T250408012M,23
 Paisley Eyelet Embroidery Sleeveless Crop Top in Pink,T250408013XS,23
@@ -4177,9 +4162,9 @@ Paisley Eyelet Embroidery Sleeveless Crop Top in Yellow,T250408014M,23
 Paisley Eyelet Embroidery Sleeveless Crop Top in Lavender,T250408015XS,23
 Ruffled Mock Neck Mesh Spliced Knit Top in Ivory for Date Nights & Workdays,T230701018L-XL,45
 Notch Neckline Floret Eyelet Shirred Cotton Dress in Black,D250410011S,23
+Notch Neckline Floret Eyelet Shirred Cotton Dress in Black,D250410011M,23
 Notch Neckline Floret Eyelet Shirred Cotton Dress in Pink,D250410012M,23
 Notch Neckline Floret Eyelet Shirred Cotton Dress in Blue,D250410013S,37
-Notch Neckline Floret Eyelet Shirred Cotton Dress in Blue,D250410013L,23
 Notch Neckline Floret Eyelet Shirred Cotton Dress in Blue,D250410013XL,23
 Notch Neckline Floret Eyelet Shirred Cotton Dress in Blue,D250410013XXL,23
 Notch Neckline Floret Eyelet Shirred Cotton Dress in Mustard,D250410014S,23
@@ -4246,7 +4231,6 @@ Green Damask Printed Tiered Chiffon Maxi Skirt,B250424011L-XL,135
 3D Floral Decor Ribbed Knit Tank Top in Black Stripe,T250424014S-M,45
 V-Neck Faux-Wrap Sleeveless Ribbed Knit Top in Black,T250424016S-M,45
 V-Neck Faux-Wrap Sleeveless Ribbed Knit Top in Black,T250424016L-XL,45
-V-Neck Faux-Wrap Sleeveless Ribbed Knit Top in Oatmeal,T250424017S-M,23
 V-Neck Faux-Wrap Sleeveless Ribbed Knit Top in Dark Green,T250424018L-XL,72
 Scalloped Edge Pointelle Knit Top in Black,T250424019S,37
 Scalloped Edge Pointelle Knit Top in Black,T250424019M,23
@@ -4258,13 +4242,13 @@ Geometric Twisted Faux Pearl Earrings,G250425002ONE-SIZE,37
 Golden Tropical Leaf Earrings,G250425006ONE-SIZE,45
 C-Shape Knot Vintage Earrings in Silver,G250425008ONE-SIZE,23
 Rhinestone Accents Beaded Coconut Tree Earrings,G250425011ONE-SIZE,23
-Refreshing Lemon Dangle Earrings,G250425012ONE-SIZE,45
+Refreshing Lemon Dangle Earrings,G250425012ONE-SIZE,37
 Golden Button Vest and Split Hem Pants Set in Sand,D250426002XL,23
 Golden Button Vest and Split Hem Pants Set in Sage,D250426003XL,23
 Crisscross Design Short Sleeve Snug Midi Dress in Taupe,D250426008S,23
 Bow-Tie Shirred Back Maxi Halter Dress in Mustard,D250426013S-M,23
 Crisscross Self-Tie Halter Neck Maxi Dress in Dots,D250426016S,45
-Crisscross Self-Tie Halter Neck Maxi Dress in Dots,D250426016M,37
+Crisscross Self-Tie Halter Neck Maxi Dress in Dots,D250426016M,23
 Crisscross Self-Tie Halter Neck Maxi Dress in Dots,D250426016L,45
 Tropical Tree Tie-Shoulder Cami Maxi Dress,D250426017XS,23
 Tropical Tree Tie-Shoulder Cami Maxi Dress,D250426017S,23
@@ -4328,11 +4312,11 @@ Cloud & Starry Night Raindrop Rhinestone Earrings,G250510001ONE-SIZE,23
 Capiz Shell Beaded Dangle Earrings,G250510002ONE-SIZE,23
 Tassel Beaded Hook Earrings,G250510003ONE-SIZE,37
 Hollow Out Floral Chain Belt in Gold,G250510005ONE-SIZE,37
-Fluttering Butterfly Chain Belt in Gold,G250510011ONE-SIZE,37
+Fluttering Butterfly Chain Belt in Gold,G250510011ONE-SIZE,45
 Blooming Rose Chain Belt in Gold,G250510013ONE-SIZE,23
 Juicy Orange Acrylic Hair Claw,G250510016ONE-SIZE,37
 Wavy Crochet Large Rectangle Hair Claw,G250510017ONE-SIZE,23
-Daisy Crochet Large Rectangle Hair Claw,G250510019ONE-SIZE,37
+Daisy Crochet Large Rectangle Hair Claw,G250510019ONE-SIZE,23
 Cherry Blossom Crochet Large Rectangle Hair Claw,G250510021ONE-SIZE,23
 Bohemia Bowknot Crochet Hair Clip in White,G250510022ONE-SIZE,23
 Bohemia Bowknot Crochet Hair Clip in Black,G250510023ONE-SIZE,23
@@ -4340,7 +4324,7 @@ Bohemia Crochet Scrunchie in White,G250510026ONE-SIZE,23
 Bohemia Bowknot Crochet Hair Headband in Black,G250510029ONE-SIZE,23
 Daisy Crochet Hair Headband,G250510032ONE-SIZE,37
 Bowknot Raffia Whipstitch-Trimmed Hair Headband in Orange,G250510034ONE-SIZE,45
-Jungle Blue Chiffon Maxi Skirt,B250512005XS-S,37
+Jungle Blue Chiffon Maxi Skirt,B250512005XS-S,23
 High Waist Floral Embroidered Shorts in Red,B250512007XS,23
 High Waist Floral Embroidered Shorts in Red,B250512007S,23
 Tile Embroidered Eyelet Cotton Pants in White,B250512009S-M,23
@@ -4364,11 +4348,10 @@ Floral Printed Bead Decor Cami Halter Dress in Cream,D250514021S,45
 Ebullient Flower Embroidered Frilling Maxi Dress,D250514022XS,37
 Ebullient Flower Embroidered Frilling Maxi Dress,D250514022S,45
 Ebullient Flower Embroidered Frilling Maxi Dress,D250514022L,23
-Ebullient Flower Embroidered Frilling Maxi Dress,D250514022XL,23
+Ebullient Flower Embroidered Frilling Maxi Dress,D250514022XL,37
 V-Neck Embroidered Eyelet Puff Sleeve Maxi Dress,D250514023XS,23
 V-Neck Embroidered Eyelet Puff Sleeve Maxi Dress,D250514023M,23
 3D Floral Applique Mesh Tulle Mermaid Maxi Dress in Yellow,D250517001XS,23
-Green Damask Printed Tie-Back Cami Dress,D250517003S,23
 Sequined Flower Organza Spliced Sleeveless Mini Dress,D250517005XS,23
 Floral Crochet Lace Bubble Sleeve Dolly Maxi Dress,D250517008S-M,45
 Deep V-Neck Double Straps Cross Back Maxi Dress,D250517009M,23
@@ -4380,7 +4363,6 @@ Self-Tie Halter Neck Crop Rib Knit Top in Black,T250520001S-M,45
 Self-Tie Halter Neck Crop Rib Knit Top in Tan,T250520003S-M,45
 Mock Neck Mesh Inserted Short Sleeve Top in Cream,T250520006S-M,23
 Contrast Crochet Edge Short-Sleeve Top in Sage,T250520010S,23
-Contrast Crochet Edge Short-Sleeve Top in Sage,T250520010M,23
 Knot Front Tie-Back Sleeveless Top in White,T250520016S,23
 Contrast Binding Side Pocket Pants in Smoke,B250520017S,23
 Glitter Accent Wide-Leg Palazzo Pants in Black,B250520020XS,37
@@ -4449,7 +4431,7 @@ Square Neck Button Decor Skater Dress in Black,D250527026S-M,23
 Pink Floral Sweetheart Neck Wide Straps Mesh Maxi Dress,D250527019L,23
 Embroidered Floral Belted Fishnet Midi Dress in Blue,D250524024XS,45
 Embroidered Floral Belted Fishnet Midi Dress in Blue,D250524024S,45
-Embroidered Floral Belted Fishnet Midi Dress in Blue,D250524024M,37
+Embroidered Floral Belted Fishnet Midi Dress in Blue,D250524024M,23
 Embroidered Floral Belted Fishnet Midi Dress in Blue,D250524024L,45
 Coastal Dream Pendant Necklace,G250529002ONE-SIZE,23
 Layered Pearl-Inspired Chain Belt,G250529003ONE-SIZE,45
@@ -4460,7 +4442,6 @@ Silver Nautilus Shell Acrylic Crossbody Bag,G250529022ONE-SIZE,23
 Artistic Shell-Inspired Acrylic Bag in Gold,G250529023ONE-SIZE,23
 Eyelet Embroidered Flare Mini Skirt in Black,B250529001S-M,45
 Eyelet Embroidered Flare Mini Skirt in Red,B250529002S-M,23
-Embroidered Eyelet Cotton Layered Mini Skirt in Light Blue,B250529003S-M,23
 Boho Tile Motif Tiered Midi Skirt in Ivory,B250529014S-M,23
 Crinkle Gathered Tiered Midi Skirt in Light Blue,B250529018S-M,37
 Crinkle Gathered Tiered Midi Skirt in Blue,B250529019S-M,37
@@ -4468,7 +4449,7 @@ Crinkle Gathered Tiered Midi Skirt in White,B250529021S-M,37
 Airy Crinkle Belted Midi Skirt in Black,B250529025S-M,23
 Airy Crinkle Belted Midi Skirt in Ivory,B250529027S-M,37
 Floral Crochet Lace Bubble Sleeve Dolly Maxi Dress,D250517008L-XL,45
-Satin Tie Back Sleeveless Top in Black for Date Nights & Parties,T230720012XL,45
+Satin Tie Back Sleeveless Top in Black for Date Nights & Parties,T230720012XL,37
 Satin Tie Back Sleeveless Top in Black for Date Nights & Parties,T230720012XXL,135
 Button-Embellished Dipped Front Waist Shorts in Brown,B250603003XS,23
 Side Pocket Half Waistband Shorts in Linen,B250603005S,23
@@ -4480,11 +4461,12 @@ Tile Paisley Print Ruffled Tiered Chiffon Maxi Skirt in Blue,B250603013S-M,37
 Tile Paisley Print Ruffled Tiered Chiffon Maxi Skirt in Green,B250603014S-M,23
 Embroidered Eyelet Elasticated Waistband Cotton Midi Skirt in Yellow,B250603015S-M,37
 Embroidered Eyelet Elasticated Waistband Cotton Midi Skirt in Mint,B250603016S-M,45
-Lemon Printed Stripe Jacquard Organza Midi Skirt,B250603017XXL,45
+Lemon Printed Stripe Jacquard Organza Midi Skirt,B250603017S,23
+Lemon Printed Stripe Jacquard Organza Midi Skirt,B250603017XXL,37
 Crisscross Self-Tie Halter Neck Maxi Dress in Dots,D250426016XS,37
 Crisscross Self-Tie Halter Neck Maxi Dress in Dots,D250426016XL,23
 Front Clip Push-Up Silicone Adhesive Bra in Cream,G250604001A,45
-Front Clip Push-Up Silicone Adhesive Bra in Cream,G250604001C,45
+Front Clip Push-Up Silicone Adhesive Bra in Cream,G250604001C,37
 Front Clip Push-Up Silicone Adhesive Bra in Tan,G250604002A,45
 Front Clip Push-Up Silicone Adhesive Bra in Chocolate,G250604003A,23
 Reusable Strapless Adhesive Bra in Black,G250604004A,45
@@ -4492,7 +4474,7 @@ Reusable Strapless Adhesive Bra in Black,G250604004B,45
 Reusable Strapless Adhesive Bra in Black,G250604004C,23
 Reusable Strapless Adhesive Bra in Black,G250604004D,45
 Reusable Strapless Adhesive Bra in Nude,G250604005A,37
-Reusable Strapless Adhesive Bra in Nude,G250604005B,72
+Reusable Strapless Adhesive Bra in Nude,G250604005B,45
 Reusable Strapless Adhesive Bra in Nude,G250604005C,72
 Reusable Strapless Adhesive Bra in Nude,G250604005D,37
 Strapless Bandeau Bra Top in Black,T250604006S,23
@@ -4506,14 +4488,13 @@ Strapless Bandeau Bra Top in Light Tan,T250604008S,45
 Strapless Bandeau Bra Top in Light Tan,T250604008M,45
 Strapless Bandeau Bra Top in Light Tan,T250604008L,45
 Strapless Bandeau Bra Top in Light Tan,T250604008XL,45
-High-Waisted Breathable Smoothing Shaping Shorts in Nude,B250604009S,37
-High-Waisted Breathable Smoothing Shaping Shorts in Nude,B250604009M,23
+High-Waisted Breathable Smoothing Shaping Shorts in Nude,B250604009S,23
+High-Waisted Breathable Smoothing Shaping Shorts in Nude,B250604009M,37
 High-Waisted Breathable Smoothing Shaping Shorts in Nude,B250604009L,37
 High-Waisted Breathable Smoothing Shaping Shorts in Nude,B250604009XL,37
 High-Waisted Breathable Smoothing Shaping Shorts in White,B250604010S,45
 High-Waisted Breathable Smoothing Shaping Shorts in White,B250604010L,37
 High-Waisted Breathable Smoothing Shaping Shorts in White,B250604010XL,37
-High-Waisted Breathable Smoothing Shaping Shorts in Chocolate,B250604011M,23
 High-Waisted Breathable Smoothing Shaping Shorts in Chocolate,B250604011L,37
 High-Waisted Breathable Smoothing Shaping Shorts in Chocolate,B250604011XL,23
 Artistry Floral Embroidered Crochet Maxi Skirt in Sand,B250605002S-M,37
@@ -4527,8 +4508,7 @@ Artistry Floral Embroidered Crochet Vest in Sand,T250605019S-M,23
 Crochet Square Cutwork Button-Front Vest in Sand,T250605020S-M,37
 Crochet Square Cutwork Button-Front Vest in White,T250605021S-M,45
 Satin Tie Back Sleeveless Top in Blue for Date Nights & Parties,T250605022XXL,135
-Satin Tie Back Sleeveless Top in Lilac for Date Nights & Parties,T250605023S,45
-Satin Tie Back Sleeveless Top in Lilac for Date Nights & Parties,T250605023M,23
+Satin Tie Back Sleeveless Top in Lilac for Date Nights & Parties,T250605023S,37
 Satin Tie Back Sleeveless Top in Lilac for Date Nights & Parties,T250605023L,72
 Satin Tie Back Sleeveless Top in Lilac for Date Nights & Parties,T250605023XXL,45
 Organza Bow Accent One-Shoulder Slanted Top in Red,T250605025XS,23
@@ -4538,7 +4518,6 @@ Solid Color Open Back Cotton Cami Dress in Pea Green,D250605029S,23
 Solid Color Open Back Cotton Cami Dress in Cream,D250605030L,23
 Solid Color Open Back Cotton Cami Dress in Light Yellow,D250605031M,23
 Solid Color Open Back Cotton Cami Dress in Light Blue,D250605032S,23
-V-Neck Tie-Back Embossed Tiered Dress in Hot Pink,D250607016S-M,23
 Short Sleeve Boat Neck Crisscross Waist Satin Top in Light Tan,T250610001S,23
 Rhinestone Decor Double-Layered Mesh Ruffle Sleeveless Top in Black,T250610015S,23
 Delicate Rhinestone Bow Front Pocket Shorts in Black,B250610018S,23
@@ -4546,7 +4525,7 @@ Delicate Rhinestone Bow Front Pocket Shorts in Pink,B250610019M,23
 Delicate Rhinestone Bow Front Pocket Shorts in Gold,B250610020S,37
 Delicate Rhinestone Bow Front Pocket Shorts in White,B250610021S,23
 Ultra-Flattering Floral Jacquard A-Line Skirt in Hot Pink,B250610025M,23
-Ultra-Flattering Floral Jacquard A-Line Skirt in Hot Pink,B250610025L,45
+Ultra-Flattering Floral Jacquard A-Line Skirt in Hot Pink,B250610025L,37
 Mesh-Panel Honeycomb Embroidered Maxi Skirt in Black,B250612003S-M,37
 Floral Vine Embroidered Tiered Cotton Skirt in Ivory,B250612013S-M,37
 Floral Vine Embroidered Tiered Cotton Skirt in White,B250612014S-M,23
@@ -4559,7 +4538,6 @@ Scoop Neck Tie-Back Crinkle Tiered Dress in Dusty Pink,D250614011S,23
 Scoop Neck Tie-Back Crinkle Tiered Dress in Light Yellow,D250614012L,23
 Scoop Neck Tie-Back Crinkle Tiered Dress in Light Yellow,D250614012XL,23
 Bliss Lemon Branch Printed Tie-Waist Jumpsuit,D250614019XS,45
-Whispering Cascade Ruffle Chiffon Maxi Dress in Black,D250617003S,37
 Whispering Cascade Ruffle Chiffon Maxi Dress in Purple,D250617004S,37
 Whispering Cascade Ruffle Chiffon Maxi Dress in Tan,D250617005S,23
 Self-Tie Open Back Frilling Cotton Maxi Cami Dress in Pea Green,D250617007M,23
@@ -4572,7 +4550,7 @@ Ombre Double-Strap Cold-Shoulder Chiffon Dress,D250617020M,23
 Ombre Double-Strap Cold-Shoulder Chiffon Dress,D250617020L,23
 Indigo Lily Printed Faux-Wrap Midi Dress,D250617022XXL,23
 Red Lily Printed Faux-Wrap Midi Dress,D250617023XL,23
-Red Lily Printed Faux-Wrap Midi Dress,D250617023XXL,45
+Red Lily Printed Faux-Wrap Midi Dress,D250617023XXL,37
 Relaxed Fit Tie-Waist Tiered Maxi Skirt in White,B250612012XL,23
 Free-Style Neckline Short Sleeve Ruched Top in White,T250619004L,37
 Free-Style Neckline Short Sleeve Ruched Top in Black,T250619005M,23
@@ -4580,7 +4558,7 @@ Free-Style Neckline Short Sleeve Ruched Top in Black,T250619005L,23
 Strapless Seamed Front Asymmetric Top and Pants Set,D250619009XS,23
 Tie-Back Bowknot Crop Top and Maxi Skirt Set,D250619010XS,23
 Modern Classic Stripe Textured Shirred Cami Dress,D250619015XS,23
-Modern Classic Stripe Textured Shirred Cami Dress,D250619015S,23
+Modern Classic Stripe Textured Shirred Cami Dress,D250619015S,45
 Modern Classic Stripe Textured Shirred Cami Dress,D250619015M,45
 Bowknot Halter Neck Side Pocket Dress in Black,D250619017M,23
 Romantic Puff Sleeve Slit Hem Shirred Dress in Black,D250619020S,23
@@ -4625,7 +4603,6 @@ Boho Tile Drawstring Halter Neck Chiffon Dress,D250627008S,37
 Abstract Paisley Drawstring Halter Neck Chiffon Dress,D250627009S,45
 Rose Bud Printed Ruffle Chiffon Cami Dress,D250627010S,23
 Rose Bud Printed Ruffle Chiffon Cami Dress,D250627010M,37
-Rose Printed Open Back Halter Neck Dress in Navy,D250627012S,23
 Rose Printed Open Back Halter Neck Dress in Navy,D250627012M,37
 Flap Pocket Linen-Blend Sleeveless Maxi Dress in Black,D250627014XS-S,45
 Flap Pocket Linen-Blend Sleeveless Maxi Dress in Lilac,D250627015XS-S,37
@@ -4659,7 +4636,6 @@ Blue Hydrangea Printed Cutwork Lace Trim Sleeveless Midi Dress,D250627020XL,72
 Tie-Waist Panel Asymmetric Midi Skirt in Dusty Pink,B250703002S-M,23
 Tie-Waist Panel Asymmetric Midi Skirt in Black,B250703003S-M,37
 Tie-Waist Panel Asymmetric Midi Skirt in Taupe,B250703004S-M,45
-Floret Embroidered Eyelet Cotton Midi Skirt in Hot Pink,B250703005S-M,23
 Floret Embroidered Eyelet Cotton Midi Skirt in White,B250703008S-M,37
 Floret Embroidered Eyelet Cotton Midi Skirt in Cream,B250703009S-M,37
 Floret Embroidered Eyelet Cotton Midi Skirt in Light Blue,B250703010S-M,23
@@ -4673,6 +4649,7 @@ Whimsical Puff Sleeve V-Neck Top in Black,T250703036S,37
 Whimsical Puff Sleeve V-Neck Top in Black,T250703036L,23
 Crochet Sleeveless Top and Drawstring Pants Set in Rust,D250705003S,23
 Crochet Sleeveless Top and Drawstring Pants Set in Rust,D250705003M,23
+Crochet Sleeveless Top and Drawstring Pants Set in Rust,D250705003L,23
 Crochet Sleeveless Top and Drawstring Pants Set in Dark Green,D250705004S,23
 Crochet Sleeveless Top and Drawstring Pants Set in Dark Green,D250705004M,23
 Crochet Sleeveless Top and Drawstring Pants Set in Dark Green,D250705004L,23
@@ -4687,7 +4664,7 @@ Floral Tile Printed Button Down Sleeveless Maxi Dress,D250705021XS,45
 Floral Tile Printed Button Down Sleeveless Maxi Dress,D250705021S,45
 Floral Tile Printed Button Down Sleeveless Maxi Dress,D250705021M,72
 Floral Tile Printed Button Down Sleeveless Maxi Dress,D250705021L,72
-Wisteria Printed Button Down Belted Midi Dress,D250705022M,37
+Wisteria Printed Button Down Belted Midi Dress,D250705022M,23
 Cowl Neck Buttoned Asymmetric Hem Top in White,T250708001S-M,37
 Floret Open-Knit Crochet Cover-Up Top in Black,T250708010S-M,23
 Floret Open-Knit Crochet Cover-Up Top in Cream,T250708011S-M,23
@@ -4696,12 +4673,9 @@ Knitted Cowl Neck Braided Open Back Sleeveless Top in White,T250708018S-M,23
 Knitted Cowl Neck Braided Open Back Sleeveless Top in Brown,T250708019S-M,37
 Simplicity Off-Shoulder Knit Top in Taupe,T250708022S-M,37
 Golden Button Trim Sleeveless Rib Knit Top in Army Green,T250708026S-M,23
-Shimmer Sequin Lace-Up Back Corset Top,T250710001S,23
 Shimmer Sequin Lace-Up Back Corset Top,T250710001XXL,23
 Seashell Pleated Mesh Bustier Corset Top,T250710002XS,37
-Seashell Pleated Mesh Bustier Corset Top,T250710002S,23
 Sweetheart Neck Off-Shoulder Corset Top,T250710004XS,23
-Sweetheart Neck Off-Shoulder Corset Top,T250710004M,23
 Off-Shoulder Sheen Satin Bustier Top in Dusty Pink,T250710005S,23
 Off-Shoulder Sheen Satin Bustier Top in Dusty Pink,T250710005L,23
 Off-Shoulder Sheen Satin Bustier Top in Dusty Pink,T250710005XL,45
@@ -4713,14 +4687,11 @@ Off-Shoulder Sheen Satin Bustier Top in Red,T250710007M,37
 Off-Shoulder Sheen Satin Bustier Top in Red,T250710007L,23
 Off-Shoulder Sheen Satin Bustier Top in Apricot,T250710008M,23
 Midnight Charm Golden Stars Bustier Top,T250710009XS,45
-Midnight Charm Golden Stars Bustier Top,T250710009S,23
 Midnight Charm Golden Stars Bustier Top,T250710009M,23
 Midnight Charm Golden Stars Bustier Top,T250710009L,72
-Floral Lace Corset Mesh Bra Top in White,T250710010XS,45
-Floral Lace Corset Mesh Bra Top in White,T250710010S,37
-Floral Lace Corset Mesh Bra Top in White,T250710010M,23
-Floral Lace Corset Mesh Bra Top in Black,T250710011XS,37
-Floral Lace Corset Mesh Bra Top in Black,T250710011M,72
+Floral Lace Corset Mesh Bra Top in White,T250710010XS,37
+Floral Lace Corset Mesh Bra Top in White,T250710010S,23
+Floral Lace Corset Mesh Bra Top in Black,T250710011M,45
 3D Organza Floral Pearl Decor Bra Top,T250710012M,23
 3D Organza Floral Pearl Decor Bra Top,T250710012L,23
 Rhinestone Embellished Corset Push-Up Bra Top in Black,T250710013M,23
@@ -4799,7 +4770,6 @@ Pear-Shaped Rhinestone Pleated Mesh Bra Top in Hot Pink,T250812002S,23
 Pear-Shaped Rhinestone Pleated Mesh Bra Top in Hot Pink,T250812002M,23
 Pear-Shaped Rhinestone Pleated Mesh Bra Top in Black,T250812003XS,23
 Pear-Shaped Rhinestone Pleated Mesh Bra Top in Nude,T250812004M,37
-Pear-Shaped Rhinestone Pleated Mesh Bra Top in White,T250812005XS,23
 Pear-Shaped Rhinestone Pleated Mesh Bra Top in Pink,T250812006XS,23
 Pear-Shaped Rhinestone Pleated Mesh Bra Top in Pink,T250812006L,23
 Sparkling Spider Web Rhinestone Bra Top,T250812007XS,72
@@ -4810,7 +4780,6 @@ Bead Embellished Pleated Mesh Bustier Top in Black,T250812008S,23
 Bead Embellished Pleated Mesh Bustier Top in Red,T250812009XS,37
 Bead Embellished Pleated Mesh Bustier Top in Red,T250812009S,23
 Bead Embellished Pleated Mesh Bustier Top in Red,T250812009M,23
-Bead Embellished Pleated Mesh Bustier Top in Red,T250812009L,23
 Bead Embellished Pleated Mesh Bustier Top in Nude,T250812010S,37
 Bead Embellished Pleated Mesh Bustier Top in Nude,T250812010M,45
 Bead Embellished Pleated Mesh Bustier Top in Nude,T250812010L,23
@@ -4842,7 +4811,7 @@ Velvet Floral Lace Spliced Belted Sheen Midi Dress in Caramel,D250819002L,45
 Glittering Lavender Print Lace Panel Buttoned Maxi Dress,D250819003M,23
 Crochet Stripe Collared Belted Buttoned Maxi Dress,D250819004XL,37
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in White,D250819006S,23
-Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in White,D250819006M,23
+Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in White,D250819006M,37
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in White,D250819006L,45
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in White,D250819006XL,45
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Red,D250819007S,23
@@ -4854,11 +4823,10 @@ Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Black,D250819008M,45
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Black,D250819008L,135
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Black,D250819008XL,45
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Blue,D250819009S,23
-Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Blue,D250819009M,37
+Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Blue,D250819009M,23
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Blue,D250819009L,37
 Cascade Ruffle Polka Dot Bowknot Chiffon Maxi Dress in Blue,D250819009XL,37
 Stylish Contrast Color Panel Cami Maxi Dress in Pumpkin,D250819011XS,23
-Stylish Contrast Color Panel Cami Maxi Dress in Pumpkin,D250819011M,23
 Stylish Contrast Color Panel Cami Maxi Dress in Red,D250819012XS,23
 Open Back Sleeveless Tweed Mini Dress in Black,D250819016L,23
 Open Back Sleeveless Tweed Mini Dress in Pink,D250819017S,23
@@ -4922,18 +4890,18 @@ Buttoned Slant-Shoulder Puff Sleeves Chunky Knit Sweater in Indigo,T250904015S-M
 Retro-Edgy Zipper Pocket Faux Suede Jacket,T250905007S,23
 Bespoke-Esque Faux Suede Longline Coat,T250905009M,23
 Tie-Bow Front Ruffle Semi-Sheer Shirt and Shorts Set,D250905010XS,23
-Tie-Bow Front Ruffle Semi-Sheer Shirt and Shorts Set,D250905010S,37
+Tie-Bow Front Ruffle Semi-Sheer Shirt and Shorts Set,D250905010S,23
 Tie-Bow Front Ruffle Semi-Sheer Shirt and Shorts Set,D250905010M,23
 French-Elegant Faux Leather Handmade Woven Bag in Black,G250905011ONE-SIZE,45
 French-Elegant Faux Leather Handmade Woven Bag in Burgundy,G250905012ONE-SIZE,45
 French-Elegant Faux Leather Handmade Woven Bag in Emerald,G250905013ONE-SIZE,23
+Veiny Faux Leather Handmade Woven Bag in Black,G250905014ONE-SIZE,45
 Veiny Faux Leather Handmade Woven Bag in Brown,G250905015ONE-SIZE,45
 Turnlock Spliced Faux Suede Tote Bag in Black,G250905016ONE-SIZE,45
 Turnlock Spliced Faux Suede Tote Bag in Brown,G250905017ONE-SIZE,72
 Turnlock Spliced Faux Suede Tote Bag in Leopard,G250905018ONE-SIZE,23
 Retro-Hued Metal Clasp Faux Suede Tote Bag,G250905019ONE-SIZE,37
 Versatile Supple Faux Suede Tote Bag in Black,G250905020ONE-SIZE,23
-Versatile Supple Faux Suede Tote Bag in Brown,G250905021ONE-SIZE,23
 Versatile Supple Faux Suede Tote Bag in Burgundy,G250905022ONE-SIZE,23
 Spacious Belt Strap Faux Suede Tote Bag in Brown,G250905024ONE-SIZE,45
 Spacious Belt Strap Faux Suede Tote Bag in Burgundy,G250905025ONE-SIZE,45
@@ -4955,13 +4923,12 @@ Embossed Texture Leaf-Pattern Satin Midi Skirt in Lilac,B250909018M-L,23
 Embossed Texture Leaf-Pattern Satin Midi Skirt in Pearl White,B250909019M-L,23
 Sophisticated Ombre A-Line Maxi Skirt in Mustard,B250911003XS,37
 Metallic-Sheened Jacquard Embossed A-Line Midi Skirt in Champagne,B250911007XS,45
-Metallic-Sheened Jacquard Embossed A-Line Midi Skirt in Champagne,B250911007S,37
+Metallic-Sheened Jacquard Embossed A-Line Midi Skirt in Champagne,B250911007S,23
 Metallic-Sheened Jacquard Embossed A-Line Midi Skirt in Champagne,B250911007M,45
 Nouvelle Vague Rose Print Mini Skirt,B250911009M,23
 Slant-Shoulder Plain Knit Sweater in Oatmeal,T250911011S-M,23
 Off-Shoulder Mesh Spliced Top in Ivory,T250911018XS,23
 Off-Shoulder Mesh Spliced Top in Ivory,T250911018S,37
-Off-Shoulder Mesh Spliced Top in Ivory,T250911018M,23
 Off-Shoulder Mesh Spliced Top in Ivory,T250911018XL,23
 Off-Shoulder Mesh Spliced Top in Caramel,T250911019S,23
 Off-Shoulder Mesh Spliced Top in Black,T250911020XS,23
@@ -5081,7 +5048,7 @@ Cloud Touch Fuzzy Knit Longline Cardigan in Ivory,T251011005S-M,23
 Understated Coolness Faux Leather Moto Jacket in Black,T251011008M,23
 Understated Coolness Faux Leather Moto Jacket in Sand,T251011010M,23
 Single Breasted Blossom Embossed Jacquard Blazer,T251011013S,23
-Single Breasted Blossom Embossed Jacquard Blazer,T251011013M,37
+Single Breasted Blossom Embossed Jacquard Blazer,T251011013M,23
 Single Breasted Blossom Embossed Jacquard Blazer,T251011013XL,37
 Relaxed Stripe Dropped Shoulder Knit Sweater in Sand,T251011014S,37
 Relaxed Stripe Dropped Shoulder Knit Sweater in White,T251011015S,23
@@ -5136,6 +5103,7 @@ Breezy Chiffon Spliced Strapless Maxi Dress with Scarf in Red,D251016009L,23
 Breezy Chiffon Spliced Strapless Maxi Dress with Scarf in Rust,D251016010M,23
 Sumptuous Sequins Tweed Mini Bud Skirt in Silver,B251016016XS,23
 Sumptuous Sequins Tweed Mini Bud Skirt in Black,B251016017XS,37
+Retro-Inspired Suede Pleated Midi Skirt in Burgundy,B251016018S-M,23
 Retro-Inspired Suede Pleated Midi Skirt in Green,B251016019S-M,23
 Retro-Inspired Suede Pleated Midi Skirt in Camel,B251016021L-XL,45
 Sculpted Metal Flower Leather Slim Belt in Gold,G251016023ONE-SIZE,23
@@ -5157,7 +5125,6 @@ Perennial Charm Welt Pockets Buttoned Blazer in Sand,T251018009XL,23
 Urban Poise Double-Breasted Side Pocket Jacket,T251018011S,23
 Urban Poise Double-Breasted Side Pocket Jacket,T251018011XL,23
 Crafted Excellence Faux Leather Moto Jacket in Brown,T251018013XL,23
-Lace Puff Sleeves Spliced Crisscross Top,T251018015S,23
 Lace Puff Sleeves Spliced Crisscross Top,T251018015L,37
 Shimmering Rhinestone Embellished Sheer Top,T251018016M,23
 Shimmering Rhinestone Embellished Sheer Top,T251018016XL,23
@@ -5207,7 +5174,7 @@ Reversible Gathered Pleats Tiered Tulle Maxi Skirt in Smoke,B251025006M-L,23
 Reversible Gathered Pleats Tiered Tulle Maxi Skirt in Cream,B251025007M-L,45
 Reversible Gathered Pleats Tiered Tulle Maxi Skirt in TaupeSoft Gathered Pleats Tulle Maxi Skirt in Taupe,B251025008XS-S,135
 Reversible Gathered Pleats Tiered Tulle Maxi Skirt in Taupe,B251025008M-L,22
-Gilded Glow Sequin Embellished Mesh Tulle Midi Skirt for Weddings & Cocktail Parties,B251025009S-M,27
+Gilded Glow Sequin Embellished Mesh Tulle Midi Skirt for Weddings & Cocktail Parties,B251025009S-M,26
 Gilded Glow Sequin Embellished Mesh Tulle Midi Skirt for Weddings & Cocktail Parties,B251025009L-XL,49
 Roomy Ribbed Batwing Sleeve Open-Front Longline Cardigan in Chocolate,T251025014S-M,37
 Roomy Ribbed Batwing Sleeve Open-Front Longline Cardigan in Chocolate,T251025014L-XL,37
@@ -5339,7 +5306,7 @@ Seductive Lace Panelled Pleated Mini Skirt in Black,B251107016M,45
 Seductive Lace Panelled Pleated Mini Skirt in Black,B251107016L,37
 Seductive Lace Panelled Pleated Mini Skirt in Black,B251107016XL,23
 Seductive Lace Panelled Pleated Mini Skirt in Black,B251107016XXL,45
-3D Rose Petal Strapless Mesh Maxi Dress,D251108007XS,23
+3D Rose Petal Strapless Mesh Maxi Dress,D251108007XS,45
 3D Rose Petal Strapless Mesh Maxi Dress,D251108007S,72
 3D Rose Petal Strapless Mesh Maxi Dress,D251108007M,45
 3D Rose Petal Strapless Mesh Maxi Dress,D251108007L,45
@@ -5384,14 +5351,14 @@ Golden Spiral Rhinestone Inserted Earrings in Silver,G251108050ONE-SIZE,45
 Radiant Geometric Rhinestone Beaded Earrings in Silver,G251108052ONE-SIZE,37
 Ripple of Brilliance Rhinestone Drop Earrings in Black,G251108053ONE-SIZE,23
 Ripple of Brilliance Rhinestone Drop Earrings in Silver,G251108055ONE-SIZE,23
-Flower Vine Rhinestone Dangle Earrings,G251108060ONE-SIZE,23
+Flower Vine Rhinestone Dangle Earrings,G251108060ONE-SIZE,45
 Sparkling Rhinestone Maple Leaf Stud Earrings,G251108061ONE-SIZE,45
 Full Rhinestone Tassel Drop Earring in Silver,G251108063ONE-SIZE,37
 Geometric Rhombus Disc Dangle Earrings in Gold,G251108064ONE-SIZE,37
-Geometric Rhombus Disc Dangle Earrings in Silver,G251108065ONE-SIZE,37
+Geometric Rhombus Disc Dangle Earrings in Silver,G251108065ONE-SIZE,23
 Full Rhinestone Bow Shape Dangle Earrings in Silver,G251108066ONE-SIZE,45
 Full Rhinestone Bow Shape Dangle Earrings in Black,G251108067ONE-SIZE,45
-Spiral Statement Rhinestone Hoop Earrings in Gold,G251108068ONE-SIZE,23
+Spiral Statement Rhinestone Hoop Earrings in Gold,G251108068ONE-SIZE,45
 Spiral Statement Rhinestone Hoop Earrings in Silver,G251108069ONE-SIZE,45
 Textured C-Shape Rhinestone Earrings,G251108074ONE-SIZE,37
 Leaf Teardrop Rhinestone Dangle Earrings in Gold,G251108075ONE-SIZE,72
@@ -5491,7 +5458,7 @@ Dahlia Embossed Jacquard Box Pleated Midi Skirt in Mustard,B251118030XS,23
 Dahlia Embossed Jacquard Box Pleated Midi Skirt in Dusty Pink,B251118031XS,23
 Ravishing Sequins Mesh Tulle Midi Skirt in Dark Green,B231104007XXL-XXXL,45
 Beaded Tassel Bowknot Cascade Ruffle Chiffon Maxi Dress in Red,D251108012XS,45
-Beaded Tassel Bowknot Cascade Ruffle Chiffon Maxi Dress in Red,D251108012S,45
+Beaded Tassel Bowknot Cascade Ruffle Chiffon Maxi Dress in Red,D251108012S,37
 Beaded Tassel Bowknot Cascade Ruffle Chiffon Maxi Dress in Red,D251108012M,45
 Beaded Tassel Bowknot Cascade Ruffle Chiffon Maxi Dress in Red,D251108012L,135
 Beaded Tassel Bowknot Cascade Ruffle Chiffon Maxi Dress in Red,D251108012XL,72
@@ -5519,7 +5486,7 @@ Fetchingly 3D Bowknot Buttoned Chunky Knit Cardigan in Red,T251122004S-M,45
 Fetchingly 3D Bowknot Buttoned Chunky Knit Cardigan in Red,T251122004L-XL,45
 Turtleneck Asymmetric Hem Batwing Sleeve Ribbed Knit Sweater,T251122006XS-S,45
 Turtleneck Asymmetric Hem Batwing Sleeve Ribbed Knit Sweater,T251122006M-L,135
-Fitted Tie Neck Lace Panel Knit Dress in Black,D251122014S-M,45
+Fitted Tie Neck Lace Panel Knit Dress in Black,D251122014S-M,37
 Fitted Tie Neck Lace Panel Knit Dress in Ivory,D251122015S-M,37
 Fitted Tie Neck Lace Panel Knit Dress in Pumpkin,D251122016S-M,45
 Holiday Snowfall Plaid A-Line Flare Midi Skirt in Red,B251122020S,23
@@ -5622,7 +5589,6 @@ Pearl Trim Bowknot Open Back Sleeveless Mini Dress in Light Pink,D251204004S,23
 Pearl Trim Bowknot Open Back Sleeveless Mini Dress in Black,D251204005S,23
 Pearl Trim Bowknot Open Back Sleeveless Mini Dress in Black,D251204005M,23
 Pearl Trim Bowknot Open Back Sleeveless Mini Dress in Black,D251204005L,23
-Flock Dot Tie-Bow Ruffle Trim Maxi Dress in Black,D251204009S,23
 Flock Dot Tie-Bow Ruffle Trim Maxi Dress in Plum,D251204011S,23
 Square Rhinestone Asymmetric Draped Sleeve Maxi Dress in Black,D251204012XS,37
 Lissome Mock Neck Chiffon Sleeveless Gown,D251204014L,23
@@ -5665,12 +5631,13 @@ Floral Lace Trimmed Mesh Inserted Ribbed Knit Top in White,T251209030S-M,23
 Shawl Collar Faux Wrap Belt Knit Sweater in Grey,T251209031S-M,45
 Shawl Collar Faux Wrap Belt Knit Sweater in Brown,T251209032S-M,37
 Shawl Collar Faux Wrap Belt Knit Sweater in Black,T251209033S-M,45
+Urban Burgundy Elegance Fashion Tights,G251210001ONE-SIZE,37
 City Chic Black Bow Lattice Tights,G251210002ONE-SIZE,45
 Elegant Sparkle Pinstripe Tights in Black,G251210003ONE-SIZE,37
 Elegant Sparkle Pinstripe Tights in Grey,G251210004ONE-SIZE,37
 Delicate Floral Lace Pattern Tights in Brown,G251210007ONE-SIZE,45
 Retro Cable Pattern Fishnet Tights in Burgundy,G251210009ONE-SIZE,23
-Exquisite Openwork Heart Pattern Tights,G251210010ONE-SIZE,37
+Exquisite Openwork Heart Pattern Tights,G251210010ONE-SIZE,23
 French-Vintage Floral Lace Tights in Burgundy,G251210011ONE-SIZE,37
 French-Vintage Floral Lace Tights in Black,G251210012ONE-SIZE,45
 Diamond Openwork Knit Tights in Grey,G251210015ONE-SIZE,45
@@ -5696,7 +5663,6 @@ Turtleneck Batwing Sleeve Crop Cable Knit Sweater in Ivory,T251211023S-M,45
 Steady Softness Mock Neck Batwing Sleeve Knit Sweater in Army Green,T251211024S-M,23
 Faux Fur Cuffs Shawl Collar Wrap Coat in Tan,T251211034M,23
 Faux Fur Cuffs Shawl Collar Wrap Coat in Lavender,T251211035L,23
-Faux Fur Cuffs Shawl Collar Wrap Coat in Red,T251211036M,23
 Heart Pom-Pom Double Zipper Hand Knit Cardigan in Red,T251211037S-M,45
 Heart Pom-Pom Double Zipper Hand Knit Cardigan in Red,T251211037L-XL,45
 Heart Pom-Pom Double Zipper Hand Knit Cardigan in Cream,T251211038S-M,72
@@ -5704,7 +5670,7 @@ Heart Pom-Pom Double Zipper Hand Knit Cardigan in Cream,T251211038L-XL,45
 Heart Pom-Pom Double Zipper Hand Knit Cardigan in Light Pink,T251211039S-M,45
 Heart Pom-Pom Double Zipper Hand Knit Cardigan in Light Pink,T251211039L-XL,45
 Peak Lapel Inserted Lace Trim Blazer Dress,D251213004S,45
-Peak Lapel Inserted Lace Trim Blazer Dress,D251213004M,37
+Peak Lapel Inserted Lace Trim Blazer Dress,D251213004M,23
 Minimal Vertical Line Belted Knit Sweater and Pants Set in Light Tan,D251213005S-M,23
 Minimal Vertical Line Belted Knit Sweater and Pants Set in Pumpkin,D251213006S-M,23
 Minimal Vertical Line Belted Knit Sweater and Pants Set in Grey,D251213007S-M,23
@@ -5809,7 +5775,6 @@ Fuzzy Halter Knit Top and Open Front Cardigan Set in Grey,T251226026S-M,23
 Fuzzy Halter Knit Top and Open Front Cardigan Set in Ivory,T251226027S-M,37
 Fuzzy Halter Knit Top and Open Front Cardigan Set in Red,T251226028S-M,23
 Vintage Floral Lace Cami Bodysuit in Black,T251227001S,23
-Vintage Floral Lace Cami Bodysuit in Black,T251227001M,23
 Vintage Floral Lace Cami Bodysuit in Brown,T251227002S,37
 Vintage Floral Lace Cami Bodysuit in Brown,T251227002M,23
 Vintage Floral Lace Cami Bodysuit in White,T251227003M,23
@@ -5853,7 +5818,7 @@ Fuzzy Ruffle Hem Ribbed Knit Maxi Skirt in Sand,B260105013S-M,37
 Diagonal Ribbed Texture Knit Midi Skirt in Cream,B260105015S-M,23
 Leaf-Inspired Heart Embossed Pleated Skirt in Red,B260105018S,45
 Leaf-Inspired Heart Embossed Pleated Skirt in Red,B260105018M,72
-Leaf-Inspired Heart Embossed Pleated Skirt in Red,B260105018L,45
+Leaf-Inspired Heart Embossed Pleated Skirt in Red,B260105018L,37
 Embroidered Eyelet Bowknot Ribbed Knit Top in Pea Green,T260105001L-XL,23
 Asymmetric Panel Pleated Maxi Skirt in Navy,B260107001S-M,23
 Scalloped Lace Embellished Pleated Knit Skirt in Ivory,B260107004S-M,37
@@ -5932,7 +5897,7 @@ Rhinestone Heart Decorated Pleated Midi Skirt in Hot Pink,B260112013XL,23
 Rhinestone Heart Decorated Pleated Midi Skirt in Red,B260112014L,45
 Rhinestone Heart Decorated Pleated Midi Skirt in Red,B260112014XL,45
 Bowknot and Grid Jacquard Pleated A-Line Skirt,B260112018XS,23
-Amber-Style Triple Heart Hair Claw,G260115001ONE-SIZE,45
+Amber-Style Triple Heart Hair Claw,G260115001ONE-SIZE,37
 Heart Rhinestones Organza Bowknot Hair Barrette in White,G260115003ONE-SIZE,23
 Full Red Heart Bowknot Hair Barrette,G260115004ONE-SIZE,37
 Red Rhinestones Heart Chain Belt,G260115005ONE-SIZE,37
@@ -5988,8 +5953,9 @@ Fresh Floral Shirred Tie-Strap Maxi Dress for Beach Vacation & Garden Parties,D2
 Fresh Floral Shirred Tie-Strap Maxi Dress for Beach Vacation & Garden Parties,D250122016L,37
 Fresh Floral Shirred Tie-Strap Maxi Dress for Beach Vacation & Garden Parties,D250122016XL,23
 Delicate Floral Lace Panel Cami Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122017S,45
-Delicate Floral Lace Panel Cami Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122017M,37
+Delicate Floral Lace Panel Cami Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122017M,23
 Delicate Floral Lace Panel Cami Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122017L,23
+Delicate Floral Lace Panel Cami Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122017XL,37
 Delicate Floral Lace Panel Puff Sleeve Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122018S,45
 Delicate Floral Lace Panel Puff Sleeve Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122018M,37
 Delicate Floral Lace Panel Puff Sleeve Shirred Maxi Dress for Seaside Vacations & Romantic Getaways,D250122018L,45
@@ -6023,16 +5989,15 @@ Exquisite Black Floral Lace Strapless Corset Bra Top for Romantic Date & Evening
 Modern Blazer-Inspired Strapless Corset Bra Top for Night Outs & Fashion Events,T260127006S,23
 Floral Embroidery Mesh Puff Sleeves Corset Top for Brunch Dates & Garden Parties,T260127007L,37
 Vintage Flower Canvas Panel Lace Corset Top for Date Nights & Retro Themed Events,T260127008S,23
-Vintage Floral Ruffle Strap Bustier Bra Top in Forest Green for Cottagecore Looks & Garden Parties,T260127010S,23
 Vintage Floral Ruffle Strap Bustier Bra Top in Light Blue for Cottagecore Looks & Garden Parties,T260127011XS,23
-3D Floral Applique Mesh Bustier Top for Garden Parties & Bridal Showers,T260127015M,23
-3D Floral Applique Mesh Bustier Top for Garden Parties & Bridal Showers,T260127015L,23
+3D Floral Applique Mesh Bustier Top for Garden Parties & Bridal Showers,T260127015L,37
 Starlit Sequins Long Sleeve Mesh Bodysuit in White for Honeymoons & Cocktail Hours,T260127016L,23
 Starlit Sequins Long Sleeve Mesh Bodysuit in Black for Honeymoons & Cocktail Hours,T260127017XS,23
 Starlit Sequins Long Sleeve Mesh Bodysuit in Black for Honeymoons & Cocktail Hours,T260127017L,23
 Scallop-Trim Floral Lace Bodysuit in Black for Romantic Dinners & Night-Out Plans,T260127018XS,23
 Scallop-Trim Floral Lace Bodysuit in White for Romantic Dinners & Night-Out Plans,T260127019XS,23
 Scallop-Trim Floral Lace Bodysuit in Red for Romantic Dinners & Night-Out Plans,T260127021L,37
+Scallop-Trim Floral Lace Long Sleeve Bodysuit in White for Romantic Dinners & Night-Out Plans,T260127022XS,23
 Scallop-Trim Floral Lace Long Sleeve Bodysuit in White for Romantic Dinners & Night-Out Plans,T260127022S,23
 Scallop-Trim Floral Lace Long Sleeve Bodysuit in White for Romantic Dinners & Night-Out Plans,T260127022M,23
 Scallop-Trim Floral Lace Long Sleeve Bodysuit in Pink for Romantic Dinners & Night-Out Plans,T260127023M,23
@@ -6046,7 +6011,6 @@ Charming 3D Mesh Floral Bodysuit for Date Nights & Bridal Moments,T260127026L,23
 Elegant Sheer Lace Mesh Bustier Top in White for Cocktail Parties & Retro Themed Events,T260127012XS,23
 Elegant Sheer Lace Mesh Bustier Top in White for Cocktail Parties & Retro Themed Events,T260127012S,23
 Elegant Sheer Lace Mesh Bustier Top in Chocolate Brown for Cocktail Parties & Retro Themed Events,T260127013S,37
-Elegant Sheer Lace Mesh Bustier Top in Chocolate Brown for Cocktail Parties & Retro Themed Events,T260127013M,23
 Elegant Sheer Lace Mesh Bustier Top in Black for Cocktail Parties & Retro Themed Events,T260127014XS,23
 Elegant Sheer Lace Mesh Bustier Top in Black for Cocktail Parties & Retro Themed Events,T260127014M,37
 Elegant Sheer Lace Mesh Bustier Top in Black for Cocktail Parties & Retro Themed Events,T260127014XL,23
@@ -6054,16 +6018,14 @@ Detachable Straps Push Up Plunge Bra Top in White for Everyday Comfort & Layerin
 Detachable Straps Push Up Plunge Bra Top in White for Everyday Comfort & Layering,T260131001L,23
 Detachable Straps Push Up Plunge Bra Top in Black for Everyday Comfort & Layering,T260131002XS,23
 Detachable Straps Push Up Plunge Bra Top in Black for Everyday Comfort & Layering,T260131002L,37
-Detachable Straps Push Up Plunge Bra Top in Nude for Everyday Comfort & Layering,T260131003XS,23
 Detachable Straps Push Up Plunge Bra Top in Nude for Everyday Comfort & Layering,T260131003S,23
 Detachable Straps Push Up Plunge Bra Top in Nude for Everyday Comfort & Layering,T260131003M,37
-Adhesive Strapless Push-Up Plunge Bra in Nude for Date Nights & Travel,G260131004A,23
-Adhesive Strapless Push-Up Plunge Bra in Nude for Date Nights & Travel,G260131004B,45
+Adhesive Strapless Push-Up Plunge Bra in Nude for Date Nights & Travel,G260131004B,37
 Adhesive Strapless Push-Up Plunge Bra in Black for Date Nights & Travel,G260131005A,23
 Floral Cutwork Lace Panel Buttoned Shirt and Maxi Skirt Set in Olive Green for Formal Dinners & Weekend Getaways,D260131006XS-S,23
 Floral Cutwork Lace Panel Buttoned Shirt and Maxi Skirt Set in White for Formal Dinners & Weekend Getaways,D260131007XS-S,23
 Floral Cutwork Lace Panel Buttoned Shirt and Maxi Skirt Set in Black for Formal Dinners & Weekend Getaways,D260131008M-L,23
-Floral Cutwork Lace Panel Buttoned Shirt and Maxi Skirt Set in Blue for Formal Dinners & Weekend Getaways,D260131009XS-S,45
+Floral Cutwork Lace Panel Buttoned Shirt and Maxi Skirt Set in Blue for Formal Dinners & Weekend Getaways,D260131009XS-S,37
 Floral Cutwork Lace Panel Buttoned Shirt and Maxi Skirt Set in Blue for Formal Dinners & Weekend Getaways,D260131009M-L,45
 Ocean-Inspired Embroidery Cotton Shirt and Maxi Skirt Set in Navy for Beach Days & Resort Wear,D260131010XS-S,37
 Ocean-Inspired Embroidery Cotton Shirt and Maxi Skirt Set in Navy for Beach Days & Resort Wear,D260131010M-L,23
@@ -6077,15 +6039,15 @@ Soft Sonata Floral Lace Panelled Maxi Dress for Tea Parties & Beach Vacations,D2
 3D Floral Applique Cutwork Lace Cami Maxi Dress in Dusty Rose for Bridal Showers & Garden Weddings,D260131015M,135
 3D Floral Applique Cutwork Lace Cami Maxi Dress in Dusty Rose for Bridal Showers & Garden Weddings,D260131015L,26
 Whispering Floral Puff Sleeve Belt Buttoned Maxi Dress for Vacation & Seaside Strolls,D260131016S,45
-Whispering Floral Puff Sleeve Belt Buttoned Maxi Dress for Vacation & Seaside Strolls,D260131016M,23
+Whispering Floral Puff Sleeve Belt Buttoned Maxi Dress for Vacation & Seaside Strolls,D260131016M,37
 Whispering Floral Puff Sleeve Belt Buttoned Maxi Dress for Vacation & Seaside Strolls,D260131016L,45
 Whispering Floral Puff Sleeve Belt Buttoned Maxi Dress for Vacation & Seaside Strolls,D260131016XL,45
-Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Cream for Romantic Retreats & Sunset Dinners,D260131017L,37
+Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Cream for Romantic Retreats & Sunset Dinners,D260131017L,23
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Cream for Romantic Retreats & Sunset Dinners,D260131017XL,23
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Pink for Romantic Retreats & Sunset Dinners,D260131018M,45
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Pink for Romantic Retreats & Sunset Dinners,D260131018L,45
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Pink for Romantic Retreats & Sunset Dinners,D260131018XL,23
-Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Navy for Romantic Retreats & Sunset Dinners,D260131019S,37
+Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Navy for Romantic Retreats & Sunset Dinners,D260131019S,23
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Navy for Romantic Retreats & Sunset Dinners,D260131019M,45
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Navy for Romantic Retreats & Sunset Dinners,D260131019L,23
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Navy for Romantic Retreats & Sunset Dinners,D260131019XL,23
@@ -6100,6 +6062,7 @@ Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Black for Romantic R
 Floral-Kissed Button-Down Organza Maxi Dress with Brooch in Black for Romantic Retreats & Sunset Dinners,D260131022XL,45
 High-Waist Structured Wide-Leg Palazzo Pants in Brown for Sunset Walks & Oceanfront Dining,B260203005S,23
 High-Waist Structured Wide-Leg Palazzo Pants in Brown for Sunset Walks & Oceanfront Dining,B260203005M,23
+Attention-Grabbing Disc Sequins Mini Bud Skirt in Light Apricot for Anniversary Nights & Birthday Celebrations,B260203008M,23
 Cocoa Brown Leaf Sequins Mini Bud Skirt for Anniversary Nights & Birthday Celebrations,B260203009XS,23
 Cocoa Brown Leaf Sequins Mini Bud Skirt for Anniversary Nights & Birthday Celebrations,B260203009L,23
 Asymmetric Slit Hem Plaid Cotton Maxi Skirt in Warm Brown for Office Days & City Wanders,B260203011S,23
@@ -6117,8 +6080,6 @@ Embroidered Lace Collar and Pockets Cotton Shirt in White for Office Meetings & 
 Tapework Lace Embroidered Crochet Pocket Cotton Shirt for Office Days & Weekend Trips,T260205004M,23
 Mock Neck Petal Sheer Lace Top for City Escapes & Fine Dining Experiences,T260205005L,23
 Mock Neck Petal Sheer Lace Top for City Escapes & Fine Dining Experiences,T260205005XL,23
-Scalloped Lace-Trim Crisscross Satin Top in Ivory for Bridal Events & Anniversary Dinners,T260205010M,23
-Scalloped Lace-Trim Crisscross Satin Top in Chocolate Brown for Bridal Events & Anniversary Dinners,T260205012L,23
 Scalloped Lace-Trim Crisscross Satin Top in Chocolate Brown for Bridal Events & Anniversary Dinners,T260205012XL,23
 Self-Tie Organza Bowknot Sequin Boucle Top in Black for Opera Nights & Cultural Soirees,T260205015S,23
 Allover Floret Side Pocket Mesh Skirt in Cream for Romantic Dinners & Holiday Banquets,B260205017M-L,37
@@ -6127,12 +6088,10 @@ Allover Floret Side Pocket Mesh Skirt in Black for Romantic Dinners & Holiday Ba
 Lustrous Satin Flare Hem Maxi Skirt in Pink for Everyday Wear & Date Nights,B260205022M,23
 Silky Scalloped Lace Trim Satin Maxi Skirt in Ivory for Office Styling & Weekend Outings,B260205023S,23
 Silky Scalloped Lace Trim Satin Maxi Skirt in White for Office Styling & Weekend Outings,B260205024S,23
-Silky Scalloped Lace Trim Satin Maxi Skirt in Black for Office Styling & Weekend Outings,B260205025S,23
 Silky Scalloped Lace Trim Satin Maxi Skirt in Chocolate Brown for Office Styling & Weekend Outings,B260205026S,23
 Silky Scalloped Lace Trim Satin Mini Skirt in Chocolate Brown for Brunch Dates & Weekend Outings,B260205029M,23
 Paisley Embroidery Scalloped Hem Belt Buttoned Maxi Dress for Engagement Photos & Date Nights,D260207008XS,45
 Paisley Embroidery Scalloped Hem Belt Buttoned Maxi Dress for Engagement Photos & Date Nights,D260207008S,23
-Paisley Embroidery Scalloped Hem Belt Buttoned Maxi Dress for Engagement Photos & Date Nights,D260207008M,23
 Paisley Embroidery Scalloped Hem Belt Buttoned Maxi Dress for Engagement Photos & Date Nights,D260207008XL,37
 Blushing Rose V-Neck Twisted Waist Chiffon Maxi Dress in Light Pink for Picnic Dates & Park Concerts,D260207010M,45
 Inky Floral Printed Scarf-Tie Neck Chiffon Dress in Lavender for Garden Parties & Wedding Guests,D260207012S,23
@@ -6141,7 +6100,6 @@ Full Bloom Mock Neck Bubble Sleeve Maxi Dress for Tea Parties & Holiday Celebrat
 Full Bloom Mock Neck Bubble Sleeve Maxi Dress for Tea Parties & Holiday Celebrations,D260207017M,45
 Full Bloom Mock Neck Bubble Sleeve Maxi Dress for Tea Parties & Holiday Celebrations,D260207017L,23
 Full Bloom Mock Neck Bubble Sleeve Maxi Dress for Tea Parties & Holiday Celebrations,D260207017XL,23
-Floral Lace Corset Mesh Bra Top in Black,T250710011L,37
 Floral Lace Corset Mesh Bra Top in Black,T250710011XL,45
 Edgy 3D Beaded Rose Embroidery Shorts for Date Nights & Fashionable Gatherings,B260224001XS,45
 Edgy 3D Beaded Rose Embroidery Shorts for Date Nights & Fashionable Gatherings,B260224001S,23
@@ -6198,7 +6156,7 @@ Floral Brooch Cutout Neck Semi-Sheer Chiffon Top in Brown for Date Nights & Cock
 Floral Brooch Cutout Neck Semi-Sheer Chiffon Top in Black for Date Nights & Cocktail Parties,T260226031L,23
 Floral Cutwork Embroidery Pearl Belt Midi Dress in Black for Coastal Getaways & Beachside Dinners,D260228003XS,23
 Floral Cutwork Embroidery Pearl Belt Midi Dress in Black for Coastal Getaways & Beachside Dinners,D260228003S,45
-Floral Cutwork Embroidery Pearl Belt Midi Dress in Black for Coastal Getaways & Beachside Dinners,D260228003M,23
+Floral Cutwork Embroidery Pearl Belt Midi Dress in Black for Coastal Getaways & Beachside Dinners,D260228003M,45
 Floral Cutwork Embroidery Pearl Belt Midi Dress in White for Coastal Getaways & Beachside Dinners,D260228004XS,72
 Floral Cutwork Embroidery Pearl Belt Midi Dress in White for Coastal Getaways & Beachside Dinners,D260228004S,37
 Floral Cutwork Embroidery Pearl Belt Midi Dress in White for Coastal Getaways & Beachside Dinners,D260228004M,45
@@ -6212,7 +6170,7 @@ Rose Sequins Embroidery Tie-Front Chiffon Maxi Dress in Lavender for Anniversary
 Surplice Cami Jumpsuit and Sheer Lace Top Set in Dusty Blue for Bridal Showers & Evening Dinners,D260228013S,23
 Surplice Cami Jumpsuit and Sheer Lace Top Set in Army Green for Bridal Showers & Evening Dinners,D260228014M,23
 Surplice Cami Jumpsuit and Sheer Lace Top Set in Pink for Bridal Showers & Evening Dinners,D260228015S,23
-Cherry Blossom Printed Organza Shirt and Midi Skirt Set for Garden Parties & Floral Luncheons,D260228017S,72
+Cherry Blossom Printed Organza Shirt and Midi Skirt Set for Garden Parties & Floral Luncheons,D260228017S,45
 Botanical Print Piping-Trim Belted Shirt Dress for Garden Parties & Brunch Dates,D260228020XS,45
 Botanical Print Piping-Trim Belted Shirt Dress for Garden Parties & Brunch Dates,D260228020S,45
 Botanical Print Piping-Trim Belted Shirt Dress for Garden Parties & Brunch Dates,D260228020M,23
@@ -6249,7 +6207,6 @@ Boat Neck Ruched Waist Tank Top in Grey for Office Days & Evening Plans,T2603050
 Draped Neck Braided Open Back Knit Sleeveless Top in Grey for Party Nights & Beach Getaways,T260305004S,23
 Draped Neck Braided Open Back Knit Sleeveless Top in Grey for Party Nights & Beach Getaways,T260305004M,23
 Draped Neck Braided Open Back Knit Sleeveless Top in Grey for Party Nights & Beach Getaways,T260305004L,23
-Draped Neck Braided Open Back Knit Sleeveless Top in Ivory for Party Nights & Beach Getaways,T260305005S,23
 Draped Neck Braided Open Back Knit Sleeveless Top in Ivory for Party Nights & Beach Getaways,T260305005M,23
 Striped Bowknot Shirred Strapless Crop Top in Sky Blue for Beachside Strolls & Weekend Outings,T260305006M,23
 Striped Bowknot Shirred Strapless Crop Top in Soft Yellow for Beachside Strolls & Weekend Outings,T260305007XS,23
@@ -6285,8 +6242,8 @@ Contrast Flap Off-Shoulder Long Sleeve Top in Light Khaki for Coffee Meetups & W
 Contrast Flap Off-Shoulder Long Sleeve Top in Light Khaki for Coffee Meetups & Weekend Outings,T260305025L,23
 Ruched Flap Overlay Ribbed Knit Top in Heather Grey for Brunch Dates & Casual Gatherings,T260305026S-M,23
 Ruched Flap Overlay Ribbed Knit Top in Navy for Brunch Dates & Casual Gatherings,T260305028S-M,23
-Velvet Blooms Lettuce Edge Sheer Mesh Top for Fashion Nights & Weekend Dates,T260307001S,37
-Velvet Blooms Lettuce Edge Sheer Mesh Top for Fashion Nights & Weekend Dates,T260307001L,45
+Velvet Blooms Lettuce Edge Sheer Mesh Top for Fashion Nights & Weekend Dates,T260307001S,23
+Velvet Blooms Lettuce Edge Sheer Mesh Top for Fashion Nights & Weekend Dates,T260307001L,37
 Floral Lace Mock Neck Lettuce Edge Top in White for Dinner Dates & Special Evenings,T260307002XXL,23
 Floral Lace Mock Neck Lettuce Edge Top in Red for Dinner Dates & Special Evenings,T260307003L,23
 Floral Lace Mock Neck Lettuce Edge Top in Red for Dinner Dates & Special Evenings,T260307003XL,23
@@ -6338,7 +6295,7 @@ Luxury Textured Floral Jacquard Pleated Maxi Skirt in Black for Romantic Vacatio
 Luxury Textured Floral Jacquard Pleated Maxi Skirt in Black for Romantic Vacation & Garden Party,B260310026M,45
 Luxury Textured Floral Jacquard Pleated Maxi Skirt in Black for Romantic Vacation & Garden Party,B260310026L,45
 Luxury Textured Floral Jacquard Pleated Maxi Skirt in Black for Romantic Vacation & Garden Party,B260310026XXL,37
-Classic Poise Side Pocket Pleated Midi Skirt in Dusty Blue for Professional Women & Smart Casual Outings,B260310028XL,45
+Classic Poise Side Pocket Pleated Midi Skirt in Dusty Blue for Professional Women & Smart Casual Outings,B260310028XL,37
 Classic Poise Side Pocket Pleated Midi Skirt in Mint for Professional Women & Smart Casual Outings,B260310029XS,23
 Classic Poise Side Pocket Pleated Midi Skirt in Mint for Professional Women & Smart Casual Outings,B260310029S,23
 Classic Poise Side Pocket Pleated Midi Skirt in Black for Professional Women & Smart Casual Outings,B260310030XS,23
@@ -6347,7 +6304,7 @@ Reversible Gathered Pleats Tiered Tulle Maxi Skirt in Mint for Outdoor Brunches 
 Reversible Gathered Pleats Tiered Tulle Maxi Skirt in White for Outdoor Brunches & Beach Vacation,B260313002M-L,23
 Reversible Gathered Pleats Tiered Tulle Maxi Skirt in Blush Pink for Outdoor Brunches & Beach Vacation,B260313004M-L,23
 Peony Whisper Satin A-Line Maxi Skirt for Retro Themed Parties & Charity Balls,B260313009S,45
-Peony Whisper Satin A-Line Maxi Skirt for Retro Themed Parties & Charity Balls,B260313009M,45
+Peony Whisper Satin A-Line Maxi Skirt for Retro Themed Parties & Charity Balls,B260313009M,37
 Peony Whisper Satin A-Line Maxi Skirt for Retro Themed Parties & Charity Balls,B260313009L,37
 Stylized Floral Jacquard Pleated Midi Skirt for Afternoon Tea & Bridal Showers,B260313010M,37
 Boat Neck Crisscross Back Elbow Sleeve Knit Top in Ivory for City Stroll & Rooftop Dinners,T260313011S-M,29
@@ -6362,12 +6319,11 @@ Embroidered Floral Organza Dolly Top and Maxi Skirt Set in Pistachio Green for G
 Cutwork Embroidery Eyelet Cotton Shirt and Pants Set in Light Pink for Retro Themed Gatherings & Art Openings,D260313024M-L,23
 Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress in Baby Blue for Garden Parties & Brunch,D260313029XS,72
 Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress in Baby Blue for Garden Parties & Brunch,D260313029M,135
-Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress in Baby Blue for Garden Parties & Brunch,D260313029L,25
+Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress in Baby Blue for Garden Parties & Brunch,D260313029L,24
 Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress in Baby Blue for Garden Parties & Brunch,D260313029XL,45
 Floral Embroidery Mesh Puff Sleeves Corset Top,T260127007XL,37
 Blushing Rose V-Neck Twisted Waist Chiffon Maxi Dress in Light Pink for Picnic Dates & Park Concerts,D260207010L,72
-Disc Cutwork Lace Buttoned Top and Tiered Maxi Skirt Set in Light Blue for Afternoon Tea & Resort Dinner,D260317002XS-S,23
-Disc Cutwork Lace Buttoned Top and Tiered Maxi Skirt Set in Light Blue for Afternoon Tea & Resort Dinner,D260317002M-L,23
+Disc Cutwork Lace Buttoned Top and Tiered Maxi Skirt Set in Light Blue for Afternoon Tea & Resort Dinner,D260317002M-L,37
 Beaded Floral Appliques Tie-Waist Buttoned Maxi Dress in Mint for Dressy Brunch & Vacation Dinner,D260317006M-L,23
 Beaded Floral Appliques Tie-Waist Buttoned Maxi Dress in Caramel for Dressy Brunch & Vacation Dinner,D260317009XS-S,23
 Ethereal Rose Print Tiered Ruffle Chiffon Maxi Dress in Mustard for Garden Parties & Resort Getaways,D260317011S,23
@@ -6416,7 +6372,6 @@ Cutwork Trim Tie-Front Ruffle Cotton Top in Black for Bohemian Beach Getaways & 
 Cutwork Trim Tie-Front Ruffle Cotton Top in White for Bohemian Beach Getaways & Brunch Dates,T260320031S,23
 Sculptural Metal Handle Faux Leather Clutch in Black for Parties & Weddings,G260321010ONE-SIZE,45
 Sculptural Metal Handle Faux Leather Clutch in Burgundy for Parties & Weddings,G260321011ONE-SIZE,45
-Sculptural Metal Handle Faux Leather Clutch in Brown for Parties & Weddings,G260321013ONE-SIZE,23
 Cloud Shaped Textured Faux Leather Clutch in Sand for Formal Gatherings & Dinners,G260321018ONE-SIZE,23
 Cloud Shaped Textured Faux Leather Clutch in White for Formal Gatherings & Dinners,G260321019ONE-SIZE,23
 Cloud Shaped Textured Faux Leather Clutch in Black for Formal Gatherings & Dinners,G260321020ONE-SIZE,23
@@ -6435,6 +6390,7 @@ Artistic Textured Metallic Blossom Chain Belt for Gallery Outfits & Parties,G260
 Tie-Neck Ruffled Hi-Lo Chiffon Cape and Mini Dress Set in Pink for Red Carpet Events & Luxury Dinners,D260324004S,23
 Tie-Neck Ruffled Hi-Lo Chiffon Cape and Mini Dress Set in Pink for Red Carpet Events & Luxury Dinners,D260324004M,23
 Tie-Neck Ruffled Hi-Lo Chiffon Cape and Mini Dress Set in Pink for Red Carpet Events & Luxury Dinners,D260324004XL,23
+Tie-Neck Ruffled Hi-Lo Chiffon Cape and Mini Dress Set in Blue for Red Carpet Events & Luxury Dinners,D260324005S,23
 Tie-Neck Ruffled Hi-Lo Chiffon Cape and Mini Dress Set in Light Tan for Red Carpet Events & Luxury Dinners,D260324008S,23
 Tie-Neck Ruffled Hi-Lo Chiffon Cape and Mini Dress Set in Light Tan for Red Carpet Events & Luxury Dinners,D260324008M,23
 Beaded Mesh Insert Tie-Waist Shirt and Maxi Skirt Set in Black for Vacation Days & Beachside Lunches,D260324009S,23
@@ -6512,13 +6468,13 @@ Bowknot Brooch Tiered Ruffle Flock Dot Mesh Maxi Dress for Parties & Special Eve
 Line-Drawn Rose Jacquard Halter Neck Mini Dress for Cocktail Evenings & Holiday Events,D260328019S,23
 Line-Drawn Rose Jacquard Halter Neck Mini Dress for Cocktail Evenings & Holiday Events,D260328019M,23
 Regal Peony Print Tie-Waist Sleeveless Maxi Dress for Exclusive Celebrations & Corporate Dinners,D260328020XS,45
-Regal Peony Print Tie-Waist Sleeveless Maxi Dress for Exclusive Celebrations & Corporate Dinners,D260328020S,37
+Regal Peony Print Tie-Waist Sleeveless Maxi Dress for Exclusive Celebrations & Corporate Dinners,D260328020S,23
 Regal Peony Print Tie-Waist Sleeveless Maxi Dress for Exclusive Celebrations & Corporate Dinners,D260328020M,135
 Bowknot Brooch Tiered Ruffle Flock Dot Mesh Maxi Dress for Parties & Special Evenings,D260328014XS,37
 Fresh Floral Shirred Tie-Strap Maxi Dress in Purple for Beach Vacation & Garden Parties,D260331001S,37
 Fresh Floral Shirred Tie-Strap Maxi Dress in Purple for Beach Vacation & Garden Parties,D260331001M,37
 Fresh Floral Shirred Tie-Strap Maxi Dress in Purple for Beach Vacation & Garden Parties,D260331001L,37
-Fresh Floral Shirred Tie-Strap Maxi Dress in Purple for Beach Vacation & Garden Parties,D260331001XL,37
+Fresh Floral Shirred Tie-Strap Maxi Dress in Purple for Beach Vacation & Garden Parties,D260331001XL,23
 Contrast Binding Buttoned Top and Wide-Leg Pants Set for Office Casual & City Errands,D260331002S,45
 Contrast Binding Buttoned Top and Wide-Leg Pants Set for Office Casual & City Errands,D260331002M,45
 Contrast Binding Buttoned Top and Wide-Leg Pants Set for Office Casual & City Errands,D260331002L,45
@@ -6542,13 +6498,13 @@ Casual Patch Pocket Buttoned Shirt and Shorts Set in White for Urban Daily Wear 
 Casual Patch Pocket Buttoned Shirt and Shorts Set in White for Urban Daily Wear & Coffee Runs,D260331011M,37
 Solid Color Longline Cotton Shirt with Sarong in White for Vacation & Beachside Lunch,T260331012M,23
 Solid Color Longline Cotton Shirt with Sarong in White for Vacation & Beachside Lunch,T260331012L,23
-Solid Color Longline Cotton Shirt with Sarong in Baby Blue for Vacation & Beachside Lunch,T260331013S,23
 Solid Color Longline Cotton Shirt with Sarong in Baby Blue for Vacation & Beachside Lunch,T260331013M,23
 Solid Color Longline Cotton Shirt with Sarong in Light Yellow for Vacation & Beachside Lunch,T260331014S,37
 Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in White for Dressy Brunch & Date Night,T260331015S,37
-Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in White for Dressy Brunch & Date Night,T260331015M,23
-Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in White for Dressy Brunch & Date Night,T260331015L,23
+Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in White for Dressy Brunch & Date Night,T260331015M,45
+Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in White for Dressy Brunch & Date Night,T260331015XL,23
 Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in Nude Pink for Dressy Brunch & Date Night,T260331016S,23
+Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in Nude Pink for Dressy Brunch & Date Night,T260331016M,37
 Dramatic Ruffle Bell Sleeve Hi-Lo Chiffon Top in Nude Pink for Dressy Brunch & Date Night,T260331016XL,23
 Bowknot Shape Pearl Rhinestones Clutch in Silver for Cocktail Parties & Celebrations,G260331022ONE-SIZE,23
 Bowknot Shape Pearl Rhinestones Clutch in Pink for Cocktail Parties & Celebrations,G260331023ONE-SIZE,23
@@ -6565,6 +6521,7 @@ Ladder-Lace Detail Oversized Buttoned Shirt in Linen for Resort Brunches & Workd
 Ladder-Lace Detail Oversized Buttoned Shirt in White for Resort Brunches & Workdays,T260402003S,37
 Ladder-Lace Detail Oversized Buttoned Shirt in White for Resort Brunches & Workdays,T260402003M,23
 Guipure Lace Elbow Puff Sleeve Cotton Top for Music Festivals & Outdoor Markets,T260402005S,45
+Guipure Lace Elbow Puff Sleeve Cotton Top for Music Festivals & Outdoor Markets,T260402005M,23
 Ruched V-Neck Long Sleeve Lyocell Knitted Top in Sage for City Strolls & Cafe Hangouts,T260402006S-M,45
 Ruched V-Neck Long Sleeve Lyocell Knitted Top in Black for City Strolls & Cafe Hangouts,T260402007S-M,45
 Ruched V-Neck Long Sleeve Lyocell Knitted Top in Chocolate Brown for City Strolls & Cafe Hangouts,T260402008S-M,45
@@ -6582,7 +6539,7 @@ Ladder-Lace Detail A-Line Maxi Skirt in Black for Brunch Dates & Coastal Getaway
 Ladder-Lace Detail A-Line Maxi Skirt in Black for Brunch Dates & Coastal Getaways,B260402023S,37
 Ladder-Lace Detail A-Line Maxi Skirt in Black for Brunch Dates & Coastal Getaways,B260402023M,23
 Nostalgic Rose Print Crinkled Chiffon Maxi Skirt for Brunch Dates & Daytime Parties,B260403001M-L,23
-Blush Rose Print Crinkled Chiffon Maxi Skirt for Brunch Dates & Daytime Parties,B260403002M-L,23
+Blush Rose Print Crinkled Chiffon Maxi Skirt for Brunch Dates & Daytime Parties,B260403002M-L,37
 Eyelet Embroidery Ruffle Sleeveless Crop Top and Maxi Skirt Set in Apricot for Beach Weddings & Sunset Dates,D260403005XL,23
 Boat Neck Ruched Waist Batwing Sleeve Top in Burgundy for Workdays & Casual Dates,T260403009S,45
 Boat Neck Ruched Waist Batwing Sleeve Top in Burgundy for Workdays & Casual Dates,T260403009M,45
@@ -6624,22 +6581,23 @@ Regal Peony Print Tie-Waist Sleeveless Maxi Dress in Burgundy for Exclusive Cele
 Regal Peony Print Tie-Waist Sleeveless Maxi Dress in Burgundy for Exclusive Celebrations & Corporate Dinners,D260408003PETITE S,23
 Regal Peony Print Tie-Waist Sleeveless Maxi Dress in Burgundy for Exclusive Celebrations & Corporate Dinners,D260408003PETITE L,45
 Regal Peony Print Tie-Waist Sleeveless Maxi Dress in Burgundy for Exclusive Celebrations & Corporate Dinners,D260408003PETITE XL,45
-Glam Ombre Pleat Short Sleeve Spliced Dress for Office & Daily Wear,D260408004XXL,23
 Ruched Short Sleeves Top in Teal for Casual Office Days & Urban Errands,T260408001XS,45
-Ruched Short Sleeves Top in Teal for Casual Office Days & Urban Errands,T260408001S,37
+Ruched Short Sleeves Top in Teal for Casual Office Days & Urban Errands,T260408001S,23
 Ruched Short Sleeves Top in Teal for Casual Office Days & Urban Errands,T260408001M,45
 Ruched Short Sleeves Top in Teal for Casual Office Days & Urban Errands,T260408001L,25
-Ruched Short Sleeves Top in Teal for Casual Office Days & Urban Errands,T260408001XL,23
 Ruched Short Sleeves Top in Teal for Casual Office Days & Urban Errands,T260408001XXL,72
 Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress for Garden Parties & Brunch,D250313014XXL,72
-Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress in Baby Blue for Garden Parties & Brunch,D260313029XXL,37
+Floral Jacquard Puff Sleeves Organza Buttoned Belted Dolly Dress in Baby Blue for Garden Parties & Brunch,D260313029XXL,45
 3D Floral Applique Cutwork Lace Cami Maxi Dress in Dusty Rose for Bridal Showers & Garden Weddings,D260131015XL,45
 Ribbed Texture Batwing Sleeve Knit Top in Tan for Cozy Evenings & Weekend Lounging,T260409003XS-S,37
+Ribbed Texture Batwing Sleeve Knit Top in Lilac for Cozy Evenings & Weekend Lounging,T260409004M-L,23
 Relaxed V-Neck Cutout Back Textured Knit Top in Lime for Daily Wear & Getaways,T260409007XS-S,37
 Relaxed V-Neck Cutout Back Textured Knit Top in Lime for Daily Wear & Getaways,T260409007M-L,23
 Tender Grace Boat Neck Cable-Knit Crop Top in Navy for Brunch Dates & Afternoon Tea,T260409010XS-S,37
 Tender Grace Boat Neck Cable-Knit Crop Top in Yellow for Brunch Dates & Afternoon Tea,T260409011XS-S,37
 Tender Grace Boat Neck Cable-Knit Crop Top in Yellow for Brunch Dates & Afternoon Tea,T260409011M-L,23
+Tender Grace Boat Neck Cable-Knit Crop Top in White for Brunch Dates & Afternoon Tea,T260409013XS-S,37
+Tender Grace Boat Neck Cable-Knit Crop Top in White for Brunch Dates & Afternoon Tea,T260409013M-L,37
 Crisscross Front Textured Knit Sleeveless Top in Oatmeal for Beach Vacations & Yacht Trips,T260409015L-XL,23
 Crisscross Front Textured Knit Sleeveless Top in Ivory for Beach Vacations & Yacht Trips,T260409017S-M,23
 Crisscross Front Textured Knit Sleeveless Top in Ivory for Beach Vacations & Yacht Trips,T260409017L-XL,37
@@ -6681,9 +6639,9 @@ Draped Front Beaded Open-Back Top in Black for Candlelit Dinners & Gallery Dates
 Draped Front Beaded Open-Back Top in White for Candlelit Dinners & Gallery Dates,T260414003S,37
 Draped Front Beaded Open-Back Top in White for Candlelit Dinners & Gallery Dates,T260414003M,45
 Softness Faux Wrap Cap Sleeves Knit Top in Ivory for Workdays & Dinner Dates,T260414005XS-S,72
-Softness Faux Wrap Cap Sleeves Knit Top in Ivory for Workdays & Dinner Dates,T260414005M-L,45
-Softness Faux Wrap Cap Sleeves Knit Top in Purple for Workdays & Dinner Dates,T260414007M-L,23
-Softness Faux Wrap Cap Sleeves Knit Top in Pink for Workdays & Dinner Dates,T260414008M-L,45
+Softness Faux Wrap Cap Sleeves Knit Top in Ivory for Workdays & Dinner Dates,T260414005M-L,37
+Softness Faux Wrap Cap Sleeves Knit Top in Purple for Workdays & Dinner Dates,T260414007M-L,135
+Softness Faux Wrap Cap Sleeves Knit Top in Pink for Workdays & Dinner Dates,T260414008M-L,37
 Short Sleeve Asymmetric Ribbed Knit Top in Rust for Office Wear & Brunch Dates,T260414009XS-S,45
 Short Sleeve Asymmetric Ribbed Knit Top in Rust for Office Wear & Brunch Dates,T260414009M-L,23
 Short Sleeve Asymmetric Ribbed Knit Top in Black for Office Wear & Brunch Dates,T260414010XS-S,37
@@ -6727,7 +6685,7 @@ Vibrant Pinky Hibiscus Pleated A-Line Maxi Skirt for Tropical Getaways & Seaside
 Vibrant Pinky Hibiscus Pleated A-Line Maxi Skirt for Tropical Getaways & Seaside Holidays,B260416015M,45
 Vibrant Pinky Hibiscus Pleated A-Line Maxi Skirt for Tropical Getaways & Seaside Holidays,B260416015L,45
 Vibrant Pinky Hibiscus Pleated A-Line Maxi Skirt for Tropical Getaways & Seaside Holidays,B260416015XL,37
-Vibrant Pinky Hibiscus Pleated A-Line Maxi Skirt for Tropical Getaways & Seaside Holidays,B260416015XXL,45
+Vibrant Pinky Hibiscus Pleated A-Line Maxi Skirt for Tropical Getaways & Seaside Holidays,B260416015XXL,37
 Flourishing Botanical Side Pocket Organza Maxi Skirt in White for Rooftop Dinners & Sunset Soirees,B260416017S,23
 Fitted Slant Shoulder Ribbed Knit Top in Black for City Walks & Weekend Brunch,T260416018S-M,37
 Fitted Slant Shoulder Ribbed Knit Top in Pink for City Walks & Weekend Brunch,T260416019S-M,45
@@ -6735,8 +6693,8 @@ Fitted Slant Shoulder Ribbed Knit Top in Cream for City Walks & Weekend Brunch,T
 Fitted Slant Shoulder Ribbed Knit Top in Red for City Walks & Weekend Brunch,T260416021S-M,45
 Satin Panel Beaded Bowknot Shoulder Knit Top in Apricot for Dinner Dates & Elegant Getaways,T260416025S-M,37
 Satin Panel Beaded Bowknot Shoulder Knit Top in Apricot for Dinner Dates & Elegant Getaways,T260416025L-XL,23
+Statement 3D Ruffle Flower Swimsuit in Yellow for Resort Getaways & Beach,D260416026M,23
 Statement 3D Ruffle Flower Swimsuit in Red for Resort Getaways & Beach,D260416027S,23
-Statement 3D Ruffle Flower Swimsuit in Red for Resort Getaways & Beach,D260416027M,23
 Statement 3D Ruffle Flower Swimsuit in Red for Resort Getaways & Beach,D260416027L,37
 Statement 3D Ruffle Flower Swimsuit in Pink for Resort Getaways & Beach,D260416028S,45
 Statement 3D Ruffle Flower Swimsuit in Pink for Resort Getaways & Beach,D260416028M,45
@@ -6747,13 +6705,13 @@ Statement 3D Ruffle Flower Swimsuit in White for Resort Getaways & Beach,D260416
 Statement 3D Ruffle Flower Swimsuit in White for Resort Getaways & Beach,D260416030L,23
 Red Rose Polka Dot Sleeveless Midi Dress for Wedding Guests & Date Nights,D260416031S,23
 Midnight Floral Button Down Ruffle Chiffon Dress for Moonlit Dinners & Gallery Dates,D260418001S-M,23
-Wavy Texture Mock Neck Ruched Top in White for Office Wear & Daily Errands,T260418012M,37
+Wavy Texture Mock Neck Ruched Top in White for Office Wear & Daily Errands,T260418012XS,23
+Wavy Texture Mock Neck Ruched Top in White for Office Wear & Daily Errands,T260418012M,23
 Wavy Texture Mock Neck Ruched Top in White for Office Wear & Daily Errands,T260418012XL,23
 Wavy Texture Mock Neck Ruched Top in Black for Office Wear & Daily Errands,T260418015M,23
 Wavy Texture Mock Neck Ruched Top in Black for Office Wear & Daily Errands,T260418015L,23
 Front Hook Polka Dot Ruffled Lace-Up Bustier in Brown for Date Nights & Parties,T260420001L,23
 Front Hook Polka Dot Ruffled Lace-Up Bustier in Apricot for Date Nights & Parties,T260420002S,23
-Heart Tiered Ruffle Buttoned Organza Top and Maxi Skirt Set in Black for Afternoon Tea & Vacation,D260421001M,23
 Heart Tiered Ruffle Buttoned Organza Top and Maxi Skirt Set in Light Blue for Afternoon Tea & Vacation,D260421002S,23
 Heart Tiered Ruffle Buttoned Organza Top and Maxi Skirt Set in Blush Pink for Afternoon Tea & Vacation,D260421003M,23
 Butterfly Sequins Embroidery Buttoned Lace Maxi Dress in Black for Art Gallery & Celebrations,D260421004XS-S,23
@@ -6771,7 +6729,6 @@ Petal Applique Draped Strap Satin Maxi Dress in Black for Cocktail Parties & Eve
 Petal Applique Draped Strap Satin Maxi Dress in Ivory for Cocktail Parties & Evening Dinners,D260421018S,23
 Petal Applique Draped Strap Satin Maxi Dress in Ivory for Cocktail Parties & Evening Dinners,D260421018M,37
 Petal Applique Draped Strap Satin Maxi Dress in Light Pink for Cocktail Parties & Evening Dinners,D260421019M,23
-Intricate Paisley Print Tie-Neck Chiffon Maxi Dress in Pink for Cultural Trips & Sightseeing,D260421026S-M,37
 Golden Floral Jacquarded Sleeveless Organza Midi Dress for Bridal Events & Elegant Receptions,D260421029S,45
 Golden Floral Jacquarded Sleeveless Organza Midi Dress for Bridal Events & Elegant Receptions,D260421029M,45
 Golden Floral Jacquarded Sleeveless Organza Midi Dress for Bridal Events & Elegant Receptions,D260421029L,45
@@ -6798,7 +6755,7 @@ Fluid Textured Ribbed Knit Maxi Skirt in Mint for Business Casual & Holiday Outi
 Cowl Open-Back Tie-String Sleeveless Knit Top in Mint for Shopping Trips & Holiday Outings,T260422018M-L,23
 Scarf-Neck Asymmetric Halter Rib Knit Top in Purple for Dinner Dates & Holiday,T260422019S-M,45
 Scarf-Neck Asymmetric Halter Rib Knit Top in Cream for Dinner Dates & Holiday,T260422020S-M,45
-Paisley Print Shirred Waist Tiered Maxi Skirt in Pink for Beach Getaways & Casual Brunches,B260428002S,23
+Sheer Lace Trim Mesh Bustier Top for Clubwear & Date Nights,T260428001S,23
 Paisley Print Shirred Waist Tiered Maxi Skirt in Pink for Beach Getaways & Casual Brunches,B260428002L,23
 Paisley Print Shirred Waist Tiered Maxi Skirt in Pink for Beach Getaways & Casual Brunches,B260428002XL,23
 Paisley Print Shirred Waist Tiered Maxi Skirt in Magenta for Beach Getaways & Casual Brunches,B260428003M,23
@@ -6806,27 +6763,25 @@ Paisley Print Shirred Waist Tiered Maxi Skirt in Magenta for Beach Getaways & Ca
 Paisley Print Shirred Waist Tiered Maxi Skirt in Yellow for Beach Getaways & Casual Brunches,B260428004S,23
 Paisley Print Shirred Waist Tiered Maxi Skirt in Yellow for Beach Getaways & Casual Brunches,B260428004M,23
 Paisley Print Shirred Waist Tiered Maxi Skirt in Yellow for Beach Getaways & Casual Brunches,B260428004XL,23
-Paisley Print Shirred Waist Tiered Maxi Skirt in Blue for Beach Getaways & Casual Brunches,B260428005M,45
+Paisley Print Shirred Waist Tiered Maxi Skirt in Blue for Beach Getaways & Casual Brunches,B260428005M,23
 One-Shoulder Embossed Openwork Ruched Maxi Dress for Bridal Events & Music Festivals,D260428006S,23
 One-Shoulder Embossed Openwork Ruched Maxi Dress for Bridal Events & Music Festivals,D260428006M,23
 Wildflower Off-Shoulder Cut Out Waist Maxi Dress for Garden Parties & Bridal Events,D260428007S,37
-Wildflower Off-Shoulder Cut Out Waist Maxi Dress for Garden Parties & Bridal Events,D260428007M,23
-Wildflower Off-Shoulder Cut Out Waist Maxi Dress for Garden Parties & Bridal Events,D260428007XL,23
 Asymmetrical One-Shoulder Side Knot Top and Pants Set for Resort Wear & Brunch Dates,D260428008L,23
 Button-Front Cotton Cami Top and Wide-Leg Pants Set in Linen for Workday & Afternoon Tea,D260428009XS,37
 Button-Front Cotton Cami Top and Wide-Leg Pants Set in Linen for Workday & Afternoon Tea,D260428009S,37
 Button-Front Cotton Cami Top and Wide-Leg Pants Set in Brown for Workday & Afternoon Tea,D260428010XS,23
 Button-Front Cotton Cami Top and Wide-Leg Pants Set in Brown for Workday & Afternoon Tea,D260428010S,23
 Tapework Lace Tie-Front Sleeveless Top and Shorts Set in Brown for Beach Getaways & Casual Brunches,D260428013M,23
-3D Bloom Embroidered Puff Sleeve Cotton Shirt and Shorts Set for Resort Getaways & Beach Dinners,D260428014S,37
-3D Bloom Embroidered Puff Sleeve Cotton Shirt and Shorts Set for Resort Getaways & Beach Dinners,D260428014M,23
 3D Bloom Embroidered Puff Sleeve Cotton Shirt and Shorts Set for Resort Getaways & Beach Dinners,D260428014L,37
 3D Bloom Embroidered Puff Sleeve Cotton Shirt and Shorts Set for Resort Getaways & Beach Dinners,D260428014XL,23
-Boho Floral Puff Sleeve Top and Belted Shorts Set in Pink for Vacation & Weekend Brunch,D260428015S,45
+Boho Floral Puff Sleeve Top and Belted Shorts Set in Pink for Vacation & Weekend Brunch,D260428015S,23
 Boho Floral Puff Sleeve Top and Belted Shorts Set in Pink for Vacation & Weekend Brunch,D260428015M,37
-Boho Floral Puff Sleeve Top and Belted Shorts Set in Pink for Vacation & Weekend Brunch,D260428015L,45
+Boho Floral Puff Sleeve Top and Belted Shorts Set in Pink for Vacation & Weekend Brunch,D260428015L,37
 Boho Floral Puff Sleeve Top and Belted Shorts Set in Pink for Vacation & Weekend Brunch,D260428015XL,37
+Tropical Sun Face Tie-Shoulder Cami Top and Palazzo Pants Set for Weekend Outings & Rooftop Gatherings,D260428017S,23
 Tropical Sun Face Tie-Shoulder Cami Top and Palazzo Pants Set for Weekend Outings & Rooftop Gatherings,D260428017M,45
+Tropical Sun Face Tie-Shoulder Cami Top and Palazzo Pants Set for Weekend Outings & Rooftop Gatherings,D260428017L,23
 Tropical Sun Face Tie-Shoulder Cami Top and Palazzo Pants Set for Weekend Outings & Rooftop Gatherings,D260428017XL,45
 Wildflower Tie-Shoulder Cami Top and Palazzo Pants Set for Weekend Outings & Rooftop Gatherings,D260428018S,45
 Wildflower Tie-Shoulder Cami Top and Palazzo Pants Set for Weekend Outings & Rooftop Gatherings,D260428018M,23
@@ -6864,8 +6819,7 @@ Lace Trim V-Neck Tie-Back Satin Top in Silver for Bridal Events & Date Night,T26
 Lace Trim V-Neck Tie-Back Satin Top in Silver for Bridal Events & Date Night,T260507003L,37
 Lace Trim V-Neck Tie-Back Satin Top in Lilac for Bridal Events & Date Night,T260507004S,23
 Lace Trim V-Neck Tie-Back Satin Top in Lilac for Bridal Events & Date Night,T260507004M,23
-Lace Trim V-Neck Tie-Back Satin Top in Lilac for Bridal Events & Date Night,T260507004L,23
-Draped Scarf-Tie Neckline Sleeveless Top in Black for Office Days & Casual Brunch,T260507005S,37
+Draped Scarf-Tie Neckline Sleeveless Top in Black for Office Days & Casual Brunch,T260507005S,23
 Draped Scarf-Tie Neckline Sleeveless Top in Black for Office Days & Casual Brunch,T260507005M,37
 Draped Scarf-Tie Neckline Sleeveless Top in Cream for Office Days & Casual Brunch,T260507006S,45
 Draped Scarf-Tie Neckline Sleeveless Top in Cream for Office Days & Casual Brunch,T260507006M,37
@@ -6878,9 +6832,7 @@ Twist Hi-Lo Hem Collared Cotton Top in White for Office Casual & Client Meetings
 Twist Hi-Lo Hem Collared Cotton Top in Light Yellow for Office Casual & Client Meetings,T260507011XS-S,45
 Twist Hi-Lo Hem Collared Cotton Top in Light Yellow for Office Casual & Client Meetings,T260507011M-L,37
 Tapework Lace Ruffle Trim Sleeveless Top in Black for Wedding Guest & Cocktail Occasions,T260507021S,23
-Tapework Lace Ruffle Trim Sleeveless Top in Black for Wedding Guest & Cocktail Occasions,T260507021M,23
 Tapework Lace Ruffle Trim Sleeveless Top in Black for Wedding Guest & Cocktail Occasions,T260507021L,23
-Tapework Lace Ruffle Trim Sleeveless Top in Cream for Wedding Guest & Cocktail Occasions,T260507022S,23
 Tapework Lace Ruffle Trim Sleeveless Top in Cream for Wedding Guest & Cocktail Occasions,T260507022L,23
 Streamlined Textured Belted Wide-Leg Pants in Black for Office Days & Smart Casual,B260507023L,37
 Streamlined Textured Belted Wide-Leg Pants in Caramel for Office Days & Smart Casual,B260507024M,37
@@ -6898,7 +6850,7 @@ Cloud-Like Tiered Ruffle Tulle Maxi Skirt in Blush Pink for Wedding Guest & Brid
 Crimson Peony Box Pleated Organza Midi Skirt for Vacation Dinners & Resort Outings,B260507035S,23
 Boho Floral Puff Sleeve Top and Belted  Shorts Set in Yellow for Vacation & Weekend Brunch,D260428016M,23
 Boho Floral Puff Sleeve Top and Belted  Shorts Set in Yellow for Vacation & Weekend Brunch,D260428016L,23
-Winsome Twisted Shoulder Side Pocket Midi Dress in Black for Wedding Receptions & Formal Dinners,D260328002L,37
+Winsome Twisted Shoulder Side Pocket Midi Dress in Black for Wedding Receptions & Formal Dinners,D260328002L,23
 Winsome Twisted Shoulder Side Pocket Midi Dress in Black for Wedding Receptions & Formal Dinners,D260328002XL,45
 Seam Detail Side Pockets Linen-Blend Maxi Skirt in White for Casual Days & Weekend Outings,B260509001S,23
 Seam Detail Side Pockets Linen-Blend Maxi Skirt in White for Casual Days & Weekend Outings,B260509001M,23
@@ -6954,17 +6906,18 @@ Metal Ring Detail Knit Top and Sash Front Maxi Skirt Set in Black for Tropical G
 Metal Ring Detail Knit Top and Sash Front Maxi Skirt Set in White for Tropical Getaways & Resort Dinners,D260514002S-M,45
 Mock Neck Side Pockets Belted Maxi Dress in White for City Sightseeing & Cafe Hopping,D260514004S,23
 Mock Neck Side Pockets Belted Maxi Dress in White for City Sightseeing & Cafe Hopping,D260514004M,45
+Burnout Floral Lace-Up Open Back Maxi Dress in Burgundy for Cocktail Receptions & Special Events,D260514005S,23
 Burnout Floral Organza Panel Flare Maxi Dress in Black for Afternoon Teas & Dinner Dates,D260514007S,37
 Burnout Floral Organza Panel Flare Maxi Dress in Black for Afternoon Teas & Dinner Dates,D260514007M,37
 Burnout Floral Organza Panel Flare Maxi Dress in Cream for Afternoon Teas & Dinner Dates,D260514009M,45
+Lace Insert Ruffled Hem Sleeveless Top and Shorts Set for Beach Vacations & Garden Gatherings,D260516001S,37
 Lace Insert Ruffled Hem Sleeveless Top and Shorts Set for Beach Vacations & Garden Gatherings,D260516001XL,23
 Bubble Sleeve Semi Sheer Striped Shirt and Shorts Set for City Strolls & Workdays,D260516002L,23
-Botanical Print Flutter Sleeve Tie-Front Top and Pants Set for Weekend Getaways & Vacations,D260516004S,37
+Botanical Print Flutter Sleeve Tie-Front Top and Pants Set for Weekend Getaways & Vacations,D260516004S,23
 Botanical Print Flutter Sleeve Tie-Front Top and Pants Set for Weekend Getaways & Vacations,D260516004L,23
 Botanical Print Flutter Sleeve Tie-Front Top and Pants Set for Weekend Getaways & Vacations,D260516004XL,23
 Lemon Print Ruffled Bubble Sleeve Top and Shorts Set for Tropical Vacations & Resort Brunches,D260516005XS,23
 Lemon Print Ruffled Bubble Sleeve Top and Shorts Set for Tropical Vacations & Resort Brunches,D260516005S,37
-Lemon Print Ruffled Bubble Sleeve Top and Shorts Set for Tropical Vacations & Resort Brunches,D260516005M,23
 Sea-Inspired Flap Pocket Shirt and Shorts Set for Cruise Excursions & Sightseeing Days,D260516006XS,23
 Romantic Garden Puff Sleeve Top and Belted Shorts Set for Garden Tea Parties & Coastal Strolls,D260516007M,45
 Boho Resort Button-Up Tie-Waist Mini Dress for Road Trips & Cruise Excursions,D260516008S,23
@@ -6990,8 +6943,7 @@ Embroidered Floral Trim Short Sleeve Top in Sand for Casual Errands & Picnic Day
 Embroidered Floral Trim Short Sleeve Top in Sand for Casual Errands & Picnic Days,T260519002M,45
 Embroidered Lace Hem Panel Cotton-Blend T-Shirt in Black for Casual Brunch & Weekend Outings,T260519003S-M,45
 Embroidered Lace Hem Panel Cotton-Blend T-Shirt in White for Casual Brunch & Weekend Outings,T260519004S-M,37
-3D Rose Lace Front Puff Sleeve Knit Top in Black for Bridal Showers & Afternoon Tea,T260519005S-M,23
-3D Rose Lace Front Puff Sleeve Knit Top in White for Bridal Showers & Afternoon Tea,T260519006S-M,45
+3D Rose Lace Front Puff Sleeve Knit Top in White for Bridal Showers & Afternoon Tea,T260519006S-M,37
 Intricate Lace Overlay Scalloped Edge Top in White for Bridal Showers & Afternoon Tea,T260519008S-M,45
 Intricate Lace Overlay Scalloped Edge Top in Dusty Pink for Bridal Showers & Afternoon Tea,T260519009S-M,45
 Intricate Lace Overlay Scalloped Edge Top in Dusty Blue for Bridal Showers & Afternoon Tea,T260519010S-M,45
@@ -7002,7 +6954,7 @@ Cutwork Embroidered Bubble Sleeve Cotton Top in White for Casual Errands & Weeke
 Grid Embroidered Eyelet Button-Up Cotton Top for Coastal Getaways & Garden Strolls,T260519013S,37
 Grid Embroidered Eyelet Button-Up Cotton Top for Coastal Getaways & Garden Strolls,T260519013M,23
 Guipure Lace Self-Tie String Cardigan in Blue for Beach Vacations & Coastal Strolls,T260519014S-M,45
-Guipure Lace Self-Tie String Cardigan in Cream for Beach Vacations & Coastal Strolls,T260519015S-M,45
+Guipure Lace Self-Tie String Cardigan in Cream for Beach Vacations & Coastal Strolls,T260519015S-M,37
 Pastel Reverie Organza Buttoned Top and Maxi Skirt Set for Artful Days & Outdoor Weddings,D260519016S,23
 Faux Wrap Draped Sash Sleeveless Maxi Dress in Black for Wedding Guest Events & Evening Galas,D260519017S,23
 Faux Wrap Draped Sash Sleeveless Maxi Dress in Black for Wedding Guest Events & Evening Galas,D260519017M,37
@@ -7019,8 +6971,6 @@ Blue Sketch Blossom V-Neck Bubble Sleeve Tiered Dress for Brunch Dates & Garden 
 Ditsy Floral Embroidery Ruffled Wrap Cotton Dress in Lilac for Countryside Picnics & Weekend Retreats,D260519022S,37
 Ditsy Floral Embroidery Ruffled Wrap Cotton Dress in Lilac for Countryside Picnics & Weekend Retreats,D260519022M,23
 Ditsy Floral Embroidery Ruffled Wrap Cotton Dress in White for Countryside Picnics & Weekend Retreats,D260519023S,37
-Paisley Ombre Puff Sleeves Chiffon Maxi Dress in Yellow for Garden Brunches & Vacation Strolls,D260519026S-M,23
-Paisley Ombre Puff Sleeves Chiffon Maxi Dress in Blue for Garden Brunches & Vacation Strolls,D260519027S-M,23
 Painterly Print Button-Down Midi Shirt Dress for Seaside Lunches & Outdoor Celebrations,D260519028S,23
 Watercolor Abstract Print Chiffon Top and Maxi Skirt Set for Art Events & Creative Gatherings,D260521001L,23
 Magnificent Cape Sleeve Off-Shoulder Top and Maxi Skirt Set in Black for Formal Occasions & Special Events,D260521002S,23
@@ -7048,21 +6998,21 @@ Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Lime for Cocktail Parties 
 Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Lime for Cocktail Parties & Afternoon Tea,D260521015S,23
 Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Lime for Cocktail Parties & Afternoon Tea,D260521015M,23
 Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Pink for Cocktail Parties & Afternoon Tea,D260521016XS,23
-Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Pink for Cocktail Parties & Afternoon Tea,D260521016S,37
-Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Pink for Cocktail Parties & Afternoon Tea,D260521016M,37
+Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Pink for Cocktail Parties & Afternoon Tea,D260521016S,23
+Lovely Bowknot Sleeveless Paneled Flare Midi Dress in Pink for Cocktail Parties & Afternoon Tea,D260521016M,23
 Floral Lace Overlay Sleeveless Maxi Dress for Bridal Events & Garden Gatherings,D260521017S,23
 Floral Lace Overlay Sleeveless Maxi Dress for Bridal Events & Garden Gatherings,D260521017L,23
+Polka Dot Print Sleeveless A-Line Midi Dress in Black for Birthday Lunches & Picnic Dates,D260521018S,23
 Polka Dot Print Sleeveless A-Line Midi Dress in Ivory for Birthday Lunches & Picnic Dates,D260521019M,23
 Wildflower Print Bubble Sleeve Mesh Panel Midi Dress for Bridal Showers & Soft Dates,D260521021S,45
 Pastel Garden Lace A-Line Cami Maxi Dress in Green for Garden Brunches & Vacation Strolls,D260521022XS,23
 Pastel Garden Lace A-Line Cami Maxi Dress in Green for Garden Brunches & Vacation Strolls,D260521022S,23
-Pastel Garden Lace A-Line Cami Maxi Dress in Pink for Garden Brunches & Vacation Strolls,D260521023M,23
 Pastel Garden Lace A-Line Cami Maxi Dress in Coral for Garden Brunches & Vacation Strolls,D260521024XS,23
 Floral Embroidered Sequins Lantern Sleeve Maxi Dress in Brown for Wedding Guests & Formal Events,D260521025XS-S,23
 Floral Embroidered Sequins Lantern Sleeve Maxi Dress in Mint for Wedding Guests & Formal Events,D260521026XS-S,23
 Floral Embroidered Sequins Lantern Sleeve Maxi Dress in Baby Blue for Wedding Guests & Formal Events,D260521027M-L,23
 Floral Embroidered Sequins Lantern Sleeve Maxi Dress in Cream for Wedding Guests & Formal Events,D260521029XS-S,23
-Iridescent Floral Sequin Pearl Satin Clutch for Cocktail Parties & Weddings,G260523002ONE-SIZE,37
+Iridescent Floral Sequin Pearl Satin Clutch for Cocktail Parties & Weddings,G260523002ONE-SIZE,23
 Moonlit Sheen Pleated Shell Satin Clutch for Parties & Celebrations,G260523003ONE-SIZE,23
 Elegant Shell Clasp Pleated Satin Clutch for Cocktail Parties & Bridal Events,G260523004ONE-SIZE,37
 Glitter Wave Texture Leaf Clasp Clutch in Champagne for Formal Events & Wedding Receptions,G260523005ONE-SIZE,23
@@ -7084,7 +7034,7 @@ Cascade Ruffle Tie-Neck Halter Chiffon Top in Cream for Afternoon Tea & Bridal S
 Cascade Ruffle Tie-Neck Halter Chiffon Top in Cream for Afternoon Tea & Bridal Showers,T260526006L,37
 Chiffon Sash Panel One-Shoulder Sleeveless Knit Top in Black for Date Nights & Garden Parties,T260526007XS-S,37
 Chiffon Sash Panel One-Shoulder Sleeveless Knit Top in Black for Date Nights & Garden Parties,T260526007M-L,37
-Chiffon Sash Panel One-Shoulder Sleeveless Knit Top in Apricot for Date Nights & Garden Parties,T260526008M-L,45
+Chiffon Sash Panel One-Shoulder Sleeveless Knit Top in Apricot for Date Nights & Garden Parties,T260526008M-L,37
 Chiffon Sash Panel One-Shoulder Sleeveless Knit Top in Lilac for Date Nights & Garden Parties,T260526009XS-S,23
 Chiffon Sash Panel One-Shoulder Sleeveless Knit Top in Lilac for Date Nights & Garden Parties,T260526009M-L,45
 Chiffon Sash Panel One-Shoulder Sleeveless Knit Top in White for Date Nights & Garden Parties,T260526010M-L,37
@@ -7125,8 +7075,6 @@ Gentle Side Tie-Bow Satin Maxi Skirt in Light Blue for Cocktail Receptions & Art
 Gentle Side Tie-Bow Satin Maxi Skirt in Mauve for Cocktail Receptions & Art Gallery Openings,B260526030L,37
 Gentle Side Tie-Bow Satin Maxi Skirt in Purple for Cocktail Receptions & Art Gallery Openings,B260526031L,37
 Gentle Side Tie-Bow Satin Maxi Skirt in Lilac for Cocktail Receptions & Art Gallery Openings,B260526032L,45
-Patchwork Botanical Crinkled Chiffon Maxi Skirt in Lilac for Outdoor Markets & Resort Getaways,B260526033XS-S,23
-Patchwork Botanical Crinkled Chiffon Maxi Skirt in Moss Green for Outdoor Markets & Resort Getaways,B260526034XS-S,23
 Patchwork Botanical Crinkled Chiffon Maxi Skirt in Moss Green for Outdoor Markets & Resort Getaways,B260526034M-L,23
 Stylish Front Overlay Panel Palazzo Pants in Black for Coffee Runs & Weekend Brunch Dates,B260526035S,23
 Stylish Front Overlay Panel Palazzo Pants in Black for Coffee Runs & Weekend Brunch Dates,B260526035M,37
@@ -7138,7 +7086,6 @@ Asymmetrical Overlay Side Drawstring Palazzo Pants in Black for Office Days & Sm
 Asymmetrical Overlay Side Drawstring Palazzo Pants in Black for Office Days & Smart Casual Wear,B260526037M,23
 Asymmetrical Overlay Side Drawstring Palazzo Pants in Khaki for Office Days & Smart Casual Wear,B260526038S,23
 Asymmetrical Overlay Side Drawstring Palazzo Pants in Khaki for Office Days & Smart Casual Wear,B260526038M,37
-Asymmetrical Overlay Side Drawstring Palazzo Pants in Khaki for Office Days & Smart Casual Wear,B260526038L,23
 Embroidered Floral Eyelet Straight-Leg Jeans in Army Green for Gallery Visits & Office Days,B260526039S,37
 Embroidered Floral Eyelet Straight-Leg Jeans in Army Green for Gallery Visits & Office Days,B260526039M,23
 Embroidered Floral Eyelet Straight-Leg Jeans in White for Gallery Visits & Office Days,B260526040M,23
@@ -7157,12 +7104,14 @@ Ladder-Lace Trimming Drawstring Linen-Blend Shorts in Black for Casual Office Da
 Ladder-Lace Trimming Drawstring Linen-Blend Shorts in Black for Casual Office Days & Brunch Outings,B260528004L,23
 Simple High Waist Linen-Blend Maxi Skirt for Client Meetings & Networking Events,B260528005S,23
 Simple High Waist Linen-Blend Maxi Skirt for Client Meetings & Networking Events,B260528005M,37
+Dreamy Two-Tone Bow-Waist Mesh Tulle Maxi Skirt in Pink for Sunset Dinner Dates & Coastal Walks,B260528006L-XL,23
 Dreamy Two-Tone Bow-Waist Mesh Tulle Maxi Skirt in Black for Sunset Dinner Dates & Coastal Walks,B260528007S-M,23
+Dreamy Two-Tone Bow-Waist Mesh Tulle Maxi Skirt in Black for Sunset Dinner Dates & Coastal Walks,B260528007L-XL,23
 Lustrous Satin Flare Hem Maxi Skirt in Brown for Everyday Wear & Date Nights,B260528010S,23
 Lemon Garden Belted Flare Cotton Midi Skirt for Resort Getaways & Market Strolls,B260528013S,45
 Lemon Garden Belted Flare Cotton Midi Skirt for Resort Getaways & Market Strolls,B260528013M,45
 Lemon Garden Belted Flare Cotton Midi Skirt for Resort Getaways & Market Strolls,B260528013L,23
-Lemon Garden Belted Flare Cotton Midi Skirt for Resort Getaways & Market Strolls,B260528013XXL,37
+Lemon Garden Belted Flare Cotton Midi Skirt for Resort Getaways & Market Strolls,B260528013XXL,23
 Poised Golden Button Cable Knit Top in White for Business Casual & Weekend Errands,T260528015S-M,23
 Poised Golden Button Cable Knit Top in Black for Business Casual & Weekend Errands,T260528017S-M,23
 Cutwork Embroidery Puff Sleeves Cotton Shirt in White for Workdays & Weekend Outings,T260528019M,37
@@ -7181,7 +7130,6 @@ Organza Overlay Panel Ruched Waist Top in Black for Seaside Walks & Terrace Part
 Organza Overlay Panel Ruched Waist Top in Ivory for Seaside Walks & Terrace Parties,T260528029S,23
 Organza Overlay Panel Ruched Waist Top in Ivory for Seaside Walks & Terrace Parties,T260528029M,37
 Organza Overlay Panel Ruched Waist Top in Ivory for Seaside Walks & Terrace Parties,T260528029L,37
-Satin Tie Back Sleeveless Top in Taupe for Date Nights & Parties,T260528030S,23
 Elbow Sleeves Tie-Front Cotton Peplum Top and Maxi Skirt Set in Chocolate Brown for Island Getaway & Sunset Walk,D260530001S,23
 Elbow Sleeves Tie-Front Cotton Peplum Top and Maxi Skirt Set in Chocolate Brown for Island Getaway & Sunset Walk,D260530001M,23
 Elbow Sleeves Tie-Front Cotton Peplum Top and Maxi Skirt Set in Chocolate Brown for Island Getaway & Sunset Walk,D260530001L,23
@@ -7201,11 +7149,9 @@ Scalloped Edge Pointelle Crochet Top and Shorts Set for Beach Vacation & Casual 
 Shell Cutwork Button-Up Vest and Mini Skirt Set for Vacations & Beach Strolls,D260530011XS,45
 Shell Cutwork Button-Up Vest and Mini Skirt Set for Vacations & Beach Strolls,D260530011S,37
 Shell Cutwork Button-Up Vest and Mini Skirt Set for Vacations & Beach Strolls,D260530011M,23
-Blushing Watercolor Floral Halter Neck Maxi Dress in Cream for Romantic Dinner Dates & Garden Picnics,D260530012S,23
 Blushing Watercolor Floral Halter Neck Maxi Dress in Cream for Romantic Dinner Dates & Garden Picnics,D260530012M,23
 Blushing Watercolor Floral Halter Neck Maxi Dress in Cream for Romantic Dinner Dates & Garden Picnics,D260530012L,23
 Blushing Watercolor Floral Halter Neck Maxi Dress in Green for Romantic Dinner Dates & Garden Picnics,D260530013M,23
-Blushing Watercolor Floral Halter Neck Maxi Dress in Green for Romantic Dinner Dates & Garden Picnics,D260530013L,23
 Garden Bloom Polka Dot Chiffon Maxi Dress for Sunset Strolls & Coastal Getaways,D260530014S-M,23
 Ethereal Bohemian Ruffle Neck Chiffon Maxi Dress for Tropical Getaways & Boho Beach Vacations,D260530015S-M,37
 Ethereal Bohemian Ruffle Neck Chiffon Maxi Dress for Tropical Getaways & Boho Beach Vacations,D260530015L-XL,23
@@ -7218,21 +7164,19 @@ Contrast Lace Applique Cami Maxi Dress in Khaki for Coastal Getaways & Outdoor B
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in Mustard for Resort Vacations & Daytime Occasions,D260602006S,23
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in Royal Blue for Resort Vacations & Daytime Occasions,D260602008M,23
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in Royal Blue for Resort Vacations & Daytime Occasions,D260602008XL,37
-Guipure Lace Crop Shirt and Tie-Waist Pants Set in Black for Resort Vacations & Daytime Occasions,D260602009S,23
-Guipure Lace Crop Shirt and Tie-Waist Pants Set in Black for Resort Vacations & Daytime Occasions,D260602009L,45
+Guipure Lace Crop Shirt and Tie-Waist Pants Set in Black for Resort Vacations & Daytime Occasions,D260602009L,37
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in White for Resort Vacations & Daytime Occasions,D260602010S,23
+Guipure Lace Crop Shirt and Tie-Waist Pants Set in White for Resort Vacations & Daytime Occasions,D260602010M,23
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in White for Resort Vacations & Daytime Occasions,D260602010L,37
-Guipure Lace Crop Shirt and Tie-Waist Pants Set in White for Resort Vacations & Daytime Occasions,D260602010XL,23
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in Pink for Resort Vacations & Daytime Occasions,D260602011S,23
-Guipure Lace Crop Shirt and Tie-Waist Pants Set in Pink for Resort Vacations & Daytime Occasions,D260602011M,23
+Guipure Lace Crop Shirt and Tie-Waist Pants Set in Pink for Resort Vacations & Daytime Occasions,D260602011M,37
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in Light Blue for Resort Vacations & Daytime Occasions,D260602012S,23
-Guipure Lace Crop Shirt and Tie-Waist Pants Set in Light Blue for Resort Vacations & Daytime Occasions,D260602012L,45
-Guipure Lace Crop Shirt and Tie-Waist Pants Set in Light Blue for Resort Vacations & Daytime Occasions,D260602012XL,37
+Guipure Lace Crop Shirt and Tie-Waist Pants Set in Light Blue for Resort Vacations & Daytime Occasions,D260602012L,37
+Guipure Lace Crop Shirt and Tie-Waist Pants Set in Light Blue for Resort Vacations & Daytime Occasions,D260602012XL,23
 Guipure Lace Crop Shirt and Tie-Waist Pants Set in Apricot for Resort Vacations & Daytime Occasions,D260602013M,45
 Guipure Lace Collar Crop Top and Pants Set in Pink for Tropical Vacations & Beach Getaways,D260602014S,45
 Guipure Lace Collar Crop Top and Pants Set in Pink for Tropical Vacations & Beach Getaways,D260602014L,23
 Guipure Lace Collar Crop Top and Pants Set in Pink for Tropical Vacations & Beach Getaways,D260602014XL,23
-Guipure Lace Collar Crop Top and Pants Set in Light Blue for Tropical Vacations & Beach Getaways,D260602015S,23
 Guipure Lace Collar Crop Top and Pants Set in Light Blue for Tropical Vacations & Beach Getaways,D260602015M,45
 Guipure Lace Collar Crop Top and Pants Set in Light Blue for Tropical Vacations & Beach Getaways,D260602015L,23
 Guipure Lace Collar Crop Top and Pants Set in Light Blue for Tropical Vacations & Beach Getaways,D260602015XL,37
@@ -7302,13 +7246,11 @@ Crochet 3D Rose Off-Shoulder Rib Knit Top in Black for Floral Exhibit & Sunset C
 Crochet 3D Rose Off-Shoulder Rib Knit Top in Black for Floral Exhibit & Sunset Cocktail,T260604012L-XL,37
 Crochet 3D Rose Off-Shoulder Rib Knit Top in Cream for Floral Exhibit & Sunset Cocktail,T260604013S-M,45
 Crochet 3D Rose Off-Shoulder Rib Knit Top in Cream for Floral Exhibit & Sunset Cocktail,T260604013L-XL,23
-Lilac Muse Watercolor Tie-Waist Chiffon Maxi Dress for Countryside Hiking & Art Opening,D260604014S-M,23
 Watercolor Blush Bouquet Tie-Waist Chiffon Maxi Dress for Manor Picnic & Floral Exhibition,D260604015S-M,23
 Victorian Garden Tie-Waist Chiffon Maxi Dress for Garden Tea Party & Wedding Guest Occasions,D260604016S-M,37
 Victorian Garden Tie-Waist Chiffon Maxi Dress for Garden Tea Party & Wedding Guest Occasions,D260604016L-XL,23
 Drawstring Waist Gathered Wide-Leg Pants in Cream for Casual Office & Weekend Vacation,B260604020S,23
 Drawstring Waist Gathered Wide-Leg Pants in Cream for Casual Office & Weekend Vacation,B260604020M,23
-Drawstring Waist Gathered Wide-Leg Pants in Cream for Casual Office & Weekend Vacation,B260604020XL,23
 Drawstring Waist Gathered Wide-Leg Pants in Nude Pink for Casual Office & Weekend Vacation,B260604021S,23
 Drawstring Waist Gathered Wide-Leg Pants in Nude Pink for Casual Office & Weekend Vacation,B260604021M,23
 Drawstring Waist Gathered Wide-Leg Pants in Nude Pink for Casual Office & Weekend Vacation,B260604021L,23
@@ -7344,7 +7286,6 @@ Breezy Pleats Elasticated Waist Maxi Skirt in Pastel Yellow for Garden Strolls &
 Breezy Pleats Elasticated Waist Maxi Skirt in Blue for Garden Strolls & Outdoor Events,B260606010XS-S,23
 Breezy Pleats Elasticated Waist Maxi Skirt in Sage Green for Garden Strolls & Outdoor Events,B260606011XS-S,23
 Breezy Pleats Elasticated Waist Maxi Skirt in Sage Green for Garden Strolls & Outdoor Events,B260606011M-L,23
-Breezy Pleats Elasticated Waist Maxi Skirt in Lilac for Garden Strolls & Outdoor Events,B260606012M-L,23
 Breezy Pleats Elasticated Waist Maxi Skirt in Mauve for Garden Strolls & Outdoor Events,B260606013XS-S,23
 Breezy Pleats Elasticated Waist Maxi Skirt in Mauve for Garden Strolls & Outdoor Events,B260606013M-L,23
 Breezy Pleats Elasticated Waist Maxi Skirt in White for Garden Strolls & Outdoor Events,B260606014XS-S,23
@@ -7353,25 +7294,22 @@ Folded Off-Shoulder Pointelle Knit Top in Black for Lakeside Picnic & Garden Vis
 Folded Off-Shoulder Pointelle Knit Top in Black for Lakeside Picnic & Garden Visit,T260606020M-L,23
 Folded Off-Shoulder Pointelle Knit Top in Cream for Lakeside Picnic & Garden Visit,T260606021XS-S,23
 Folded Off-Shoulder Pointelle Knit Top in Cream for Lakeside Picnic & Garden Visit,T260606021M-L,37
-Folded Off-Shoulder Pointelle Knit Top in Tan for Lakeside Picnic & Garden Visit,T260606022XS-S,37
+Folded Off-Shoulder Pointelle Knit Top in Tan for Lakeside Picnic & Garden Visit,T260606022XS-S,23
 Folded Off-Shoulder Pointelle Knit Top in Tan for Lakeside Picnic & Garden Visit,T260606022M-L,37
-Folded Off-Shoulder Pointelle Knit Top in Green for Lakeside Picnic & Garden Visit,T260606023XS-S,37
+Folded Off-Shoulder Pointelle Knit Top in Green for Lakeside Picnic & Garden Visit,T260606023XS-S,23
 Folded Off-Shoulder Pointelle Knit Top in Green for Lakeside Picnic & Garden Visit,T260606023M-L,23
 Lemon Print Crochet Trim Semi-Sheer Shirt for Picnic Dates & Holiday Getaways,T260609001XS-S,37
-Lemon Print Crochet Trim Semi-Sheer Shirt for Picnic Dates & Holiday Getaways,T260609001M-L,23
 Crochet Cutout Back Buttoned Hi-Lo Shirt in White for Sightseeing & Casual Outing,T260609002XS-S,37
 Crochet Cutout Back Buttoned Hi-Lo Shirt in White for Sightseeing & Casual Outing,T260609002M-L,37
 Crochet Cutout Back Buttoned Hi-Lo Shirt in Pink for Sightseeing & Casual Outing,T260609003XS-S,45
 Crochet Cutout Back Buttoned Hi-Lo Shirt in Pink for Sightseeing & Casual Outing,T260609003M-L,23
-Bowknot Neck Rhinestone Organza Sheer Top in Light Pink for Romantic Date & Boutique Shopping,T260609004S,23
-Bowknot Neck Rhinestone Organza Sheer Top in Light Pink for Romantic Date & Boutique Shopping,T260609004M,23
 Bowknot Neck Rhinestone Organza Sheer Top in Light Blue for Romantic Date & Boutique Shopping,T260609005S,23
 Bowknot Neck Rhinestone Organza Sheer Top in Light Blue for Romantic Date & Boutique Shopping,T260609005M,23
 Bowknot Neck Rhinestone Organza Sheer Top in Light Blue for Romantic Date & Boutique Shopping,T260609005L,37
 Bowknot Neck Rhinestone Organza Sheer Top in Apricot for Romantic Date & Boutique Shopping,T260609006S,37
 Bowknot Neck Rhinestone Organza Sheer Top in Apricot for Romantic Date & Boutique Shopping,T260609006L,23
 Bowknot Neck Rhinestone Organza Sheer Top in Cream for Romantic Date & Boutique Shopping,T260609007S,37
-Bowknot Neck Rhinestone Organza Sheer Top in Cream for Romantic Date & Boutique Shopping,T260609007M,37
+Bowknot Neck Rhinestone Organza Sheer Top in Cream for Romantic Date & Boutique Shopping,T260609007M,23
 Bowknot Neck Rhinestone Organza Sheer Top in Cream for Romantic Date & Boutique Shopping,T260609007L,37
 Lace Inset V-Neck Linen-Blend Buttoned Top in Lime for Office Day & Lunch Date,T260609008S,37
 Lace Inset V-Neck Linen-Blend Buttoned Top in White for Office Day & Lunch Date,T260609009S,45
@@ -7415,7 +7353,7 @@ Refreshing Flowy Pleated Mesh Maxi Skirt in Cream for Tea Party & Garden Hangout
 Refreshing Flowy Pleated Mesh Maxi Skirt in Cream for Tea Party & Garden Hangout,B260609027M,23
 Refreshing Flowy Pleated Mesh Maxi Skirt in Cream for Tea Party & Garden Hangout,B260609027L,37
 Gorgeous Pleated Side Pocket Maxi Skirt in Black for Office Meeting & Business Lunch,B260609029S,37
-Gorgeous Pleated Side Pocket Maxi Skirt in Black for Office Meeting & Business Lunch,B260609029M,37
+Gorgeous Pleated Side Pocket Maxi Skirt in Black for Office Meeting & Business Lunch,B260609029M,23
 Gorgeous Pleated Side Pocket Maxi Skirt in Black for Office Meeting & Business Lunch,B260609029L,37
 Gorgeous Pleated Side Pocket Maxi Skirt in Brown for Office Meeting & Business Lunch,B260609030S,23
 Gorgeous Pleated Side Pocket Maxi Skirt in Brown for Office Meeting & Business Lunch,B260609030M,37
@@ -7441,9 +7379,13 @@ Refined Guipure Lace Crop Top and Midi Skirt Set in White for Bridal Brunch & Te
 Refined Guipure Lace Crop Top and Midi Skirt Set in White for Bridal Brunch & Tea Party,D260611016M,23
 Refined Guipure Lace Crop Top and Midi Skirt Set in White for Bridal Brunch & Tea Party,D260611016L,23
 Refined Guipure Lace Crop Top and Midi Skirt Set in Yellow for Bridal Brunch & Tea Party,D260611017S,37
+Refined Guipure Lace Crop Top and Midi Skirt Set in Yellow for Bridal Brunch & Tea Party,D260611017M,37
 Refined Guipure Lace Crop Top and Midi Skirt Set in Yellow for Bridal Brunch & Tea Party,D260611017L,23
 Refined Guipure Lace Crop Top and Midi Skirt Set in Hot Pink for Bridal Brunch & Tea Party,D260611018S,37
 Refined Guipure Lace Crop Top and Midi Skirt Set in Hot Pink for Bridal Brunch & Tea Party,D260611018M,23
+Refined Guipure Lace Crop Top and Midi Skirt Set in Hot Pink for Bridal Brunch & Tea Party,D260611018L,37
+Refined Guipure Lace Crop Top and Midi Skirt Set in Lavender Blue for Bridal Brunch & Tea Party,D260611019S,23
+Refined Guipure Lace Crop Top and Midi Skirt Set in Lavender Blue for Bridal Brunch & Tea Party,D260611019M,23
 Mesh Panel Ruched Waist Sleeveless Maxi Dress in Black for Vacation Evenings & Cocktail Events,D260611020S,37
 Mesh Panel Ruched Waist Sleeveless Maxi Dress in Black for Vacation Evenings & Cocktail Events,D260611020M,45
 Mesh Panel Ruched Waist Sleeveless Maxi Dress in Red for Vacation Evenings & Cocktail Events,D260611021S,37
@@ -7459,12 +7401,11 @@ Baroque Lace Crochet Button-Up Belted Midi Dress for City Stroll & Bridal Brunch
 Baroque Lace Crochet Button-Up Belted Midi Dress for City Stroll & Bridal Brunch,D260611025S,23
 Baroque Lace Crochet Button-Up Belted Midi Dress for City Stroll & Bridal Brunch,D260611025L,23
 Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Cream for Romantic Date & Floral Market,D260611026XS,23
-Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Cream for Romantic Date & Floral Market,D260611026S,37
+Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Cream for Romantic Date & Floral Market,D260611026S,23
 Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Yellow for Romantic Date & Floral Market,D260611027XS,45
 Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Yellow for Romantic Date & Floral Market,D260611027S,37
-Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Blue for Romantic Date & Floral Market,D260611028XS,45
-Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Blue for Romantic Date & Floral Market,D260611028S,23
-Impressionist Garden Puff Sleeve Ruffle Chiffon Maxi Dress for Afternoon Tea & Garden Party,D260611029S-M,37
+Ladylike Lace Overlay Spaghetti Strap Maxi Dress in Blue for Romantic Date & Floral Market,D260611028XS,37
+Impressionist Garden Puff Sleeve Ruffle Chiffon Maxi Dress for Afternoon Tea & Garden Party,D260611029S-M,23
 Impressionist Garden Puff Sleeve Ruffle Chiffon Maxi Dress for Afternoon Tea & Garden Party,D260611029L-XL,23
 Floral Knitted Lace Puff Sleeves Tie-Waist Maxi Dress in Red for Dinner Gatherings & Celebrations,D260611031S,23
 Floral Knitted Lace Puff Sleeves Tie-Waist Maxi Dress in Red for Dinner Gatherings & Celebrations,D260611031M,23
@@ -7487,7 +7428,6 @@ Ditsy Floral Ruffle Hem Wrap Maxi Dress in Red for Market Strolls & Picnics,D260
 Ditsy Floral Ruffle Hem Wrap Maxi Dress in Ivory for Market Strolls & Picnics,D260613003S,37
 Ditsy Floral Ruffle Hem Wrap Maxi Dress in Ivory for Market Strolls & Picnics,D260613003M,23
 Ditsy Floral Ruffle Hem Wrap Maxi Dress in Royal Blue for Market Strolls & Picnics,D260613004S,37
-Polka Dot Lace-Inset Tie-String Maxi Dress in Ivory for Afternoon Tea & Date Night,D260613005S,23
 Polka Dot Lace-Inset Tie-String Maxi Dress in Ivory for Afternoon Tea & Date Night,D260613005M,23
 Polka Dot Lace-Inset Tie-String Maxi Dress in Navy for Afternoon Tea & Date Night,D260613006S,37
 Polka Dot Lace-Inset Tie-String Maxi Dress in Navy for Afternoon Tea & Date Night,D260613006M,23
@@ -7497,7 +7437,7 @@ Abstract Print Tie-Waist Wrap Midi Dress for Vacation Stroll & Coastal Bistro,D2
 Abstract Print Tie-Waist Wrap Midi Dress for Vacation Stroll & Coastal Bistro,D260613008M,23
 Abstract Print Tie-Waist Wrap Midi Dress for Vacation Stroll & Coastal Bistro,D260613008L,23
 Painterly Floral Rosette Ruffled Chiffon Maxi Dress in Blue for Winery Tours & Countryside Strolls,D260613009S,23
-Painterly Floral Rosette Ruffled Chiffon Maxi Dress in Blue for Winery Tours & Countryside Strolls,D260613009M,37
+Painterly Floral Rosette Ruffled Chiffon Maxi Dress in Blue for Winery Tours & Countryside Strolls,D260613009M,23
 Painterly Floral Rosette Ruffled Chiffon Maxi Dress in Blue for Winery Tours & Countryside Strolls,D260613009L,37
 Painterly Floral Rosette Ruffled Chiffon Maxi Dress in Brown for Winery Tours & Countryside Strolls,D260613010S,23
 Painterly Floral Rosette Ruffled Chiffon Maxi Dress in Brown for Winery Tours & Countryside Strolls,D260613010M,37
@@ -7506,13 +7446,10 @@ Scalloped Embroidery Floral Cutwork Top and Maxi Skirt Set in Hot Pink for Bouti
 Scalloped Embroidery Floral Cutwork Top and Maxi Skirt Set in Hot Pink for Boutique Shopping & City Stroll,D260613011M-L,37
 Scalloped Embroidery Floral Cutwork Top and Maxi Skirt Set in White for Boutique Shopping & City Stroll,D260613013XS-S,23
 Serene Floral Grid Lace Sleeveless Top and Maxi Skirt Set in Black for Outdoor Weddings & Vacation Getaways,D260613014XS,23
-Serene Floral Grid Lace Sleeveless Top and Maxi Skirt Set in Yellow for Outdoor Weddings & Vacation Getaways,D260613015XS,23
-Serene Floral Grid Lace Sleeveless Top and Maxi Skirt Set in Light Blue for Outdoor Weddings & Vacation Getaways,D260613016S,23
 Serene Floral Grid Lace Sleeveless Top and Maxi Skirt Set in Light Blue for Outdoor Weddings & Vacation Getaways,D260613016M,23
-Serene Floral Grid Lace Sleeveless Top and Maxi Skirt Set in Light Blue for Outdoor Weddings & Vacation Getaways,D260613016L,23
 Serene Floral Grid Lace Sleeveless Top and Maxi Skirt Set in Magenta for Outdoor Weddings & Vacation Getaways,D260613017XS,23
-3D Sculpted Wire Bloom Earrings for Cocktail Parties & Evening Dinners,G260613018ONE-SIZE,37
-Wire Petals and Branch Drop Earrings for Cocktail Parties & Romantic Dinners,G260613019ONE-SIZE,45
+3D Sculpted Wire Bloom Earrings for Cocktail Parties & Evening Dinners,G260613018ONE-SIZE,23
+Wire Petals and Branch Drop Earrings for Cocktail Parties & Romantic Dinners,G260613019ONE-SIZE,37
 Seahorse Baroque Pearl Shell Drop Earrings for Beach Weddings & Vacation Looks,G260613020ONE-SIZE,45
 Coral Branch Baroque Pearl Drop Earrings for Beach Walks & Gallery Events,G260613021ONE-SIZE,37
 Pearl Coral Branch Disc Earrings for Resort Dinners & Holidays,G260613022ONE-SIZE,45
@@ -7572,7 +7509,7 @@ Poised Pleated Rib Knit Maxi Skirt in Lavender for Office Day & Casual Gathering
 Poised Pleated Rib Knit Maxi Skirt in Khaki for Office Day & Casual Gathering,B260616025XS-S,23
 Tiered Lace Scalloped Hem Chiffon Maxi Skirt in Black for Bridal Showers & Garden Parties,B260616026XS-S,23
 Tiered Lace Scalloped Hem Chiffon Maxi Skirt in Taupe for Bridal Showers & Garden Parties,B260616027XS-S,37
-Tiered Lace Scalloped Hem Chiffon Maxi Skirt in Taupe for Bridal Showers & Garden Parties,B260616027M-L,37
+Tiered Lace Scalloped Hem Chiffon Maxi Skirt in Taupe for Bridal Showers & Garden Parties,B260616027M-L,23
 Tiered Lace Scalloped Hem Chiffon Maxi Skirt in Light Yellow for Bridal Showers & Garden Parties,B260616028XS-S,37
 Tiered Lace Scalloped Hem Chiffon Maxi Skirt in Light Yellow for Bridal Showers & Garden Parties,B260616028M-L,45
 Pretty Bowknot Embroidered Sequin Mesh Midi Skirt in Light Pink for Afternoon Tea & Bridal Showers,B260616030XS-S,23
@@ -7585,7 +7522,7 @@ Diagonal Zip Fly Belted Wide Leg Pants in White for Workdays & Vacations,B260618
 Diagonal Zip Fly Belted Wide Leg Pants in White for Workdays & Vacations,B260618003L,37
 Diagonal Zip Fly Belted Wide Leg Pants in Oatmeal for Workdays & Vacations,B260618004S,23
 Diagonal Zip Fly Belted Wide Leg Pants in Oatmeal for Workdays & Vacations,B260618004M,37
-Diagonal Zip Fly Belted Wide Leg Pants in Oatmeal for Workdays & Vacations,B260618004L,37
+Diagonal Zip Fly Belted Wide Leg Pants in Oatmeal for Workdays & Vacations,B260618004L,23
 Chain Belt High-Waist Crinkle Maxi Skirt in Black for Beach Holidays & City Walks,B260618005S-M,23
 Chain Belt High-Waist Crinkle Maxi Skirt in Ivory for Beach Holidays & City Walks,B260618006S-M,23
 Chain Belt High-Waist Crinkle Maxi Skirt in Taupe for Beach Holidays & City Walks,B260618007S-M,23
